@@ -13,9 +13,9 @@
 
     **T** = **1xT<sub>0</sub> + 2×T<sub>1</sub> + 4×T<sub>2</sub> + 5×T<sub>3</sub> / 12**
 
-    El promedio de las actividades sumativas corresponderá al promedio de las 3 mejores notas:
+    El promedio de las actividades sumativas (**ACS**) corresponderá al promedio de las 3 mejores notas:
 
-    **AC** = ((**AC<sub>2</sub> + AC<sub>5</sub> + AC<sub>9</sub> + AC<sub>10</sub>**) - min(ACs)) / 3
+    **AC** = ((**ACS<sub>1</sub> + ACS<sub>2</sub> + ACS<sub>3</sub> + ACS<sub>4</sub>**) - **min(ACS)**) / 3
 
 
 2.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
