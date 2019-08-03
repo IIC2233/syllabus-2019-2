@@ -26,7 +26,7 @@
 1. Si el alumno cumple con las condiciones anteriores, entonces **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 1. La inasistencia a alguna de las evaluaciones (actividad) se evalúa con nota 1.0.
 1. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
-1. Las notas de todas las evaluaciónes se publicarán en [esta planilla](https://docs.google.com/spreadsheets/d/1S2naGLsxqNCj9hqhTV7roZbYrbIpCXJrxCTnkpdK4rM/edit?usp=sharing). Solo se puede acceder con cuenta UC, no se dará acceso a ninguna otra cuenta.
+1. Las notas de todas las evaluaciónes se publicarán en [esta planilla](https://docs.google.com/spreadsheets/d/1uCscFkTf8iTBrdsFHrWAS4I5Gu1B_IZNKQ7OBk1ukqM/edit?usp=sharing). Solo se puede acceder con cuenta UC, no se dará acceso a ninguna otra cuenta.
 
 # Recorrección
 
