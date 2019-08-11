@@ -33,7 +33,7 @@ def print_tablero_sin_utf8(tablero):
     tablero = [[str(x) if isinstance(x, int) else x for x in y] for y in tablero]
 
     columnas = ' ' * 4
-    for indice in 'ABCDEFGHIJKLMOPQRSTUVWXYZ'[:m]:
+    for indice in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'[:m]:
         columnas += f' {indice}'
 
     print(columnas)
