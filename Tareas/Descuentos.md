@@ -10,7 +10,7 @@ Donde:
 * `descuento_por_usar_algo_prohibido` es el descuento asociado a utilizar alguna librería o `Built-in` no autorizado. Tal como dice en cada enunciado de tarea, no se permite ninguna librería a no ser que nosotros especifiquemos lo contrario. El descuento puede ir desde 1 décima a 5 décimas dependiendo del tipo de librería prohibida utilizada.
 
 ## PEP8 (hasta 4 décimas) :pencil2: 
-PEP8 es el estándar que se utiliza para programar en `Python` :snake:, por lo que es importante que se sigan las convenciones. Todo tipo de detalle sobre estas convenciones se encuentran en la [guía de estilo](https://github.com/IIC2233/contenidos-2019-2/blob/master/semana-01/1-guía-de-estilo.ipynb).
+PEP8 es el estándar que se utiliza para programar en `Python` :snake:, por lo que es importante que se sigan las convenciones. Todo tipo de detalle sobre estas convenciones se encuentran en la [guía de estilo](https://github.com/IIC2233/contenidos/blob/master/semana-01/1-gu%C3%ADa-de-estilo.ipynb).
 
 De los cuales sólo se verificarán:
 1. No exceder el máximo de **100** caracteres **por línea**.
@@ -18,7 +18,7 @@ De los cuales sólo se verificarán:
 3. Uso adecuado de CamelCase y snake_case.
 4. Espacio después de la coma (",").
 5. Uso de espacios para indentación y **no** de tabulaciones. 
-6. Utilizar correctamente los `import` (no hacer `import *`). Para más información de cómo importar archivos revisar [los contenido del curso](https://github.com/IIC2233/contenidos-2019-2/blob/master/semana-01/2-modularización.ipynb).
+6. Utilizar correctamente los `import` (no hacer `import *`). Para más información de cómo importar archivos revisar [los contenido del curso](https://github.com/IIC2233/contenidos/blob/master/semana-01/2-modularizaci%C3%B3n.ipynb).
 
 La cantidad de décimas a descontar será la siguiente (acorde a lo establecido arriba):
 - **2 décimas** si no se cumple _sólo_ 1
