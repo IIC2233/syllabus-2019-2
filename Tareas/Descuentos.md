@@ -40,7 +40,7 @@ Se descuentan **5 décimas** si uno o más archivos exceden las **600** líneas 
 ## Formato de entrega (hasta 5 décimas) :inbox_tray: 
  1. Lenguaje vulgar (groserías) o inapropiado para el curso.
  2. Nombres o extensiones de archivos no explícitos ni declarativos.
- 3. Utilizar _paths_ absolutos en una tarea en vez de _paths_ relativos. Para más información revisar [los contenidos del curso](https://github.com/IIC2233/contenidos-2019-2/blob/master/semana-01/3-paths.ipynb).
+ 3. Utilizar _paths_ absolutos en una tarea en vez de _paths_ relativos. Para más información revisar [los contenidos del curso](https://github.com/IIC2233/contenidos/blob/master/semana-01/3-paths.ipynb).
  4. No respetar lo solicitado en el enunciado, o detallado en las issues.
  5. Utilizar código de internet sin citar. 
  
