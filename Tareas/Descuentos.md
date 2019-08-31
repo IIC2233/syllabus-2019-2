@@ -34,7 +34,7 @@ Si no se indica(n) los archivos principales que son necesarios para ejecutar la 
 
 ## Modularización (5 décimas) :package: 
 
-Se descuentan **5 décimas** si uno o más archivos exceden las **600** líneas de código.
+Se descuentan **5 décimas** si uno o más archivos exceden las **400** líneas de código.
 
 
 ## Formato de entrega (hasta 5 décimas) :inbox_tray: 
@@ -59,6 +59,9 @@ Este descuento sólo se aplica si en el enunciado de la tarea se especifica que 
 
 ## Adicionales (hasta 5 décimas) :information_source:
 Dependiendo de cómo esté hecha la tarea, el ayudante se puede topar con múltiples inconvenientes que impidan la corrección de la tarea o le dificulten en gran medida la revisión de esta. Es por esto que puede aplicar el descuento que considere apropiado para la situación en la que se encuentre de ser justificado.
+
+## Malas prácticas (5 décimas) :x:
+Si se encuentran malas prácticas en el código de la tarea, como el uso de variables globales, será penalizado. Cualquier duda con este descuento, haga una _issue_.
 
 ## Des-descuento (hasta 5 décimas) :tada:
 
