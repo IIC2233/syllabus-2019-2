@@ -1,0 +1,49 @@
+1;;10
+2;fdoflorenzano;0
+2;mpbosnic;0
+2;etamburini;0
+2;javieralyon;0
+2;jjaubele;0
+2;enzoyacometti;0
+2;cbtoledo;0
+2;Corubio;0
+2;vperez2;0
+2;igbasly;0
+2;Mjvarela;0
+2;sufigueroa;0
+3;Shawn Mendes;5
+3;Bad Bunny;6
+3;Lady Gaga;10
+3;Anuel AA;3
+3;Miranda;5
+3;Avicii;6
+3;Shakira;10
+3;Ha*Ash;5
+3;Years & Years;10
+3;Michael Jackson;7
+3;Kendrick Lamar;5
+3;Jonas Brothers;5
+3;Miguel Bosé;10
+3;DNCE;5
+4;Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio;0
+4;Señorita;0
+4;Yo x Ti. Tu x Mi;0
+4;Shake It Off;0
+4;Titanium (feat. Sia);0
+4;Take Shelter;0
+4;King;0
+4;Desire - Gryffin Remix;0
+4;Con Altura;0
+4;Sanctify;0
+4;Take Me Back;0
+4;Summertime Blues;0
+4;99 Luftballons;0
+4;Somebody That I Used To Know;0
+4;Ik Ben Verliefd Op Jou;0
+4;Shape of You (feat. Zion & Lennox) - Latin Remix;0
+4;Tears;0
+4;ME! (feat. Brendon Urie of Panic! At The Disco);0
+4;Too Good At Goodbyes - Acoustic;0
+4;Counting Stars;0
+4;Te Boté - Remix;0
+4;Lost On You;0
