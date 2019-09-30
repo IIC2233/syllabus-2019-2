@@ -10,4 +10,4 @@ PATH_SPRITES_CHOCLOS = os.path.join("sprites", "cultivos", "choclo")
 TIEMPO_ALCACHOFAS = 60
 FASES_ALCACHOFAS = 6
 COSECHA_ALCACHOFAS = 1
-PATH_SPRITES_ALCACHOFAS = os.path.join("sprites", "cultivos", "alcachofas")
+PATH_SPRITES_ALCACHOFAS = os.path.join("sprites", "cultivos", "alcachofa")
