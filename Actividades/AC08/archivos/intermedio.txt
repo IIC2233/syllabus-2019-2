@@ -16,7 +16,7 @@
 16,affectedCake,7;25;22;8
 17,aloofSyrup,6
 18,sheepishTortoise,15;17
-19,aboardMackere,l8;9
+19,aboardMackere,18;9
 20,guiltyBittern9,2;15;6;3;21
 21,carloto48,23;8;17
 22,fattyLerry,11;14
