@@ -4,7 +4,6 @@ client.py -- un simple cliente
 
 import pickle
 from socket import socket, SHUT_RDWR
-from PyQt5.QtCore import QRect
 
 HOST = '127.0.0.1'
 

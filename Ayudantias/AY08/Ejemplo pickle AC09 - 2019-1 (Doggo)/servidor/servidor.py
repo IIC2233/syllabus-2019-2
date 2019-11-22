@@ -5,7 +5,6 @@ import pickle
 from socket import socket
 import os
 
-from PyQt5.QtCore import QRect
 
 HOST = '127.0.0.1'
 
@@ -36,6 +35,7 @@ class Servidor:
             print("¡Un cliente se ha conectado!")
             while self.cliente:
                 comando = pickle.loads(self.receive())
+                print(comando)
                 if comando == 'descargar':
                     self.enviar_archivo('doggo.jpg')
                 elif comando == 'ls':
@@ -60,8 +60,9 @@ class Servidor:
         message = bytearray()
         while numero_de_bytes > 0:
             largo_por_recibir = min(numero_de_bytes, 2048)
-            message.extend(self.socket.recv(largo_por_recibir))
+            message.extend(self.cliente.recv(largo_por_recibir))
             numero_de_bytes -= 2048
+        print(message)
         return message
 
     def lista_directorio(self):
