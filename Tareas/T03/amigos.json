@@ -1,0 +1,143 @@
+{
+    "1": [
+        "bimartinez",
+        "Vampiro",
+        "Nhorellana"
+    ],
+    "2": [
+        "NevadaStreets",
+        "jaromero6",
+        "fdoflorenzano"
+    ],
+    "4": [
+        "DCCollao",
+        "Kawatron3_0"
+    ],
+    "5": [
+        "Vampiro",
+        "5",
+        "Mati_Oprts",
+        "Nhorellana"
+    ],
+    "6": [
+        "Drpinto",
+        "Nhorellana"
+    ],
+    "Drpinto": [
+        "Meguru",
+        "6",
+        "StroveLight",
+        "terminator",
+        "tomasgv"
+    ],
+    "StroveLight": [
+        "harrison jones",
+        "Dnpoblete",
+        "terminator",
+        "Drpinto"
+    ],
+    "terminator": [
+        "gatochico",
+        "StroveLight",
+        "Drpinto"
+    ],
+    "bimartinez": [
+        "Vampiro",
+        "1",
+        "Meguru"
+    ],
+    "Vampiro": [
+        "5",
+        "1",
+        "bimartinez",
+        "lily416",
+        "fdoflorenzano"
+    ],
+    "Kawatron3_0": [
+        "gatochico",
+        "4"
+    ],
+    "Nhorellana": [
+        "1",
+        "lily416",
+        "5",
+        "6"
+    ],
+    "lily416": [
+        "Vampiro",
+        "jaromero6",
+        "Nhorellana"
+    ],
+    "harrison jones": [
+        "Esmach98",
+        "StroveLight",
+        "DCCollao"
+    ],
+    "Jorshitc_": [
+        "NevadaStreets"
+    ],
+    "NevadaStreets": [
+        "Jorshitc_",
+        "2"
+    ],
+    "Dnpoblete": [
+        "Sufigueroa",
+        "StroveLight"
+    ],
+    "Sufigueroa": [
+        "Dnpoblete"
+    ],
+    "Meguru": [
+        "bimartinez",
+        "jeschuwirth",
+        "Drpinto"
+    ],
+    "gatochico": [
+        "terminator",
+        "JavOchito",
+        "Kawatron3_0"
+    ],
+    "jaromero6": [
+        "2",
+        "lily416"
+    ],
+    "fdoflorenzano": [
+        "2",
+        "Vampiro"
+    ],
+    "Esmach98": [
+        "harrison jones",
+        "roberto009"
+    ],
+    "roberto009": [
+        "Esmach98"
+    ],
+    "DCCollao": [
+        "harrison jones",
+        "jeschuwirth",
+        "4"
+    ],
+    "jeschuwirth": [
+        "Meguru",
+        "DCCollao"
+    ],
+    "3nz1nat0r": [
+        "Mati_Oprts"
+    ],
+    "Mati_Oprts": [
+        "3nz1nat0r",
+        "5"
+    ],
+    "JavOchito": [
+        "gatochico"
+    ],
+    "an_tonioj": [
+        "Enzini"
+    ],
+    "Enzini": [
+        "an_tonioj"
+    ],
+    "tomasgv": [
+        "Drpinto"
+    ]
+}
