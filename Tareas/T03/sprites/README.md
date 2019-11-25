@@ -8,3 +8,6 @@
 1. ## Personajes
     Obtenidos de:
     - "Toon Characters 1" de [Kenney](https://www.kenney.nl/assets/toon-characters-1).
+
+1. ## Logo
+    Creado con cariño por sus ayudantes. :heart::penguin:
