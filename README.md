@@ -2,7 +2,8 @@
 
 * [Versión inicial](https://github.com/IIC2233/syllabus/tree/9b8008f5f121cb9238ac823a2ff9a027371db11b) (3 de agosto)
 * [Actualización 30/10](https://github.com/IIC2233/syllabus/tree/ba07be83eefa94df567652058f5b1293a26b5714): Actualización del cálculo del promedio ponderado de actividades en clases (**AC**) y creación de la **actividad recuperativa (AR)** y alternativas a la tercera actividad sumativa
-* Actualización 13/11: Actualización del cálculo del promedio ponderado de las tareas (**T**) y se agrega código para explicar cálculo de notas
+* [Actualización 13/11](https://github.com/IIC2233/syllabus/commit/c7195342a914e11edbcc011c94eaaca4c3c478c0): Actualización del cálculo del promedio ponderado de las tareas (**T**) y se agrega código para explicar cálculo de notas
+* Actualización 25/11: Se explica cómo se consideran las décimas extra en la nota de actividades en clases (**AC**)
 
 ## Evaluación
 
@@ -61,14 +62,17 @@
 
    quedando **ACS<sub>3</sub> = MAX(XACS, AR)** y calculando la nota **AC** como se hacía originalmente (**AC** = ((**ACS<sub>1</sub> + ACS<sub>2</sub> + ACS<sub>3</sub> + ACS<sub>4</sub>**) - **min(ACS)**) / 3).
 
+   Las décimas obtenidas por las actividades formativas se suman a la nota más alta de las actividades sumativas y solo después de haber calculado **XACS**.
+
    Para entender cómo calcularemos tu nota puedes utilizar el siguiente código:
 
    ```python
    # Escribe aqui tus notas/posibles notas
-   ACS1 = 3.57
-   ACS2 = 5.56
-   ACS4 = 4.85
-   AR = 6.25
+   ACS1 = 3.57  # Actividad sumativa 1 (AC02)
+   ACS2 = 5.56  # Actividad sumativa 2 (AC05)
+   ACS4 = 4.85  # Actividad sumativa 4 (AC10)
+   AR = 6.25  # Actividad recuperativa
+   DEC_ACF = 6  # Décimas actividades formativas
    
    if __name__ == '__main__':
        # Promedio actividades
@@ -77,8 +81,15 @@
        # Nota de la actividad sumativa reemplazada (ACS3)
        ACS3 = max(XACS, AR)
    
-       # Promedio eliminando la peor nota
+       # Hacemos una lista con las notas que se tienen
        notas = [ACS1, ACS2, ACS3, ACS4]
+   
+       # Sumamos las décimas a la mejor nota
+       # (después de haber calculado XACS)
+       max_ac = max(notas)
+       notas[notas.index(max_ac)] = max_ac + (DEC_ACF / 10)
+   
+       # Promedio eliminando la peor nota
        AC = round((sum(notas) - min(notas)) / 3, 2)
    
        print(f"Tu promedio de actividades es: {AC}")
