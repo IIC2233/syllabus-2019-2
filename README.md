@@ -13,8 +13,6 @@
 
     Donde **T** es el promedio ponderado de las tareas y **AC** es el promedio de las actividades en clases.
 
-
-
 2.  El **promedio ponderado de las tareas (T)** se calculará eliminando de la ponderación la tarea que perjudique más tu promedio. Para esto puedes probar calculando todos tus promedios posibles (es decir, tu nota original, luego sin la T0, sin la T1, y así) y quedandote con la mejor nota. Para entender cómo calcularemos tu nota puedes utilizar el siguiente código:
     
     ```python
@@ -76,7 +74,7 @@
    
    if __name__ == '__main__':
        # Promedio actividades
-       XACS = round((ACS1 + ACS2 + ACS4) / 3)
+       XACS = round((ACS1 + ACS2 + ACS4) / 3, 2)
    
        # Nota de la actividad sumativa reemplazada (ACS3)
        ACS3 = max(XACS, AR)
