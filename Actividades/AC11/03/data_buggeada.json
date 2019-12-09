@@ -1,0 +1,5588 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Ivysaur",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Venusaur",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Charmander",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Charmeleon",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Charizard",
+        "tipo": [
+            "Fuego",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Squirtle",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Wartortle",
+        "tipo": [
+            "Agua",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Blastoise",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Caterpie",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Metapod",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Butterfree",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Weedle",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Kakuna",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Beedrill",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Pidgey",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 17,
+        "nombre": "Pidbugtto",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 18,
+        "nombre": "Pidgeot",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 19,
+        "nombre": "Rattata",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 20,
+        "nombre": "Raticate",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 21,
+        "nombre": "Spearow",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 22,
+        "nombre": "Fearow",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 23,
+        "nombre": "Ekans",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 24,
+        "nombre": "Bugok",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 25,
+        "nombre": "Pikachu",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 26,
+        "nombre": "Raichu",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 27,
+        "nombre": "Sandshrew",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 28,
+        "nombre": "Sandslash",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 29,
+        "nombre": "Nidoran♀",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 30,
+        "nombre": "Nidorina",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 31,
+        "nombre": "Nidoqueen",
+        "tipo": [
+            "Veneno",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 32,
+        "nombre": "Nidoran♂",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 33,
+        "nombre": "Nidorino",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 34,
+        "nombre": "Nidoking",
+        "tipo": [
+            "Veneno",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 35,
+        "nombre": "Clefairy",
+        "tipo": [
+            "Hada"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 36,
+        "nombre": "Clefable",
+        "tipo": [
+            "Hada",
+            "Hada"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 37,
+        "nombre": "Vulpix",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 38,
+        "nombre": "Ninetales",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 39,
+        "nombre": "Jigglypuff",
+        "tipo": [
+            "Normal",
+            "Hada"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 40,
+        "nombre": "Wigglytuff",
+        "tipo": [
+            "Normal",
+            "Hada"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 41,
+        "nombre": "Zubat",
+        "tipo": [
+            "Veneno",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 42,
+        "nombre": "Golbat",
+        "tipo": [
+            "Veneno",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 43,
+        "nombre": "Oddish",
+        "tipo": [
+            "Planta",
+            "Veneno",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 44,
+        "nombre": "Gloom",
+        "tipo": [
+            "Planta",
+            "Veneno",
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 45,
+        "nombre": "Vileplume",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 46,
+        "nombre": "Paras",
+        "tipo": [
+            "Bicho",
+            "Planta"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 47,
+        "nombre": "Bugasect",
+        "tipo": [
+            "Bicho",
+            "Planta",
+            "Acero",
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 48,
+        "nombre": "Venonat",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 49,
+        "nombre": "Venomoth",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 50,
+        "nombre": "Diglett",
+        "tipo": [
+            "Tierra",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 51,
+        "nombre": "Dugtrio",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 52,
+        "nombre": "Meowth",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 53,
+        "nombre": "Persian",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 54,
+        "nombre": "Psyduck",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 55,
+        "nombre": "Golduck",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 56,
+        "nombre": "Mankey",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 57,
+        "nombre": "Primeape",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 58,
+        "nombre": "Growlithe",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 59,
+        "nombre": "Arcbugne",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 60,
+        "nombre": "Poliwag",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 61,
+        "nombre": "Poliwhirl",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 62,
+        "nombre": "Poliwrath",
+        "tipo": [
+            "Agua",
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 63,
+        "nombre": "Abra",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 64,
+        "nombre": "Kadabra",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 65,
+        "nombre": "Alakazam",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 66,
+        "nombre": "Machop",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 67,
+        "nombre": "Machoke",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 68,
+        "nombre": "Machamp",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 69,
+        "nombre": "Bellsprout",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 70,
+        "nombre": "Weepinbell",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 71,
+        "nombre": "Victreebel",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 72,
+        "nombre": "Tentacool",
+        "tipo": [
+            "Agua",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 73,
+        "nombre": "Tentacruel",
+        "tipo": [
+            "Agua",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 74,
+        "nombre": "Geodude",
+        "tipo": [
+            "Roca",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 75,
+        "nombre": "Graveler",
+        "tipo": [
+            "Roca",
+            "Tierra",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 76,
+        "nombre": "Golem",
+        "tipo": [
+            "Roca",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 77,
+        "nombre": "Ponyta",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 78,
+        "nombre": "Rapidash",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 79,
+        "nombre": "Slowpoke",
+        "tipo": [
+            "Agua",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 80,
+        "nombre": "Slowbro",
+        "tipo": [
+            "Agua",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 81,
+        "nombre": "Magnemite",
+        "tipo": [
+            "Eléctrico",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 82,
+        "nombre": "Magneton",
+        "tipo": [
+            "Eléctrico",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 83,
+        "nombre": "Farfetbugd",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 84,
+        "nombre": "Doduo",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 85,
+        "nombre": "Dodrio",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 86,
+        "nombre": "Seel",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 87,
+        "nombre": "Dewgong",
+        "tipo": [
+            "Agua",
+            "Hielo",
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 88,
+        "nombre": "Grimer",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 89,
+        "nombre": "Muk",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 90,
+        "nombre": "Shellder",
+        "tipo": [
+            "Agua",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 91,
+        "nombre": "Cloyster",
+        "tipo": [
+            "Agua",
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 92,
+        "nombre": "Gastly",
+        "tipo": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 93,
+        "nombre": "Haunter",
+        "tipo": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 94,
+        "nombre": "Gengar",
+        "tipo": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 95,
+        "nombre": "Obug",
+        "tipo": [
+            "Roca",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 96,
+        "nombre": "Drowzee",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 97,
+        "nombre": "Hypno",
+        "tipo": [
+            "Psíquico",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 98,
+        "nombre": "Krabby",
+        "tipo": [
+            "Agua",
+            "Agua",
+            "Bicho",
+            "Acero",
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 99,
+        "nombre": "Kingler",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 100,
+        "nombre": "Voltorb",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 101,
+        "nombre": "Electrode",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 102,
+        "nombre": "Exeggcute",
+        "tipo": [
+            "Planta",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 103,
+        "nombre": "Exeggutor",
+        "tipo": [
+            "Planta",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 104,
+        "nombre": "Cubone",
+        "tipo": [
+            "Tierra",
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 105,
+        "nombre": "Marowak",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 106,
+        "nombre": "Hitmonlee",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 107,
+        "nombre": "Hitmonchan",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 108,
+        "nombre": "Lickitung",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 109,
+        "nombre": "Koffing",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 110,
+        "nombre": "Weezing",
+        "tipo": [
+            "Veneno",
+            "Veneno",
+            "Acero",
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 111,
+        "nombre": "Rhyhorn",
+        "tipo": [
+            "Tierra",
+            "Roca"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 112,
+        "nombre": "Rhydon",
+        "tipo": [
+            "Tierra",
+            "Roca"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 113,
+        "nombre": "Chansey",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 114,
+        "nombre": "Tangela",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 115,
+        "nombre": "Kangaskhan",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 116,
+        "nombre": "Horsea",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 117,
+        "nombre": "Seabug",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 118,
+        "nombre": "Goldeen",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 119,
+        "nombre": "Seaking",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 120,
+        "nombre": "Staryu",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 121,
+        "nombre": "Starmie",
+        "tipo": [
+            "Agua",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 122,
+        "nombre": "Mr. Mime",
+        "tipo": [
+            "Psíquico",
+            "Hada"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 123,
+        "nombre": "Scyther",
+        "tipo": [
+            "Bicho",
+            "Volador",
+            "Bicho",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 124,
+        "nombre": "Jynx",
+        "tipo": [
+            "Hielo",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 125,
+        "nombre": "Electabuzz",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 126,
+        "nombre": "Magmar",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 127,
+        "nombre": "Pinsir",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 128,
+        "nombre": "Tauros",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 129,
+        "nombre": "Magikarp",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 130,
+        "nombre": "Gyarados",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 131,
+        "nombre": "Lapras",
+        "tipo": [
+            "Agua",
+            "Hielo"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 132,
+        "nombre": "Ditto",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 133,
+        "nombre": "Eevee",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 134,
+        "nombre": "Vaporeon",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 135,
+        "nombre": "Jolteon",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 136,
+        "nombre": "Flareon",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 137,
+        "nombre": "Porygon",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 138,
+        "nombre": "Omanyte",
+        "tipo": [
+            "Roca",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 139,
+        "nombre": "Omastar",
+        "tipo": [
+            "Roca",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 140,
+        "nombre": "Kabuto",
+        "tipo": [
+            "Roca",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 141,
+        "nombre": "Kabutops",
+        "tipo": [
+            "Roca",
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 142,
+        "nombre": "Aerodactyl",
+        "tipo": [
+            "Roca",
+            "Volador",
+            "Bicho",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 143,
+        "nombre": "Snorlax",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 144,
+        "nombre": "Articuno",
+        "tipo": [
+            "Hielo",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 145,
+        "nombre": "Zapdos",
+        "tipo": [
+            "Eléctrico",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 146,
+        "nombre": "Moltres",
+        "tipo": [
+            "Fuego",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 147,
+        "nombre": "Dratini",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 148,
+        "nombre": "Dragonair",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 149,
+        "nombre": "Dragonite",
+        "tipo": [
+            "Dragón",
+            "Volador"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 150,
+        "nombre": "Mewtwo",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 151,
+        "nombre": "Mew",
+        "tipo": [
+            "Psíquico",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 152,
+        "nombre": "Chikorita",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 153,
+        "nombre": "Bayleef",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 154,
+        "nombre": "Meganium",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 155,
+        "nombre": "Cyndaquil",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 156,
+        "nombre": "Quilava",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 157,
+        "nombre": "Typhlosion",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 158,
+        "nombre": "Totodile",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 159,
+        "nombre": "Croconaw",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 160,
+        "nombre": "Feraligatr",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 161,
+        "nombre": "Sentret",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 162,
+        "nombre": "Furret",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 163,
+        "nombre": "Hoothoot",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 164,
+        "nombre": "Noctowl",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 165,
+        "nombre": "Bugyba",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 166,
+        "nombre": "Ledian",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 167,
+        "nombre": "Spinarak",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 168,
+        "nombre": "Ariados",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 169,
+        "nombre": "Crobat",
+        "tipo": [
+            "Veneno",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 170,
+        "nombre": "Chinchou",
+        "tipo": [
+            "Agua",
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 171,
+        "nombre": "Lanturn",
+        "tipo": [
+            "Agua",
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 172,
+        "nombre": "Pichu",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 173,
+        "nombre": "Cleffa",
+        "tipo": [
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 174,
+        "nombre": "Igglybuff",
+        "tipo": [
+            "Normal",
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 175,
+        "nombre": "Togepi",
+        "tipo": [
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 176,
+        "nombre": "Togetic",
+        "tipo": [
+            "Hada",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 177,
+        "nombre": "Natu",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 178,
+        "nombre": "Xatu",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 179,
+        "nombre": "Mareep",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 180,
+        "nombre": "Flaaffy",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 181,
+        "nombre": "Ampharos",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 182,
+        "nombre": "Bellossom",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 183,
+        "nombre": "Marill",
+        "tipo": [
+            "Agua",
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 184,
+        "nombre": "Azumarill",
+        "tipo": [
+            "Agua",
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 185,
+        "nombre": "Sudowoodo",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 186,
+        "nombre": "Politoed",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 187,
+        "nombre": "Hoppip",
+        "tipo": [
+            "Planta",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 188,
+        "nombre": "Skiploom",
+        "tipo": [
+            "Planta",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 189,
+        "nombre": "Jumpluff",
+        "tipo": [
+            "Planta",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 190,
+        "nombre": "Aipom",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 191,
+        "nombre": "Sunkern",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 192,
+        "nombre": "Sunflora",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 193,
+        "nombre": "Yanma",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 194,
+        "nombre": "Wooper",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 195,
+        "nombre": "Quagsire",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 196,
+        "nombre": "Espeon",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 197,
+        "nombre": "Umbreon",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 198,
+        "nombre": "Murkrow",
+        "tipo": [
+            "Siniestro",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 199,
+        "nombre": "Slowking",
+        "tipo": [
+            "Agua",
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 200,
+        "nombre": "Misdreavus",
+        "tipo": [
+            "Fantasma",
+            "Fantasma"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 201,
+        "nombre": "Bugwn",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 202,
+        "nombre": "Wobbuffet",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 203,
+        "nombre": "Girafarig",
+        "tipo": [
+            "Normal",
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 204,
+        "nombre": "Pineco",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 205,
+        "nombre": "Forretress",
+        "tipo": [
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 206,
+        "nombre": "Dunsparce",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 207,
+        "nombre": "Gligar",
+        "tipo": [
+            "Tierra",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 208,
+        "nombre": "Steelix",
+        "tipo": [
+            "Acero",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 209,
+        "nombre": "Snubbull",
+        "tipo": [
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 210,
+        "nombre": "Granbull",
+        "tipo": [
+            "Hada"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 211,
+        "nombre": "Qwilbugh",
+        "tipo": [
+            "Agua",
+            "Veneno"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 212,
+        "nombre": "Scizor",
+        "tipo": [
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 213,
+        "nombre": "Shuckle",
+        "tipo": [
+            "Bicho",
+            "Roca"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 214,
+        "nombre": "Heracross",
+        "tipo": [
+            "Bicho",
+            "Lucha"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 215,
+        "nombre": "Sneasel",
+        "tipo": [
+            "Siniestro",
+            "Hielo"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 216,
+        "nombre": "Teddiursa",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 217,
+        "nombre": "Ursaring",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 218,
+        "nombre": "Slugma",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 219,
+        "nombre": "Magcargo",
+        "tipo": [
+            "Fuego",
+            "Roca"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 220,
+        "nombre": "Swinub",
+        "tipo": [
+            "Hielo",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 221,
+        "nombre": "Piloswine",
+        "tipo": [
+            "Hielo",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 222,
+        "nombre": "Corsola",
+        "tipo": [
+            "Agua",
+            "Roca"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 223,
+        "nombre": "Remoraid",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 224,
+        "nombre": "Octillery",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 225,
+        "nombre": "Delibird",
+        "tipo": [
+            "Hielo",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 226,
+        "nombre": "Mantine",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 227,
+        "nombre": "Skarmory",
+        "tipo": [
+            "Acero",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 228,
+        "nombre": "Houndour",
+        "tipo": [
+            "Siniestro",
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 229,
+        "nombre": "Houndoom",
+        "tipo": [
+            "Siniestro",
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 230,
+        "nombre": "Kingdra",
+        "tipo": [
+            "Agua",
+            "Dragón"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 231,
+        "nombre": "Phanpy",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 232,
+        "nombre": "Donphan",
+        "tipo": [
+            "Tierra",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 233,
+        "nombre": "Porygon2",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 234,
+        "nombre": "Stantler",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 235,
+        "nombre": "Smeargle",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 236,
+        "nombre": "Tyrogue",
+        "tipo": [
+            "Lucha",
+            "Lucha"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 237,
+        "nombre": "Hitmontop",
+        "tipo": [
+            "Lucha",
+            "Lucha"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 238,
+        "nombre": "Smoochum",
+        "tipo": [
+            "Hielo",
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 239,
+        "nombre": "Elekid",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 240,
+        "nombre": "Magby",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 241,
+        "nombre": "Miltank",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 242,
+        "nombre": "Blissey",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 243,
+        "nombre": "Raikou",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 244,
+        "nombre": "Entei",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 245,
+        "nombre": "Suicune",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 246,
+        "nombre": "Larvitar",
+        "tipo": [
+            "Roca",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 247,
+        "nombre": "Pupitar",
+        "tipo": [
+            "Roca",
+            "Tierra"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 248,
+        "nombre": "Tyranitar",
+        "tipo": [
+            "Roca",
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 249,
+        "nombre": "Lugia",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 250,
+        "nombre": "Ho-oh",
+        "tipo": [
+            "Fuego",
+            "Volador"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 251,
+        "nombre": "Celebi",
+        "tipo": [
+            "Psíquico",
+            "Planta"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 252,
+        "nombre": "Treecko",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 253,
+        "nombre": "Grovyle",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 254,
+        "nombre": "Sceptile",
+        "tipo": [
+            "Planta",
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 255,
+        "nombre": "Torchic",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 256,
+        "nombre": "Cbugusken",
+        "tipo": [
+            "Fuego",
+            "Lucha"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 257,
+        "nombre": "Blaziken",
+        "tipo": [
+            "Fuego",
+            "Lucha"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 258,
+        "nombre": "Mudkip",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 259,
+        "nombre": "Marshtomp",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 260,
+        "nombre": "Swampert",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 261,
+        "nombre": "Poochbuga",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 262,
+        "nombre": "Mightyena",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 263,
+        "nombre": "Zigzagoon",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 264,
+        "nombre": "Linoone",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 265,
+        "nombre": "Wurmple",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 266,
+        "nombre": "Silcoon",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 267,
+        "nombre": "Beautifly",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 268,
+        "nombre": "Cascoon",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 269,
+        "nombre": "Dustox",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 270,
+        "nombre": "Lotad",
+        "tipo": [
+            "Agua",
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 271,
+        "nombre": "Lbugre",
+        "tipo": [
+            "Agua",
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 272,
+        "nombre": "Ludicolo",
+        "tipo": [
+            "Agua",
+            "Planta",
+            "Acero",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 273,
+        "nombre": "Seedot",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 274,
+        "nombre": "Nuzleaf",
+        "tipo": [
+            "Planta",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 275,
+        "nombre": "Shiftry",
+        "tipo": [
+            "Planta",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 276,
+        "nombre": "Taillow",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 277,
+        "nombre": "Swellow",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 278,
+        "nombre": "Wingull",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 279,
+        "nombre": "Pelipper",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 280,
+        "nombre": "Ralts",
+        "tipo": [
+            "Psíquico",
+            "Hada",
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 281,
+        "nombre": "Kirlia",
+        "tipo": [
+            "Psíquico",
+            "Hada",
+            "Acero",
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 282,
+        "nombre": "Gardevoir",
+        "tipo": [
+            "Psíquico",
+            "Hada",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 283,
+        "nombre": "Surskit",
+        "tipo": [
+            "Bicho",
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 284,
+        "nombre": "Masquerain",
+        "tipo": [
+            "Bicho",
+            "Volador",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 285,
+        "nombre": "Shroomish",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 286,
+        "nombre": "Breloom",
+        "tipo": [
+            "Planta",
+            "Lucha",
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 287,
+        "nombre": "Slakoth",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 288,
+        "nombre": "Vigoroth",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 289,
+        "nombre": "Slaking",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 290,
+        "nombre": "Nincada",
+        "tipo": [
+            "Bicho",
+            "Tierra",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 291,
+        "nombre": "Ninjask",
+        "tipo": [
+            "Bicho",
+            "Volador",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 292,
+        "nombre": "Shedinja",
+        "tipo": [
+            "Bicho",
+            "Fantasma"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 293,
+        "nombre": "Whismur",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 294,
+        "nombre": "Loudred",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 295,
+        "nombre": "Exploud",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 296,
+        "nombre": "Makuhita",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 297,
+        "nombre": "Hariyama",
+        "tipo": [
+            "Lucha",
+            "Lucha"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 298,
+        "nombre": "Azurill",
+        "tipo": [
+            "Normal",
+            "Hada"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 299,
+        "nombre": "Nosepass",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 300,
+        "nombre": "Skitty",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 301,
+        "nombre": "Delcatty",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 302,
+        "nombre": "Sableye",
+        "tipo": [
+            "Siniestro",
+            "Fantasma"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 303,
+        "nombre": "Mawile",
+        "tipo": [
+            "Acero",
+            "Hada"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 304,
+        "nombre": "Aron",
+        "tipo": [
+            "Acero",
+            "Roca"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 305,
+        "nombre": "Lairon",
+        "tipo": [
+            "Acero",
+            "Roca"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 306,
+        "nombre": "Aggron",
+        "tipo": [
+            "Acero",
+            "Roca"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 307,
+        "nombre": "Meditite",
+        "tipo": [
+            "Lucha",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 308,
+        "nombre": "Medicham",
+        "tipo": [
+            "Lucha",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 309,
+        "nombre": "Electrike",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 310,
+        "nombre": "Manectric",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 311,
+        "nombre": "Plusle",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 312,
+        "nombre": "Minun",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 313,
+        "nombre": "Volbeat",
+        "tipo": [
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 314,
+        "nombre": "Illumise",
+        "tipo": [
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 315,
+        "nombre": "Roselia",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 316,
+        "nombre": "Gulpin",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 317,
+        "nombre": "Swalot",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 318,
+        "nombre": "Carvanha",
+        "tipo": [
+            "Agua",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 319,
+        "nombre": "Sharpedo",
+        "tipo": [
+            "Agua",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 320,
+        "nombre": "Wailmer",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 321,
+        "nombre": "Wabugrd",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 322,
+        "nombre": "Numel",
+        "tipo": [
+            "Fuego",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 323,
+        "nombre": "Camerupt",
+        "tipo": [
+            "Fuego",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 324,
+        "nombre": "Torkoal",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 325,
+        "nombre": "Spoink",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 326,
+        "nombre": "Grumpig",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 327,
+        "nombre": "Spinda",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 328,
+        "nombre": "Trapinch",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 329,
+        "nombre": "Vibrava",
+        "tipo": [
+            "Tierra",
+            "Dragón"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 330,
+        "nombre": "Flygon",
+        "tipo": [
+            "Tierra",
+            "Dragón"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 331,
+        "nombre": "Cacnea",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 332,
+        "nombre": "Cacturne",
+        "tipo": [
+            "Planta",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 333,
+        "nombre": "Swablu",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 334,
+        "nombre": "Altabug",
+        "tipo": [
+            "Dragón",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 335,
+        "nombre": "Zangoose",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 336,
+        "nombre": "Seviper",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 337,
+        "nombre": "Lunatone",
+        "tipo": [
+            "Roca",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 338,
+        "nombre": "Solrock",
+        "tipo": [
+            "Roca",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 339,
+        "nombre": "Barboach",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 340,
+        "nombre": "Whiscash",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 341,
+        "nombre": "Corphish",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 342,
+        "nombre": "Crawdaunt",
+        "tipo": [
+            "Agua",
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 343,
+        "nombre": "Babugy",
+        "tipo": [
+            "Tierra",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 344,
+        "nombre": "Claydol",
+        "tipo": [
+            "Tierra",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 345,
+        "nombre": "Lileep",
+        "tipo": [
+            "Roca",
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 346,
+        "nombre": "Cradily",
+        "tipo": [
+            "Roca",
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 347,
+        "nombre": "Anorith",
+        "tipo": [
+            "Roca",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 348,
+        "nombre": "Armaldo",
+        "tipo": [
+            "Roca",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 349,
+        "nombre": "Feebas",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 350,
+        "nombre": "Milotic",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 351,
+        "nombre": "Castform",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 352,
+        "nombre": "Kecleon",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 353,
+        "nombre": "Shuppet",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 354,
+        "nombre": "Banette",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 355,
+        "nombre": "Duskull",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 356,
+        "nombre": "Dusclops",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 357,
+        "nombre": "Tropius",
+        "tipo": [
+            "Planta",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 358,
+        "nombre": "Chimbugo",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 359,
+        "nombre": "Absol",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 360,
+        "nombre": "Wynaut",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 361,
+        "nombre": "Snorunt",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 362,
+        "nombre": "Glalie",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 363,
+        "nombre": "Spbugl",
+        "tipo": [
+            "Hielo",
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 364,
+        "nombre": "Sealeo",
+        "tipo": [
+            "Hielo",
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 365,
+        "nombre": "Walrein",
+        "tipo": [
+            "Hielo",
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 366,
+        "nombre": "Clamperl",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 367,
+        "nombre": "Huntail",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 368,
+        "nombre": "Gorebyss",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 369,
+        "nombre": "Relicanth",
+        "tipo": [
+            "Agua",
+            "Roca"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 370,
+        "nombre": "Luvdisc",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 371,
+        "nombre": "Bagon",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 372,
+        "nombre": "Shelgon",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 373,
+        "nombre": "Salamence",
+        "tipo": [
+            "Dragón",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 374,
+        "nombre": "Beldum",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 375,
+        "nombre": "Metang",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 376,
+        "nombre": "Metagross",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 377,
+        "nombre": "Regirock",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 378,
+        "nombre": "Regice",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 379,
+        "nombre": "Registeel",
+        "tipo": [
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 380,
+        "nombre": "Latias",
+        "tipo": [
+            "Dragón",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 381,
+        "nombre": "Latios",
+        "tipo": [
+            "Dragón",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 382,
+        "nombre": "Kyogre",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 383,
+        "nombre": "Groudon",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 384,
+        "nombre": "Rayquaza",
+        "tipo": [
+            "Dragón",
+            "Volador",
+            "Bicho",
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 385,
+        "nombre": "Jirachi",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 386,
+        "nombre": "Deoxys",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 387,
+        "nombre": "Turtwig",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 388,
+        "nombre": "Grotle",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 389,
+        "nombre": "Torterra",
+        "tipo": [
+            "Planta",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 390,
+        "nombre": "Chimcbug",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 391,
+        "nombre": "Monferno",
+        "tipo": [
+            "Fuego",
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 392,
+        "nombre": "Infernape",
+        "tipo": [
+            "Fuego",
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 393,
+        "nombre": "Piplup",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 394,
+        "nombre": "Prinplup",
+        "tipo": [
+            "Agua",
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 395,
+        "nombre": "Empoleon",
+        "tipo": [
+            "Agua",
+            "Acero",
+            "Bicho",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 396,
+        "nombre": "Starly",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 397,
+        "nombre": "Staravia",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 398,
+        "nombre": "Staraptor",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 399,
+        "nombre": "Bidoof",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 400,
+        "nombre": "Bibarel",
+        "tipo": [
+            "Normal",
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 401,
+        "nombre": "Kricketot",
+        "tipo": [
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 402,
+        "nombre": "Krickbugne",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 403,
+        "nombre": "Shinx",
+        "tipo": [
+            "Eléctrico",
+            "Eléctrico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 404,
+        "nombre": "Luxio",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 405,
+        "nombre": "Luxray",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 406,
+        "nombre": "Budew",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 407,
+        "nombre": "Roserade",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 408,
+        "nombre": "Cranidos",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 409,
+        "nombre": "Rampardos",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 410,
+        "nombre": "Shieldon",
+        "tipo": [
+            "Roca",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 411,
+        "nombre": "Bastiodon",
+        "tipo": [
+            "Roca",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 412,
+        "nombre": "Burmy",
+        "tipo": [
+            "Bicho",
+            "Bicho"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 413,
+        "nombre": "Wormadam",
+        "tipo": [
+            "Bicho",
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 414,
+        "nombre": "Mothim",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 415,
+        "nombre": "Combee",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 416,
+        "nombre": "Vespiquen",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 417,
+        "nombre": "Pachirisu",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 418,
+        "nombre": "Buizel",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 419,
+        "nombre": "Floatzel",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 420,
+        "nombre": "Cherubi",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 421,
+        "nombre": "Cherrim",
+        "tipo": [
+            "Planta",
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 422,
+        "nombre": "Shellos",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 423,
+        "nombre": "Gastrodon",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 424,
+        "nombre": "Ambipom",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 425,
+        "nombre": "Drifloon",
+        "tipo": [
+            "Fantasma",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 426,
+        "nombre": "Drifblim",
+        "tipo": [
+            "Fantasma",
+            "Volador"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 427,
+        "nombre": "Buneary",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 428,
+        "nombre": "Lopunny",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 429,
+        "nombre": "Mismagius",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 430,
+        "nombre": "Honchkrow",
+        "tipo": [
+            "Siniestro",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 431,
+        "nombre": "Glameow",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 432,
+        "nombre": "Pubugly",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 433,
+        "nombre": "Chingling",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 434,
+        "nombre": "Stunky",
+        "tipo": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 435,
+        "nombre": "Skuntank",
+        "tipo": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 436,
+        "nombre": "Bronzor",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 437,
+        "nombre": "Bronzong",
+        "tipo": [
+            "Acero",
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 438,
+        "nombre": "Bonsly",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 439,
+        "nombre": "Mime Jr.",
+        "tipo": [
+            "Psíquico",
+            "Hada"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 440,
+        "nombre": "Happiny",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 441,
+        "nombre": "Chatot",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 442,
+        "nombre": "Spiritomb",
+        "tipo": [
+            "Fantasma",
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 443,
+        "nombre": "Gible",
+        "tipo": [
+            "Dragón",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 444,
+        "nombre": "Gabite",
+        "tipo": [
+            "Dragón",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 445,
+        "nombre": "Gbughomp",
+        "tipo": [
+            "Dragón",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 446,
+        "nombre": "Munchlax",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 447,
+        "nombre": "Bbugu",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 448,
+        "nombre": "Lucario",
+        "tipo": [
+            "Lucha",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 449,
+        "nombre": "Hippopotas",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 450,
+        "nombre": "Hippowdon",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 451,
+        "nombre": "Skorupi",
+        "tipo": [
+            "Veneno",
+            "Bicho"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 452,
+        "nombre": "Drapion",
+        "tipo": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 453,
+        "nombre": "Croagunk",
+        "tipo": [
+            "Veneno",
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 454,
+        "nombre": "Toxicroak",
+        "tipo": [
+            "Veneno",
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 455,
+        "nombre": "Carnivine",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 456,
+        "nombre": "Finneon",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 457,
+        "nombre": "Lumineon",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 458,
+        "nombre": "Mantyke",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 459,
+        "nombre": "Snover",
+        "tipo": [
+            "Planta",
+            "Hielo"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 460,
+        "nombre": "Abomasnow",
+        "tipo": [
+            "Planta",
+            "Hielo"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 461,
+        "nombre": "Weavile",
+        "tipo": [
+            "Siniestro",
+            "Hielo"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 462,
+        "nombre": "Magnezone",
+        "tipo": [
+            "Eléctrico",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 463,
+        "nombre": "Lickilicky",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 464,
+        "nombre": "Rhyperior",
+        "tipo": [
+            "Tierra",
+            "Roca"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 465,
+        "nombre": "Tangrowth",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 466,
+        "nombre": "Electivire",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 467,
+        "nombre": "Magmortar",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 468,
+        "nombre": "Togekiss",
+        "tipo": [
+            "Hada",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 469,
+        "nombre": "Yanmega",
+        "tipo": [
+            "Bicho",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 470,
+        "nombre": "Leafeon",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 471,
+        "nombre": "Glaceon",
+        "tipo": [
+            "Hielo",
+            "Hielo"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 472,
+        "nombre": "Gliscor",
+        "tipo": [
+            "Tierra",
+            "Volador"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 473,
+        "nombre": "Mamoswine",
+        "tipo": [
+            "Hielo",
+            "Tierra"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 474,
+        "nombre": "Porygon-Z",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 475,
+        "nombre": "Gallade",
+        "tipo": [
+            "Psíquico",
+            "Lucha"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 476,
+        "nombre": "Probopass",
+        "tipo": [
+            "Roca",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 477,
+        "nombre": "Dusknoir",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 478,
+        "nombre": "Froslass",
+        "tipo": [
+            "Hielo",
+            "Fantasma"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 479,
+        "nombre": "Rotom",
+        "tipo": [
+            "Eléctrico",
+            "Fantasma"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 480,
+        "nombre": "Uxie",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 481,
+        "nombre": "Mesprit",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 482,
+        "nombre": "Azelf",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 483,
+        "nombre": "Dialga",
+        "tipo": [
+            "Acero",
+            "Dragón"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 484,
+        "nombre": "Pbugia",
+        "tipo": [
+            "Agua",
+            "Dragón"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 485,
+        "nombre": "Heatran",
+        "tipo": [
+            "Fuego",
+            "Acero"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 486,
+        "nombre": "Regigigas",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 487,
+        "nombre": "Giratina",
+        "tipo": [
+            "Fantasma",
+            "Dragón"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 488,
+        "nombre": "Cresselia",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 489,
+        "nombre": "Bugone",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 490,
+        "nombre": "Manaphy",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 491,
+        "nombre": "Darkrai",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 492,
+        "nombre": "Shaymin",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 493,
+        "nombre": "Arceus",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 494,
+        "nombre": "Victini",
+        "tipo": [
+            "Psíquico",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 495,
+        "nombre": "Snbug",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 496,
+        "nombre": "Servine",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 497,
+        "nombre": "Serperior",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 498,
+        "nombre": "Bugig",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 499,
+        "nombre": "Pignite",
+        "tipo": [
+            "Fuego",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 500,
+        "nombre": "Emboar",
+        "tipo": [
+            "Fuego",
+            "Lucha",
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 501,
+        "nombre": "Oshawott",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 502,
+        "nombre": "Dewott",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 503,
+        "nombre": "Samurott",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 504,
+        "nombre": "Patrat",
+        "tipo": [
+            "Normal",
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 505,
+        "nombre": "Watchog",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 506,
+        "nombre": "Buglipup",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 507,
+        "nombre": "Herdier",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 508,
+        "nombre": "Stoutland",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 509,
+        "nombre": "Purrloin",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 510,
+        "nombre": "Liepard",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 511,
+        "nombre": "Pansage",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 512,
+        "nombre": "Simisage",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 513,
+        "nombre": "Pansear",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 514,
+        "nombre": "Simisear",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 515,
+        "nombre": "Panpour",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 516,
+        "nombre": "Simipour",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 517,
+        "nombre": "Munna",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 518,
+        "nombre": "Musharna",
+        "tipo": [
+            "Psíquico",
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 519,
+        "nombre": "Pidove",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 520,
+        "nombre": "Tranquill",
+        "tipo": [
+            "Normal",
+            "Volador",
+            "Bicho"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 521,
+        "nombre": "Unfezant",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 522,
+        "nombre": "Blitzle",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 523,
+        "nombre": "Bugstrika",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 524,
+        "nombre": "Roggenrola",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 525,
+        "nombre": "Boldore",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 526,
+        "nombre": "Gigalith",
+        "tipo": [
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 527,
+        "nombre": "Woobat",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 528,
+        "nombre": "Swoobat",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 529,
+        "nombre": "Drilbur",
+        "tipo": [
+            "Tierra"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 530,
+        "nombre": "Excadrill",
+        "tipo": [
+            "Tierra",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 531,
+        "nombre": "Audino",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 532,
+        "nombre": "Timburr",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 533,
+        "nombre": "Gurdurr",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 534,
+        "nombre": "Conkeldurr",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 535,
+        "nombre": "Tympole",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 536,
+        "nombre": "Palpitoad",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 537,
+        "nombre": "Seismitoad",
+        "tipo": [
+            "Agua",
+            "Tierra"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 538,
+        "nombre": "Throh",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 539,
+        "nombre": "Bugk",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 540,
+        "nombre": "Sewaddle",
+        "tipo": [
+            "Bicho",
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 541,
+        "nombre": "Swadloon",
+        "tipo": [
+            "Bicho",
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 542,
+        "nombre": "Leavanny",
+        "tipo": [
+            "Bicho",
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 543,
+        "nombre": "Venipede",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 544,
+        "nombre": "Whirlipede",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 545,
+        "nombre": "Scolipede",
+        "tipo": [
+            "Bicho",
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 546,
+        "nombre": "Cottonee",
+        "tipo": [
+            "Planta",
+            "Hada"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 547,
+        "nombre": "Whimsicott",
+        "tipo": [
+            "Planta",
+            "Hada"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 548,
+        "nombre": "Petilil",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 549,
+        "nombre": "Lilligant",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 550,
+        "nombre": "Basculin",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 551,
+        "nombre": "Sandile",
+        "tipo": [
+            "Tierra",
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 552,
+        "nombre": "Krokorok",
+        "tipo": [
+            "Tierra",
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 553,
+        "nombre": "Krookodile",
+        "tipo": [
+            "Tierra",
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 554,
+        "nombre": "Darumaka",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 555,
+        "nombre": "Darmanitan",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 556,
+        "nombre": "Maractus",
+        "tipo": [
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 557,
+        "nombre": "Dwebble",
+        "tipo": [
+            "Bicho",
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 558,
+        "nombre": "Crustle",
+        "tipo": [
+            "Bicho",
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 559,
+        "nombre": "Scraggy",
+        "tipo": [
+            "Siniestro",
+            "Lucha",
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 560,
+        "nombre": "Scrafty",
+        "tipo": [
+            "Siniestro",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 561,
+        "nombre": "Sigilyph",
+        "tipo": [
+            "Psíquico",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 562,
+        "nombre": "Yamask",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 563,
+        "nombre": "Cofagrigus",
+        "tipo": [
+            "Fantasma"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 564,
+        "nombre": "Tirtouga",
+        "tipo": [
+            "Agua",
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 565,
+        "nombre": "Carracosta",
+        "tipo": [
+            "Agua",
+            "Roca"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 566,
+        "nombre": "Archen",
+        "tipo": [
+            "Roca",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 567,
+        "nombre": "Archeops",
+        "tipo": [
+            "Roca",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 568,
+        "nombre": "Trubbish",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 569,
+        "nombre": "Garbodor",
+        "tipo": [
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 570,
+        "nombre": "Zorua",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 571,
+        "nombre": "Zorobug",
+        "tipo": [
+            "Siniestro"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 572,
+        "nombre": "Minccino",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 573,
+        "nombre": "Cinccino",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 574,
+        "nombre": "Gothita",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 575,
+        "nombre": "Gothorita",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 576,
+        "nombre": "Gothitelle",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 577,
+        "nombre": "Solosis",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 578,
+        "nombre": "Duosion",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 579,
+        "nombre": "Reuniclus",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 580,
+        "nombre": "Ducklett",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 581,
+        "nombre": "Swanna",
+        "tipo": [
+            "Agua",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 582,
+        "nombre": "Vanillite",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 583,
+        "nombre": "Vanillish",
+        "tipo": [
+            "Hielo",
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 584,
+        "nombre": "Vanilluxe",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 585,
+        "nombre": "Debuging",
+        "tipo": [
+            "Normal",
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 586,
+        "nombre": "Sawsbuck",
+        "tipo": [
+            "Normal",
+            "Planta"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 587,
+        "nombre": "Emolga",
+        "tipo": [
+            "Eléctrico",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 588,
+        "nombre": "Karrablast",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 589,
+        "nombre": "Escavalier",
+        "tipo": [
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 590,
+        "nombre": "Foongus",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 591,
+        "nombre": "Amoonguss",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 592,
+        "nombre": "Frillish",
+        "tipo": [
+            "Agua",
+            "Fantasma",
+            "Acero",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 3
+    },
+    {
+        "id": 593,
+        "nombre": "Jellicent",
+        "tipo": [
+            "Agua",
+            "Fantasma",
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 594,
+        "nombre": "Alomomola",
+        "tipo": [
+            "Agua"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 595,
+        "nombre": "Joltik",
+        "tipo": [
+            "Bicho",
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 596,
+        "nombre": "Galvantula",
+        "tipo": [
+            "Bicho",
+            "Eléctrico"
+        ],
+        "generacion": 2
+    },
+    {
+        "id": 597,
+        "nombre": "Ferrosbug",
+        "tipo": [
+            "Planta",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 598,
+        "nombre": "Ferrothorn",
+        "tipo": [
+            "Planta",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 599,
+        "nombre": "Klink",
+        "tipo": [
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 600,
+        "nombre": "Klang",
+        "tipo": [
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 601,
+        "nombre": "Klinklang",
+        "tipo": [
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 602,
+        "nombre": "Tynamo",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 603,
+        "nombre": "Eelekbugk",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 604,
+        "nombre": "Eelektross",
+        "tipo": [
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 605,
+        "nombre": "Elgyem",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 606,
+        "nombre": "Beheeyem",
+        "tipo": [
+            "Psíquico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 607,
+        "nombre": "Litwick",
+        "tipo": [
+            "Fantasma",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 608,
+        "nombre": "Lampent",
+        "tipo": [
+            "Fantasma",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 609,
+        "nombre": "Chandelure",
+        "tipo": [
+            "Fantasma",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 610,
+        "nombre": "Axew",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 611,
+        "nombre": "Fraxure",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 612,
+        "nombre": "Haxorus",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 613,
+        "nombre": "Cubchoo",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 614,
+        "nombre": "Beartic",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 615,
+        "nombre": "Cryogonal",
+        "tipo": [
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 616,
+        "nombre": "Shelmet",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 617,
+        "nombre": "Accelgor",
+        "tipo": [
+            "Bicho"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 618,
+        "nombre": "Stunfisk",
+        "tipo": [
+            "Tierra",
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 619,
+        "nombre": "Bugnfoo",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 620,
+        "nombre": "Mienshao",
+        "tipo": [
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 621,
+        "nombre": "Druddigon",
+        "tipo": [
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 622,
+        "nombre": "Golett",
+        "tipo": [
+            "Tierra",
+            "Fantasma"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 623,
+        "nombre": "Golurk",
+        "tipo": [
+            "Tierra",
+            "Fantasma"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 624,
+        "nombre": "Pawniard",
+        "tipo": [
+            "Siniestro",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 625,
+        "nombre": "Bisharp",
+        "tipo": [
+            "Siniestro",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 626,
+        "nombre": "Bouffalant",
+        "tipo": [
+            "Normal"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 627,
+        "nombre": "Rbuglet",
+        "tipo": [
+            "Normal",
+            "Volador",
+            "Acero",
+            "Acero",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 628,
+        "nombre": "Braviary",
+        "tipo": [
+            "Normal",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 629,
+        "nombre": "Vullaby",
+        "tipo": [
+            "Siniestro",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 630,
+        "nombre": "Mandibuzz",
+        "tipo": [
+            "Siniestro",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 631,
+        "nombre": "Heatmor",
+        "tipo": [
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 632,
+        "nombre": "Bugant",
+        "tipo": [
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 633,
+        "nombre": "Deino",
+        "tipo": [
+            "Siniestro",
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 634,
+        "nombre": "Zwebugus",
+        "tipo": [
+            "Siniestro",
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 635,
+        "nombre": "Hydreigon",
+        "tipo": [
+            "Siniestro",
+            "Dragón"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 636,
+        "nombre": "Larvesta",
+        "tipo": [
+            "Bicho",
+            "Fuego"
+        ],
+        "generacion": 4
+    },
+    {
+        "id": 637,
+        "nombre": "Volcarona",
+        "tipo": [
+            "Bicho",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 638,
+        "nombre": "Cobalion",
+        "tipo": [
+            "Acero",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 639,
+        "nombre": "Terrabugn",
+        "tipo": [
+            "Roca",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 640,
+        "nombre": "Virizion",
+        "tipo": [
+            "Planta",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 641,
+        "nombre": "Tornadus",
+        "tipo": [
+            "Volador",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 642,
+        "nombre": "Thundurus",
+        "tipo": [
+            "Eléctrico",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 643,
+        "nombre": "Reshiram",
+        "tipo": [
+            "Dragón",
+            "Fuego"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 644,
+        "nombre": "Zekrom",
+        "tipo": [
+            "Dragón",
+            "Eléctrico"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 645,
+        "nombre": "Landorus",
+        "tipo": [
+            "Tierra",
+            "Volador"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 646,
+        "nombre": "Kyurem",
+        "tipo": [
+            "Dragón",
+            "Hielo"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 647,
+        "nombre": "Keldeo",
+        "tipo": [
+            "Agua",
+            "Lucha"
+        ],
+        "generacion": 5
+    },
+    {
+        "id": 648,
+        "nombre": "Meloetta",
+        "tipo": [
+            "Normal",
+            "Psíquico"
+        ],
+        "generacion": 1
+    },
+    {
+        "id": 649,
+        "nombre": "Genesect",
+        "tipo": [
+            "Bicho",
+            "Acero"
+        ],
+        "generacion": 5
+    }
+]

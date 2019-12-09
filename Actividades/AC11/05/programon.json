@@ -1,0 +1,7711 @@
+[
+    {
+        "nombre": "BULBASAUR",
+        "movimientos": [
+            "GROWL",
+            "RAZORLEAF",
+            "TAKEDOWN",
+            "SWEETSCENT",
+            "WORRYSEED",
+            "SEEDBOMB",
+            "GROWTH",
+            "DOUBLEEDGE",
+            "LEECHSEED",
+            "SOLARBEAM",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "SYNTHESIS",
+            "VINEWHIP",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "GRASSWHISTLE",
+            "POWERWHIP",
+            "SLUDGE",
+            "CHARM",
+            "ENDURE",
+            "NATUREPOWER"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "CHARMANDER",
+        "movimientos": [
+            "GROWL",
+            "EMBER",
+            "FIREFANG",
+            "SCRATCH",
+            "FIRESPIN",
+            "SLASH",
+            "DRAGONRAGE",
+            "SCARYFACE",
+            "FLAMETHROWER",
+            "SMOKESCREEN",
+            "INFERNO",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "METALCLAW",
+            "CRUNCH",
+            "DRAGONPULSE",
+            "BITE",
+            "FLAREBLITZ",
+            "BEATUP"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "SQUIRTLE",
+        "movimientos": [
+            "BITE",
+            "HYDROPUMP",
+            "RAINDANCE",
+            "IRONDEFENSE",
+            "BUBBLE",
+            "RAPIDSPIN",
+            "WATERGUN",
+            "WITHDRAW",
+            "PROTECT",
+            "TAILWHIP",
+            "SKULLBASH",
+            "AQUATAIL",
+            "WATERPULSE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "YAWN",
+            "AQUARING",
+            "FAKEOUT",
+            "REFRESH",
+            "FORESIGHT",
+            "MUDSPORT",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "PIDGEY",
+        "movimientos": [
+            "QUICKATTACK",
+            "HURRICANE",
+            "TWISTER",
+            "AGILITY",
+            "GUST",
+            "FEATHERDANCE",
+            "SANDATTACK",
+            "TAILWIND",
+            "WINGATTACK",
+            "MIRRORMOVE",
+            "AIRSLASH",
+            "ROOST",
+            "TACKLE",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "STEELWING",
+            "DEFOG",
+            "AIRSLASH",
+            "FORESIGHT"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "RATTATA",
+        "movimientos": [
+            "QUICKATTACK",
+            "BITE",
+            "SWORDSDANCE",
+            "FOCUSENERGY",
+            "SUCKERPUNCH",
+            "ASSURANCE",
+            "HYPERFANG",
+            "DOUBLEEDGE",
+            "PURSUIT",
+            "SCARYFACE",
+            "CRUNCH",
+            "TAILWHIP",
+            "ENDEAVOR",
+            "SUPERFANG",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "SCREECH",
+            "REVENGE",
+            "LASTRESORT",
+            "FLAMEWHEEL"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SPEAROW",
+        "movimientos": [
+            "GROWL",
+            "FURYATTACK",
+            "AERIALACE",
+            "ASSURANCE",
+            "LEER",
+            "PURSUIT",
+            "PECK",
+            "PLUCK",
+            "DRILLRUN",
+            "DRILLPECK",
+            "MIRRORMOVE",
+            "ROOST",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "SCARYFACE",
+            "QUICKATTACK",
+            "UPROAR",
+            "STEELWING"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "EKANS",
+        "movimientos": [
+            "GUNKSHOT",
+            "THUNDERFANG",
+            "FIREFANG",
+            "COIL",
+            "WRAP",
+            "SWALLOW",
+            "LEER",
+            "GLARE",
+            "SPITUP",
+            "CRUNCH",
+            "ACID",
+            "HAZE",
+            "BITE",
+            "SCREECH",
+            "ACIDSPRAY",
+            "STOCKPILE",
+            "MUDBOMB",
+            "POISONSTING",
+            "GASTROACID",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "SPITE",
+            "POISONFANG",
+            "SLAM",
+            "SWITCHEROO",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SANDSHREW",
+        "movimientos": [
+            "SCRATCH",
+            "SLASH",
+            "FURYCUTTER",
+            "FURYSWIPES",
+            "ROLLOUT",
+            "EARTHQUAKE",
+            "DEFENSECURL",
+            "DIG",
+            "SANDTOMB",
+            "SWIFT",
+            "SANDSTORM",
+            "SWORDSDANCE",
+            "CRUSHCLAW",
+            "MAGNITUDE",
+            "RAPIDSPIN",
+            "SANDATTACK",
+            "GYROBALL",
+            "POISONSTING"
+        ],
+        "movs_huevo": [
+            "NIGHTSLASH",
+            "METALCLAW",
+            "COUNTER",
+            "ROCKCLIMB",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "NIDORANfE",
+        "movimientos": [
+            "GROWL",
+            "POISONFANG",
+            "TOXICSPIKES",
+            "BITE",
+            "SCRATCH",
+            "FLATTER",
+            "CAPTIVATE",
+            "CRUNCH",
+            "DOUBLEKICK",
+            "HELPINGHAND",
+            "POISONSTING",
+            "FURYSWIPES",
+            "TAILWHIP"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "CHARM",
+            "SUPERSONIC",
+            "ENDURE",
+            "IRONTAIL",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "NIDORANmA",
+        "movimientos": [
+            "FURYATTACK",
+            "TOXICSPIKES",
+            "FOCUSENERGY",
+            "FLATTER",
+            "LEER",
+            "PECK",
+            "CAPTIVATE",
+            "HORNDRILL",
+            "POISONJAB",
+            "DOUBLEKICK",
+            "HELPINGHAND",
+            "POISONSTING",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "POISONTAIL",
+            "HEADSMASH",
+            "SUPERSONIC",
+            "BEATUP",
+            "CONFUSION"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "VULPIX",
+        "movimientos": [
+            "QUICKATTACK",
+            "EMBER",
+            "EXTRASENSORY",
+            "ROAR",
+            "CONFUSERAY",
+            "WILLOWISP",
+            "CAPTIVATE",
+            "HEX",
+            "FLAMEBURST",
+            "FIRESPIN",
+            "PAYBACK",
+            "FIREBLAST",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "FLAMETHROWER",
+            "GRUDGE",
+            "IMPRISON",
+            "SAFEGUARD",
+            "TAILWHIP",
+            "INFERNO"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "FLAIL",
+            "EXTRASENSORY",
+            "HOWL",
+            "POWERSWAP",
+            "HEATWAVE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "ZUBAT",
+        "movimientos": [
+            "ASTONISH",
+            "POISONFANG",
+            "SWIFT",
+            "MEANLOOK",
+            "BITE",
+            "SCREECH",
+            "AIRCUTTER",
+            "CONFUSERAY",
+            "ACROBATICS",
+            "LEECHLIFE",
+            "WINGATTACK",
+            "SUPERSONIC",
+            "HAZE",
+            "AIRSLASH"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "QUICKATTACK",
+            "CURSE",
+            "GUST",
+            "WHIRLWIND"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "ODDISH",
+        "movimientos": [
+            "ABSORB",
+            "SWEETSCENT",
+            "STUNSPORE",
+            "NATURALGIFT",
+            "MOONLIGHT",
+            "LUCKYCHANT",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "MEGADRAIN",
+            "ACID",
+            "PETALDANCE",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "RAZORLEAF",
+            "TICKLE",
+            "CHARM",
+            "SYNTHESIS",
+            "INGRAIN"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "PARAS",
+        "movimientos": [
+            "SPORE",
+            "CROSSPOISON",
+            "SCRATCH",
+            "RAGEPOWDER",
+            "STUNSPORE",
+            "SLASH",
+            "GROWTH",
+            "POISONPOWDER",
+            "AROMATHERAPY",
+            "XSCISSOR",
+            "LEECHLIFE",
+            "FURYCUTTER",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "METALCLAW",
+            "CROSSPOISON",
+            "SCREECH",
+            "BUGBITE",
+            "PSYBEAM"
+        ],
+        "grupos_huevo": [
+            "Grass",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "VENONAT",
+        "movimientos": [
+            "POISONFANG",
+            "QUIVERDANCE",
+            "STUNSPORE",
+            "BUGBUZZ",
+            "DISABLE",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "LEECHLIFE",
+            "SILVERWIND",
+            "SUPERSONIC",
+            "FORESIGHT",
+            "TACKLE",
+            "SIGNALBEAM",
+            "ZENHEADBUTT",
+            "GUST",
+            "PSYCHIC",
+            "CONFUSION",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "RAGEPOWDER",
+            "SKILLSWAP",
+            "SECRETPOWER",
+            "GIGADRAIN"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "DIGLETT",
+        "movimientos": [
+            "ASTONISH",
+            "GROWL",
+            "SANDTOMB",
+            "EARTHPOWER",
+            "SCRATCH",
+            "BULLDOZE",
+            "SUCKERPUNCH",
+            "SLASH",
+            "MAGNITUDE",
+            "SANDATTACK",
+            "NIGHTSLASH",
+            "MUDBOMB",
+            "MUDSLAP",
+            "EARTHQUAKE",
+            "FISSURE",
+            "DIG",
+            "TRIATTACK"
+        ],
+        "movs_huevo": [
+            "ASTONISH",
+            "MEMENTO",
+            "SCREECH",
+            "ENDURE",
+            "FINALGAMBIT",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MEOWTH",
+        "movimientos": [
+            "POWERGEM",
+            "SCRATCH",
+            "FEINT",
+            "SLASH",
+            "CAPTIVATE",
+            "FAKEOUT",
+            "FURYSWIPES",
+            "GROWL",
+            "TAUNT",
+            "SWIFT",
+            "BITE",
+            "SCREECH",
+            "PAYDAY",
+            "ASSURANCE",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "NIGHTSLASH",
+            "SWITCHEROO"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "FLAIL",
+            "PUNISHMENT",
+            "HYPNOSIS",
+            "ASSIST",
+            "LASTRESORT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PSYDUCK",
+        "movimientos": [
+            "WONDERROOM",
+            "AQUAJET",
+            "PSYCHUP",
+            "SCRATCH",
+            "WATERSPORT",
+            "DISABLE",
+            "FURYSWIPES",
+            "AQUATAIL",
+            "HYDROPUMP",
+            "ZENHEADBUTT",
+            "SCREECH",
+            "SOAK",
+            "WATERGUN",
+            "AMNESIA",
+            "TAILWHIP",
+            "CONFUSION",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "HYPNOSIS",
+            "CROSSCHOP",
+            "SECRETPOWER",
+            "SYNCHRONOISE",
+            "FORESIGHT",
+            "PSYBEAM"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MANKEY",
+        "movimientos": [
+            "RAGE",
+            "SCRATCH",
+            "CROSSCHOP",
+            "FOCUSENERGY",
+            "THRASH",
+            "FINALGAMBIT",
+            "LEER",
+            "SWAGGER",
+            "CLOSECOMBAT",
+            "LOWKICK",
+            "FURYSWIPES",
+            "KARATECHOP",
+            "FLING",
+            "SEISMICTOSS",
+            "SCREECH",
+            "ASSURANCE",
+            "PUNISHMENT",
+            "COVET"
+        ],
+        "movs_huevo": [
+            "CLOSECOMBAT",
+            "ENCORE",
+            "REVENGE",
+            "FORESIGHT",
+            "SLEEPTALK"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "GROWLITHE",
+        "movimientos": [
+            "RETALIATE",
+            "THUNDERFANG",
+            "ODORSLEUTH",
+            "EMBER",
+            "BITE",
+            "REVERSAL",
+            "FIREFANG",
+            "TAKEDOWN",
+            "FLAREBLITZ",
+            "ROAR",
+            "LEER",
+            "HEATWAVE",
+            "FLAMEWHEEL",
+            "EXTREMESPEED",
+            "CRUNCH",
+            "FLAMETHROWER",
+            "OUTRAGE",
+            "HELPINGHAND",
+            "AGILITY",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "CLOSECOMBAT",
+            "CRUNCH",
+            "FLAREBLITZ",
+            "HOWL",
+            "MORNINGSUN",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "POLIWAG",
+        "movimientos": [
+            "DOUBLESLAP",
+            "HYPNOSIS",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "RAINDANCE",
+            "BODYSLAM",
+            "BUBBLE",
+            "WATERGUN",
+            "BELLYDRUM",
+            "MUDBOMB",
+            "BUBBLEBEAM",
+            "WAKEUPSLAP",
+            "MUDSHOT"
+        ],
+        "movs_huevo": [
+            "ENCORE",
+            "ICEBALL",
+            "REFRESH",
+            "ENDURE",
+            "MIST",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "ABRA",
+        "movimientos": [
+            "KINESIS",
+            "TELEKINESIS",
+            "RECOVER",
+            "DISABLE",
+            "PSYCHIC",
+            "ROLEPLAY",
+            "TELEPORT",
+            "PSYCHOCUT",
+            "FUTURESIGHT",
+            "TRICK",
+            "REFLECT",
+            "ALLYSWITCH",
+            "MIRACLEEYE",
+            "CONFUSION",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "GUARDSPLIT",
+            "ENCORE",
+            "THUNDERPUNCH",
+            "ICEPUNCH",
+            "POWERTRICK"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "MACHOP",
+        "movimientos": [
+            "FORESIGHT",
+            "CROSSCHOP",
+            "FOCUSENERGY",
+            "LEER",
+            "SCARYFACE",
+            "VITALTHROW",
+            "LOWKICK",
+            "SUBMISSION",
+            "LOWSWEEP",
+            "WAKEUPSLAP",
+            "REVENGE",
+            "DYNAMICPUNCH",
+            "KARATECHOP",
+            "SEISMICTOSS"
+        ],
+        "movs_huevo": [
+            "CLOSECOMBAT",
+            "ENCORE",
+            "HEAVYSLAM",
+            "TICKLE",
+            "SMELLINGSALTS",
+            "KNOCKOFF",
+            "POWERTRICK"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "BELLSPROUT",
+        "movimientos": [
+            "RAZORLEAF",
+            "SWEETSCENT",
+            "WRAP",
+            "STUNSPORE",
+            "SLAM",
+            "KNOCKOFF",
+            "GROWTH",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "WRINGOUT",
+            "ACID",
+            "GASTROACID",
+            "VINEWHIP"
+        ],
+        "movs_huevo": [
+            "WEATHERBALL",
+            "CLEARSMOG",
+            "LEECHLIFE",
+            "SYNTHESIS",
+            "NATURALGIFT",
+            "GIGADRAIN"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "TENTACOOL",
+        "movimientos": [
+            "SLUDGEWAVE",
+            "CONSTRICT",
+            "TOXICSPIKES",
+            "WRAP",
+            "WRINGOUT",
+            "POISONJAB",
+            "BUBBLEBEAM",
+            "HEX",
+            "ACID",
+            "SUPERSONIC",
+            "BARRIER",
+            "HYDROPUMP",
+            "SCREECH",
+            "ACIDSPRAY",
+            "POISONSTING",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "AQUARING",
+            "HAZE",
+            "BUBBLE",
+            "RAPIDSPIN",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "GEODUDE",
+        "movimientos": [
+            "BULLDOZE",
+            "ROCKBLAST",
+            "DOUBLEEDGE",
+            "ROCKTHROW",
+            "EARTHQUAKE",
+            "ROLLOUT",
+            "MUDSPORT",
+            "DEFENSECURL",
+            "STONEEDGE",
+            "TACKLE",
+            "STEALTHROCK",
+            "SELFDESTRUCT",
+            "MAGNITUDE",
+            "EXPLOSION",
+            "SMACKDOWN",
+            "ROCKPOLISH"
+        ],
+        "movs_huevo": [
+            "BLOCK",
+            "FOCUSPUNCH",
+            "ENDURE",
+            "MEGAPUNCH"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "PONYTA",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "MEGAHORN",
+            "FURYATTACK",
+            "EMBER",
+            "TAKEDOWN",
+            "FIRESPIN",
+            "BOUNCE",
+            "FLAREBLITZ",
+            "FLAMECHARGE",
+            "FLAMEWHEEL",
+            "FIREBLAST",
+            "POISONJAB",
+            "TACKLE",
+            "TAILWHIP",
+            "INFERNO",
+            "STOMP",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "HORNDRILL",
+            "LOWKICK",
+            "THRASH",
+            "CHARM",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SLOWPOKE",
+        "movimientos": [
+            "HEADBUTT",
+            "POWERGEM",
+            "PSYCHUP",
+            "TRUMPCARD",
+            "DISABLE",
+            "SWAGGER",
+            "HEALPULSE",
+            "TACKLE",
+            "GROWL",
+            "CURSE",
+            "SLACKOFF",
+            "YAWN",
+            "ZENHEADBUTT",
+            "RAINDANCE",
+            "WATERGUN",
+            "PSYCHIC",
+            "NASTYPLOT",
+            "WITHDRAW",
+            "HIDDENPOWER",
+            "AMNESIA",
+            "CONFUSION",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "MEFIRST",
+            "ZENHEADBUTT",
+            "STOMP",
+            "SLEEPTALK",
+            "BLOCK"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "FARFETCHD",
+        "movimientos": [
+            "ACROBATICS",
+            "PECK",
+            "SANDATTACK",
+            "NIGHTSLASH",
+            "FURYATTACK",
+            "POISONJAB",
+            "SWORDSDANCE",
+            "FURYCUTTER",
+            "FEINT",
+            "AERIALACE",
+            "SLASH",
+            "FALSESWIPE",
+            "AIRSLASH",
+            "BRAVEBIRD",
+            "AIRCUTTER",
+            "KNOCKOFF",
+            "LEER",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "CURSE",
+            "NIGHTSLASH",
+            "MIRRORMOVE",
+            "STEELWING",
+            "REVENGE",
+            "GUST"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "DODUO",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "FURYATTACK",
+            "RAGE",
+            "THRASH",
+            "DOUBLEHIT",
+            "PURSUIT",
+            "ACUPRESSURE",
+            "PECK",
+            "PLUCK",
+            "DRILLPECK",
+            "UPROAR",
+            "ENDEAVOR",
+            "TRIATTACK",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "HAZE",
+            "SUPERSONIC",
+            "BRAVEBIRD",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "SEEL",
+        "movimientos": [
+            "HEADBUTT",
+            "ICYWIND",
+            "AQUAJET",
+            "WATERSPORT",
+            "AQUARING",
+            "ICESHARD",
+            "SHEERCOLD",
+            "DIVE",
+            "AQUATAIL",
+            "REST",
+            "GROWL",
+            "BRINE",
+            "SIGNALBEAM",
+            "TAKEDOWN",
+            "AURORABEAM",
+            "HAIL",
+            "ENCORE",
+            "SAFEGUARD",
+            "ICEBEAM"
+        ],
+        "movs_huevo": [
+            "SPITUP",
+            "HORNDRILL",
+            "PERISHSONG",
+            "ENCORE",
+            "SLAM",
+            "SWALLOW",
+            "IRONTAIL"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "GRIMER",
+        "movimientos": [
+            "GUNKSHOT",
+            "SLUDGEWAVE",
+            "ACIDARMOR",
+            "MEMENTO",
+            "MINIMIZE",
+            "SCREECH",
+            "SLUDGEBOMB",
+            "HARDEN",
+            "POISONGAS",
+            "DISABLE",
+            "POUND",
+            "MUDBOMB",
+            "MUDSLAP",
+            "SLUDGE",
+            "FLING"
+        ],
+        "movs_huevo": [
+            "SPITUP",
+            "SHADOWPUNCH",
+            "CURSE",
+            "MEANLOOK",
+            "IMPRISON",
+            "SWALLOW"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "SHELLDER",
+        "movimientos": [
+            "ICICLECRASH",
+            "BRINE",
+            "TOXICSPIKES",
+            "HYDROPUMP",
+            "ICESHARD",
+            "AURORABEAM",
+            "IRONDEFENSE",
+            "SPIKES",
+            "CLAMP",
+            "LEER",
+            "WHIRLPOOL",
+            "ICICLESPEAR",
+            "WITHDRAW",
+            "SPIKECANNON",
+            "PROTECT",
+            "RAZORSHELL",
+            "SUPERSONIC",
+            "SHELLSMASH",
+            "ICEBEAM",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "AVALANCHE",
+            "BUBBLEBEAM",
+            "TAKEDOWN",
+            "ROCKBLAST",
+            "MUDSHOT",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "GASTLY",
+        "movimientos": [
+            "CURSE",
+            "MEANLOOK",
+            "HYPNOSIS",
+            "LICK",
+            "SUCKERPUNCH",
+            "DREAMEATER",
+            "CONFUSERAY",
+            "NIGHTMARE",
+            "PAYBACK",
+            "SPITE",
+            "NIGHTSHADE",
+            "SHADOWBALL",
+            "SHADOWPUNCH",
+            "DARKPULSE",
+            "HEX",
+            "DESTINYBOND"
+        ],
+        "movs_huevo": [
+            "SCARYFACE",
+            "CLEARSMOG",
+            "PERISHSONG",
+            "THUNDERPUNCH",
+            "HAZE",
+            "FIREPUNCH"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "ONIX",
+        "movimientos": [
+            "THUNDERFANG",
+            "AUTOTOMIZE",
+            "RAGE",
+            "FIREFANG",
+            "DRAGONBREATH",
+            "SLAM",
+            "BIND",
+            "DOUBLEEDGE",
+            "ROCKTHROW",
+            "CRUNCH",
+            "MUDSPORT",
+            "DIG",
+            "STONEEDGE",
+            "ROCKSLIDE",
+            "TACKLE",
+            "CURSE",
+            "SANDTOMB",
+            "SANDSTORM",
+            "STEALTHROCK",
+            "SCREECH",
+            "ROCKTOMB",
+            "IRONTAIL",
+            "HARDEN",
+            "SMACKDOWN",
+            "ROCKPOLISH",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "DEFENSECURL",
+            "HEAVYSLAM",
+            "STEALTHROCK",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "DROWZEE",
+        "movimientos": [
+            "HEADBUTT",
+            "PSYCHUP",
+            "SYNCHRONOISE",
+            "SWITCHEROO",
+            "POISONGAS",
+            "DISABLE",
+            "MEDITATE",
+            "SWAGGER",
+            "POUND",
+            "PSYSHOCK",
+            "HYPNOSIS",
+            "ZENHEADBUTT",
+            "NIGHTMARE",
+            "PSYCHIC",
+            "NASTYPLOT",
+            "FUTURESIGHT",
+            "CONFUSION",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "BARRIER",
+            "THUNDERPUNCH",
+            "PSYCHOCUT",
+            "SECRETPOWER",
+            "ICEPUNCH",
+            "FLATTER"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "KRABBY",
+        "movimientos": [
+            "FLAIL",
+            "BRINE",
+            "VICEGRIP",
+            "GUILLOTINE",
+            "SLAM",
+            "BUBBLE",
+            "HARDEN",
+            "LEER",
+            "METALCLAW",
+            "BUBBLEBEAM",
+            "PROTECT",
+            "MUDSHOT",
+            "STOMP",
+            "MUDSPORT",
+            "CRABHAMMER",
+            "WIDEGUARD"
+        ],
+        "movs_huevo": [
+            "BIDE",
+            "SLAM",
+            "AMNESIA",
+            "HAZE",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "EXEGGCUTE",
+        "movimientos": [
+            "WOODHAMMER",
+            "BESTOW",
+            "HYPNOSIS",
+            "BARRAGE",
+            "WORRYSEED",
+            "STUNSPORE",
+            "EXTRASENSORY",
+            "SEEDBOMB",
+            "NATURALGIFT",
+            "LEECHSEED",
+            "LEAFSTORM",
+            "SOLARBEAM",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "EGGBOMB",
+            "UPROAR",
+            "PSYSHOCK",
+            "REFLECT",
+            "STOMP",
+            "CONFUSION",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "SKILLSWAP",
+            "BLOCK",
+            "GIGADRAIN",
+            "MOONLIGHT",
+            "NATUREPOWER"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "CUBONE",
+        "movimientos": [
+            "HEADBUTT",
+            "GROWL",
+            "BONERUSH",
+            "RETALIATE",
+            "RAGE",
+            "FOCUSENERGY",
+            "THRASH",
+            "FALSESWIPE",
+            "DOUBLEEDGE",
+            "LEER",
+            "TAILWHIP",
+            "ENDEAVOR",
+            "BONECLUB",
+            "FLING",
+            "BONEMERANG"
+        ],
+        "movs_huevo": [
+            "BELLYDRUM",
+            "DETECT",
+            "PERISHSONG",
+            "ENDURE",
+            "SKULLBASH"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "LICKITUNG",
+        "movimientos": [
+            "MEFIRST",
+            "LICK",
+            "SCREECH",
+            "WRAP",
+            "SLAM",
+            "CHIPAWAY",
+            "REFRESH",
+            "KNOCKOFF",
+            "DISABLE",
+            "GYROBALL",
+            "POWERWHIP",
+            "WRINGOUT",
+            "SUPERSONIC",
+            "ROLLOUT",
+            "STOMP",
+            "DEFENSECURL"
+        ],
+        "movs_huevo": [
+            "BELLYDRUM",
+            "CURSE",
+            "SNORE",
+            "SLEEPTALK",
+            "MAGNITUDE"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "KOFFING",
+        "movimientos": [
+            "MEMENTO",
+            "SELFDESTRUCT",
+            "ASSURANCE",
+            "SLUDGEBOMB",
+            "DOUBLEHIT",
+            "POISONGAS",
+            "GYROBALL",
+            "EXPLOSION",
+            "CLEARSMOG",
+            "SMOG",
+            "SMOKESCREEN",
+            "SLUDGE",
+            "HAZE",
+            "DESTINYBOND",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "PSYWAVE",
+            "PAINSPLIT",
+            "DESTINYBOND",
+            "STOCKPILE"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "RHYHORN",
+        "movimientos": [
+            "MEGAHORN",
+            "FURYATTACK",
+            "BULLDOZE",
+            "ROCKBLAST",
+            "TAKEDOWN",
+            "CHIPAWAY",
+            "HAMMERARM",
+            "SCARYFACE",
+            "DRILLRUN",
+            "HORNDRILL",
+            "EARTHQUAKE",
+            "TAILWHIP",
+            "STOMP",
+            "STONEEDGE",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "CRUNCH",
+            "FIREFANG",
+            "REVERSAL",
+            "SKULLBASH",
+            "IRONTAIL"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CHANSEY",
+        "movimientos": [
+            "SING",
+            "DOUBLESLAP",
+            "BESTOW",
+            "HEALINGWISH",
+            "DOUBLEEDGE",
+            "POUND",
+            "FLING",
+            "DEFENSECURL",
+            "HEALPULSE",
+            "GROWL",
+            "MINIMIZE",
+            "SOFTBOILED",
+            "TAKEDOWN",
+            "REFRESH",
+            "LIGHTSCREEN",
+            "EGGBOMB",
+            "TAILWHIP"
+        ],
+        "movs_huevo": [
+            "PRESENT",
+            "COUNTER",
+            "MUDBOMB",
+            "HELPINGHAND",
+            "GRAVITY"
+        ],
+        "grupos_huevo": [
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "TANGELA",
+        "movimientos": [
+            "CONSTRICT",
+            "TICKLE",
+            "SLAM",
+            "STUNSPORE",
+            "INGRAIN",
+            "BIND",
+            "POWERWHIP",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "MEGADRAIN",
+            "WRINGOUT",
+            "BLOCK",
+            "ABSORB",
+            "KNOCKOFF",
+            "GROWTH",
+            "NATURALGIFT",
+            "ANCIENTPOWER",
+            "VINEWHIP",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "FLAIL",
+            "MEGADRAIN",
+            "RAGEPOWDER",
+            "CONFUSION",
+            "NATUREPOWER"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "KANGASKHAN",
+        "movimientos": [
+            "DIZZYPUNCH",
+            "CRUNCH",
+            "RAGE",
+            "OUTRAGE",
+            "BITE",
+            "REVERSAL",
+            "FAKEOUT",
+            "SUCKERPUNCH",
+            "DOUBLEHIT",
+            "CHIPAWAY",
+            "TAILWHIP",
+            "ENDURE",
+            "COMETPUNCH",
+            "LEER",
+            "MEGAPUNCH"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "COUNTER",
+            "FOCUSPUNCH",
+            "TRUMPCARD",
+            "ENDEAVOR",
+            "HAMMERARM"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "HORSEA",
+        "movimientos": [
+            "TWISTER",
+            "BRINE",
+            "HYDROPUMP",
+            "FOCUSENERGY",
+            "BUBBLE",
+            "LEER",
+            "WATERGUN",
+            "DRAGONPULSE",
+            "BUBBLEBEAM",
+            "SMOKESCREEN",
+            "AGILITY",
+            "DRAGONDANCE"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "CLEARSMOG",
+            "SPLASH",
+            "RAZORWIND",
+            "OCTAZOOKA",
+            "DRAGONRAGE"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "GOLDEEN",
+        "movimientos": [
+            "FLAIL",
+            "MEGAHORN",
+            "FURYATTACK",
+            "WATERSPORT",
+            "AQUARING",
+            "SOAK",
+            "PECK",
+            "HORNDRILL",
+            "POISONJAB",
+            "WATERFALL",
+            "SUPERSONIC",
+            "TAILWHIP",
+            "WATERPULSE",
+            "AGILITY",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "HYDROPUMP",
+            "SKULLBASH",
+            "BODYSLAM",
+            "MUDSPORT",
+            "PSYBEAM"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "MRMIME",
+        "movimientos": [
+            "DOUBLESLAP",
+            "MAGICALLEAF",
+            "RECYCLE",
+            "QUICKGUARD",
+            "MEDITATE",
+            "SUBSTITUTE",
+            "REFLECT",
+            "MIMIC",
+            "BARRIER",
+            "GUARDSWAP",
+            "POWERSWAP",
+            "LIGHTSCREEN",
+            "BATONPASS",
+            "PSYCHIC",
+            "PSYWAVE",
+            "COPYCAT",
+            "ENCORE",
+            "ROLEPLAY",
+            "TRICK",
+            "SAFEGUARD",
+            "CONFUSION",
+            "PSYBEAM",
+            "WIDEGUARD"
+        ],
+        "movs_huevo": [
+            "MAGICROOM",
+            "NASTYPLOT",
+            "HYPNOSIS",
+            "TEETERDANCE",
+            "WAKEUPSLAP",
+            "FAKEOUT"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "SCYTHER",
+        "movimientos": [
+            "QUICKATTACK",
+            "VACUUMWAVE",
+            "IRONHEAD",
+            "FOCUSENERGY",
+            "FEINT",
+            "SLASH",
+            "LEER",
+            "XSCISSOR",
+            "FURYCUTTER",
+            "AIRSLASH",
+            "DOUBLETEAM",
+            "AGILITY",
+            "BULLETPUNCH",
+            "SWORDSDANCE",
+            "FALSESWIPE",
+            "DOUBLEHIT",
+            "IRONDEFENSE",
+            "PURSUIT",
+            "NIGHTSLASH",
+            "METALCLAW",
+            "RAZORWIND",
+            "WINGATTACK"
+        ],
+        "movs_huevo": [
+            "NIGHTSLASH",
+            "DEFOG",
+            "REVERSAL",
+            "STEELWING",
+            "BUGBUZZ"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "PINSIR",
+        "movimientos": [
+            "VITALTHROW",
+            "XSCISSOR",
+            "SUBMISSION",
+            "SWORDSDANCE",
+            "VICEGRIP",
+            "FOCUSENERGY",
+            "THRASH",
+            "GUILLOTINE",
+            "REVENGE",
+            "STORMTHROW",
+            "SUPERPOWER",
+            "BRICKBREAK",
+            "BIND",
+            "HARDEN",
+            "SEISMICTOSS"
+        ],
+        "movs_huevo": [
+            "FURYATTACK",
+            "QUICKATTACK",
+            "CLOSECOMBAT",
+            "FEINT"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "LAPRAS",
+        "movimientos": [
+            "SING",
+            "GROWL",
+            "SHEERCOLD",
+            "PERISHSONG",
+            "BRINE",
+            "BODYSLAM",
+            "HYDROPUMP",
+            "RAINDANCE",
+            "SAFEGUARD",
+            "ICESHARD",
+            "ICEBEAM",
+            "MIST",
+            "CONFUSERAY",
+            "WATERPULSE",
+            "WATERGUN"
+        ],
+        "movs_huevo": [
+            "AVALANCHE",
+            "FUTURESIGHT",
+            "REFRESH",
+            "TICKLE",
+            "FISSURE",
+            "DRAGONDANCE"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "EEVEE",
+        "movimientos": [
+            "QUICKATTACK",
+            "ACIDARMOR",
+            "ICYWIND",
+            "RAZORLEAF",
+            "THUNDERFANG",
+            "EMBER",
+            "PSYCHUP",
+            "PINMISSILE",
+            "ICEFANG",
+            "FIREFANG",
+            "MAGICALLEAF",
+            "AQUARING",
+            "TRUMPCARD",
+            "DISCHARGE",
+            "MORNINGSUN",
+            "ICESHARD",
+            "CONFUSERAY",
+            "SUNNYDAY",
+            "GIGADRAIN",
+            "DOUBLEEDGE",
+            "LAVAPLUME",
+            "THUNDERWAVE",
+            "LEAFBLADE",
+            "HAZE",
+            "SYNTHESIS",
+            "THUNDERSHOCK",
+            "THUNDER",
+            "TACKLE",
+            "MIRRORCOAT",
+            "AGILITY",
+            "GROWL",
+            "BARRIER",
+            "GRASSWHISTLE",
+            "SWIFT",
+            "MEANLOOK",
+            "BITE",
+            "HYDROPUMP",
+            "SWORDSDANCE",
+            "TAKEDOWN",
+            "SCREECH",
+            "FIRESPIN",
+            "ASSURANCE",
+            "GUARDSWAP",
+            "AURORABEAM",
+            "POWERSWAP",
+            "HAIL",
+            "PURSUIT",
+            "WATERGUN",
+            "MOONLIGHT",
+            "FIREBLAST",
+            "BATONPASS",
+            "PSYCHIC",
+            "SANDATTACK",
+            "FEINTATTACK",
+            "SCARYFACE",
+            "COVET",
+            "SMOG",
+            "BLIZZARD",
+            "MUDDYWATER",
+            "DOUBLEKICK",
+            "HELPINGHAND",
+            "FUTURESIGHT",
+            "CHARM",
+            "TAILWHIP",
+            "LASTRESORT",
+            "CONFUSION",
+            "PSYBEAM",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "DETECT",
+            "COVET",
+            "WISH",
+            "SYNCHRONOISE",
+            "NATURALGIFT",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "OMANYTE",
+        "movimientos": [
+            "CONSTRICT",
+            "BRINE",
+            "BITE",
+            "HYDROPUMP",
+            "ROCKBLAST",
+            "TICKLE",
+            "LEER",
+            "WATERGUN",
+            "WITHDRAW",
+            "SPIKECANNON",
+            "PROTECT",
+            "MUDSHOT",
+            "SHELLSMASH",
+            "ROLLOUT",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "MUDDYWATER",
+            "TOXICSPIKES",
+            "BIDE",
+            "HAZE",
+            "WHIRLPOOL",
+            "SPIKES"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "KABUTO",
+        "movimientos": [
+            "AQUAJET",
+            "ABSORB",
+            "SCRATCH",
+            "METALSOUND",
+            "FEINT",
+            "ENDURE",
+            "SLASH",
+            "LEER",
+            "HARDEN",
+            "SANDATTACK",
+            "MEGADRAIN",
+            "NIGHTSLASH",
+            "WRINGOUT",
+            "MUDSHOT",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "BUBBLEBEAM",
+            "GIGADRAIN",
+            "KNOCKOFF",
+            "RAPIDSPIN"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "AERODACTYL",
+        "movimientos": [
+            "GIGAIMPACT",
+            "SCARYFACE",
+            "HYPERBEAM",
+            "THUNDERFANG",
+            "CRUNCH",
+            "FIREFANG",
+            "IRONHEAD",
+            "BITE",
+            "SKYDROP",
+            "WINGATTACK",
+            "TAKEDOWN",
+            "ROCKSLIDE",
+            "SUPERSONIC",
+            "ROAR",
+            "ANCIENTPOWER",
+            "ICEFANG",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "ROOST",
+            "TAILWIND",
+            "CURSE",
+            "FORESIGHT"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "SNORLAX",
+        "movimientos": [
+            "REST",
+            "BELLYDRUM",
+            "GIGAIMPACT",
+            "CRUNCH",
+            "SLEEPTALK",
+            "YAWN",
+            "HEAVYSLAM",
+            "LICK",
+            "AMNESIA",
+            "CHIPAWAY",
+            "SNORE",
+            "ROLLOUT",
+            "BODYSLAM",
+            "DEFENSECURL",
+            "BLOCK",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "ZENHEADBUTT",
+            "SELFDESTRUCT",
+            "CHARM",
+            "FISSURE",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "DRATINI",
+        "movimientos": [
+            "DRAGONTAIL",
+            "TWISTER",
+            "WRAP",
+            "SLAM",
+            "LEER",
+            "HYPERBEAM",
+            "DRAGONRAGE",
+            "THUNDERWAVE",
+            "OUTRAGE",
+            "DRAGONRUSH",
+            "SAFEGUARD",
+            "AQUATAIL",
+            "AGILITY",
+            "DRAGONDANCE"
+        ],
+        "movs_huevo": [
+            "DRAGONPULSE",
+            "DRAGONBREATH",
+            "SUPERSONIC",
+            "IRONTAIL",
+            "EXTREMESPEED"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "CHIKORITA",
+        "movimientos": [
+            "GROWL",
+            "RAZORLEAF",
+            "MAGICALLEAF",
+            "SWEETSCENT",
+            "BODYSLAM",
+            "NATURALGIFT",
+            "LIGHTSCREEN",
+            "SOLARBEAM",
+            "POISONPOWDER",
+            "AROMATHERAPY",
+            "SYNTHESIS",
+            "SAFEGUARD",
+            "REFLECT",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "LEECHSEED",
+            "GRASSWHISTLE",
+            "AROMATHERAPY",
+            "COUNTER",
+            "WRINGOUT",
+            "REFRESH",
+            "INGRAIN"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "CYNDAQUIL",
+        "movimientos": [
+            "QUICKATTACK",
+            "SWIFT",
+            "EMBER",
+            "ERUPTION",
+            "FLAMECHARGE",
+            "DOUBLEEDGE",
+            "LEER",
+            "FLAMEWHEEL",
+            "LAVAPLUME",
+            "FLAMETHROWER",
+            "SMOKESCREEN",
+            "ROLLOUT",
+            "INFERNO",
+            "DEFENSECURL",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "QUICKATTACK",
+            "DOUBLEKICK",
+            "THRASH",
+            "HOWL",
+            "FORESIGHT",
+            "CRUSHCLAW",
+            "FLAMEBURST"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TOTODILE",
+        "movimientos": [
+            "RAGE",
+            "SCRATCH",
+            "THRASH",
+            "SUPERPOWER",
+            "CHIPAWAY",
+            "SLASH",
+            "LEER",
+            "CRUNCH",
+            "AQUATAIL",
+            "FLAIL",
+            "BITE",
+            "HYDROPUMP",
+            "SCREECH",
+            "WATERGUN",
+            "SCARYFACE",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "CRUNCH",
+            "AQUAJET",
+            "ICEPUNCH",
+            "MUDSPORT",
+            "FAKETEARS",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "SENTRET",
+        "movimientos": [
+            "REST",
+            "QUICKATTACK",
+            "FORESIGHT",
+            "MEFIRST",
+            "SCRATCH",
+            "SUCKERPUNCH",
+            "SLAM",
+            "BATONPASS",
+            "HELPINGHAND",
+            "HYPERVOICE",
+            "AMNESIA",
+            "FURYSWIPES",
+            "FOLLOWME",
+            "DEFENSECURL"
+        ],
+        "movs_huevo": [
+            "REVERSAL",
+            "CHARM",
+            "TRICK",
+            "IRONTAIL",
+            "NATURALGIFT",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "HOOTHOOT",
+        "movimientos": [
+            "PSYCHOSHIFT",
+            "EXTRASENSORY",
+            "SYNCHRONOISE",
+            "PECK",
+            "ECHOEDVOICE",
+            "AIRSLASH",
+            "REFLECT",
+            "FORESIGHT",
+            "TACKLE",
+            "GROWL",
+            "HYPNOSIS",
+            "TAKEDOWN",
+            "ZENHEADBUTT",
+            "DREAMEATER",
+            "UPROAR",
+            "SKYATTACK",
+            "CONFUSION",
+            "ROOST"
+        ],
+        "movs_huevo": [
+            "FEATHERDANCE",
+            "NIGHTSHADE",
+            "DEFOG",
+            "WINGATTACK",
+            "SUPERSONIC"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "LEDYBA",
+        "movimientos": [
+            "SWIFT",
+            "BUGBUZZ",
+            "COMETPUNCH",
+            "DOUBLEEDGE",
+            "LIGHTSCREEN",
+            "BATONPASS",
+            "SILVERWIND",
+            "MACHPUNCH",
+            "SUPERSONIC",
+            "SAFEGUARD",
+            "REFLECT",
+            "TACKLE",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "DIZZYPUNCH",
+            "ENCORE",
+            "SCREECH",
+            "BUGBITE",
+            "KNOCKOFF"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "SPINARAK",
+        "movimientos": [
+            "CONSTRICT",
+            "STRINGSHOT",
+            "PINMISSILE",
+            "CROSSPOISON",
+            "SUCKERPUNCH",
+            "BUGBITE",
+            "SCARYFACE",
+            "NIGHTSHADE",
+            "SPIDERWEB",
+            "PSYCHIC",
+            "POISONJAB",
+            "LEECHLIFE",
+            "POISONSTING",
+            "FURYSWIPES",
+            "SHADOWSNEAK",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "NIGHTSLASH",
+            "TOXICSPIKES",
+            "SIGNALBEAM",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "CHINCHOU",
+        "movimientos": [
+            "AQUARING",
+            "SWALLOW",
+            "CONFUSERAY",
+            "SPITUP",
+            "THUNDERWAVE",
+            "SPARK",
+            "BUBBLEBEAM",
+            "SUPERSONIC",
+            "ELECTROBALL",
+            "FLAIL",
+            "SIGNALBEAM",
+            "CHARGE",
+            "HYDROPUMP",
+            "TAKEDOWN",
+            "BUBBLE",
+            "STOCKPILE",
+            "WATERGUN",
+            "DISCHARGE"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "SHOCKWAVE",
+            "AMNESIA",
+            "PSYBEAM",
+            "WHIRLPOOL"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "NATU",
+        "movimientos": [
+            "PSYCHOSHIFT",
+            "CONFUSERAY",
+            "LEER",
+            "PECK",
+            "TAILWIND",
+            "LUCKYCHANT",
+            "WISH",
+            "STOREDPOWER",
+            "TELEPORT",
+            "MIRACLEEYE",
+            "MEFIRST",
+            "GUARDSWAP",
+            "POWERSWAP",
+            "OMINOUSWIND",
+            "PSYCHIC",
+            "NIGHTSHADE",
+            "FUTURESIGHT"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "ZENHEADBUTT",
+            "SKILLSWAP",
+            "REFRESH",
+            "HAZE",
+            "SUCKERPUNCH"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "MAREEP",
+        "movimientos": [
+            "GROWL",
+            "POWERGEM",
+            "COTTONSPORE",
+            "CHARGE",
+            "SIGNALBEAM",
+            "TAKEDOWN",
+            "CONFUSERAY",
+            "LIGHTSCREEN",
+            "THUNDERWAVE",
+            "COTTONGUARD",
+            "ELECTROBALL",
+            "THUNDERSHOCK",
+            "DISCHARGE",
+            "THUNDER",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SANDATTACK",
+            "CHARGE",
+            "TAKEDOWN",
+            "IRONTAIL",
+            "AGILITY"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MARILL",
+        "movimientos": [
+            "HYDROPUMP",
+            "WATERSPORT",
+            "AQUARING",
+            "RAINDANCE",
+            "SUPERPOWER",
+            "BUBBLE",
+            "DOUBLEEDGE",
+            "WATERGUN",
+            "BUBBLEBEAM",
+            "HELPINGHAND",
+            "ROLLOUT",
+            "TAILWHIP",
+            "DEFENSECURL",
+            "AQUATAIL",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "PRESENT",
+            "AQUAJET",
+            "MUDDYWATER",
+            "WATERSPORT",
+            "SUPERPOWER",
+            "BODYSLAM"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "SUDOWOODO",
+        "movimientos": [
+            "WOODHAMMER",
+            "DOUBLEEDGE",
+            "FEINTATTACK",
+            "FLAIL",
+            "ROCKTHROW",
+            "LOWKICK",
+            "COUNTER",
+            "COPYCAT",
+            "SUCKERPUNCH",
+            "SLAM",
+            "HAMMERARM",
+            "ROCKTOMB",
+            "ROCKSLIDE",
+            "STONEEDGE",
+            "BLOCK",
+            "MIMIC"
+        ],
+        "movs_huevo": [
+            "SELFDESTRUCT",
+            "DEFENSECURL",
+            "HARDEN",
+            "ROLLOUT"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "HOPPIP",
+        "movimientos": [
+            "MEMENTO",
+            "SPLASH",
+            "STUNSPORE",
+            "SLEEPPOWDER",
+            "POISONPOWDER",
+            "MEGADRAIN",
+            "SYNTHESIS",
+            "UTURN",
+            "TACKLE",
+            "COTTONSPORE",
+            "RAGEPOWDER",
+            "BOUNCE",
+            "WORRYSEED",
+            "ACROBATICS",
+            "LEECHSEED",
+            "TAILWHIP",
+            "GIGADRAIN",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "AROMATHERAPY",
+            "ENCORE",
+            "HELPINGHAND",
+            "COTTONGUARD",
+            "WORRYSEED"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "AIPOM",
+        "movimientos": [
+            "ASTONISH",
+            "SWIFT",
+            "SCRATCH",
+            "SCREECH",
+            "TICKLE",
+            "DOUBLEHIT",
+            "BATONPASS",
+            "SANDATTACK",
+            "NASTYPLOT",
+            "FURYSWIPES",
+            "TAILWHIP",
+            "LASTRESORT",
+            "FLING",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "DOUBLESLAP",
+            "COUNTER",
+            "SCREECH",
+            "BEATUP",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SUNKERN",
+        "movimientos": [
+            "RAZORLEAF",
+            "INGRAIN",
+            "SUNNYDAY",
+            "DOUBLEEDGE",
+            "SOLARBEAM",
+            "MEGADRAIN",
+            "POUND",
+            "SYNTHESIS",
+            "ENDEAVOR",
+            "GRASSWHISTLE",
+            "ABSORB",
+            "WORRYSEED",
+            "SEEDBOMB",
+            "NATURALGIFT",
+            "GROWTH",
+            "LEECHSEED",
+            "LEAFSTORM",
+            "PETALDANCE",
+            "GIGADRAIN",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "LEECHSEED",
+            "CURSE",
+            "HELPINGHAND",
+            "SWEETSCENT",
+            "ENDURE",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "YANMA",
+        "movimientos": [
+            "QUICKATTACK",
+            "FEINT",
+            "BUGBITE",
+            "BUGBUZZ",
+            "SLASH",
+            "SONICBOOM",
+            "SUPERSONIC",
+            "AIRSLASH",
+            "FORESIGHT",
+            "DOUBLETEAM",
+            "UTURN",
+            "TACKLE",
+            "HYPNOSIS",
+            "SCREECH",
+            "PURSUIT",
+            "DETECT",
+            "NIGHTSLASH",
+            "UPROAR",
+            "WINGATTACK",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "SIGNALBEAM",
+            "REVERSAL",
+            "LEECHLIFE",
+            "WHIRLWIND"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "WOOPER",
+        "movimientos": [
+            "YAWN",
+            "RAINDANCE",
+            "SLAM",
+            "MIST",
+            "WATERGUN",
+            "MUDBOMB",
+            "MUDDYWATER",
+            "MUDSHOT",
+            "AMNESIA",
+            "HAZE",
+            "EARTHQUAKE",
+            "TAILWHIP",
+            "MUDSPORT"
+        ],
+        "movs_huevo": [
+            "SPITUP",
+            "CURSE",
+            "AFTERYOU",
+            "ENCORE",
+            "SWALLOW",
+            "BODYSLAM",
+            "RECOVER"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MURKROW",
+        "movimientos": [
+            "ASTONISH",
+            "TAUNT",
+            "MEANLOOK",
+            "TORMENT",
+            "SUCKERPUNCH",
+            "ASSURANCE",
+            "PURSUIT",
+            "PECK",
+            "NIGHTSHADE",
+            "FEINTATTACK",
+            "TAILWIND",
+            "SWAGGER",
+            "NASTYPLOT",
+            "NIGHTSLASH",
+            "DARKPULSE",
+            "QUASH",
+            "WINGATTACK",
+            "HAZE",
+            "FOULPLAY"
+        ],
+        "movs_huevo": [
+            "FEATHERDANCE",
+            "PERISHSONG",
+            "DRILLPECK",
+            "WINGATTACK",
+            "SKYATTACK",
+            "BRAVEBIRD",
+            "ROOST"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "MISDREAVUS",
+        "movimientos": [
+            "ASTONISH",
+            "GROWL",
+            "POWERGEM",
+            "MEANLOOK",
+            "PERISHSONG",
+            "MAGICALLEAF",
+            "CONFUSERAY",
+            "PAYBACK",
+            "SPITE",
+            "SHADOWBALL",
+            "PSYWAVE",
+            "LUCKYCHANT",
+            "GRUDGE",
+            "HEX",
+            "PAINSPLIT",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "WONDERROOM",
+            "MEMENTO",
+            "DESTINYBOND",
+            "SHADOWSNEAK",
+            "OMINOUSWIND"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "GIRAFARIG",
+        "movimientos": [
+            "ASTONISH",
+            "BATONPASS",
+            "GROWL",
+            "PSYCHIC",
+            "CRUNCH",
+            "ODORSLEUTH",
+            "ZENHEADBUTT",
+            "GUARDSWAP",
+            "ASSURANCE",
+            "DOUBLEHIT",
+            "POWERSWAP",
+            "STOMP",
+            "CONFUSION",
+            "PSYBEAM",
+            "AGILITY",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "TAKEDOWN",
+            "SECRETPOWER",
+            "BEATUP",
+            "FORESIGHT",
+            "MAGICCOAT",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PINECO",
+        "movimientos": [
+            "MAGNETRISE",
+            "AUTOTOMIZE",
+            "TOXICSPIKES",
+            "BUGBITE",
+            "DOUBLEEDGE",
+            "ZAPCANNON",
+            "TACKLE",
+            "MIRRORSHOT",
+            "TAKEDOWN",
+            "SELFDESTRUCT",
+            "IRONDEFENSE",
+            "NATURALGIFT",
+            "PAYBACK",
+            "RAPIDSPIN",
+            "GYROBALL",
+            "EXPLOSION",
+            "HEAVYSLAM",
+            "BIDE",
+            "PROTECT",
+            "SPIKES"
+        ],
+        "movs_huevo": [
+            "DOUBLEEDGE",
+            "FLAIL",
+            "SANDTOMB",
+            "SWIFT",
+            "POWERTRICK"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "DUNSPARCE",
+        "movimientos": [
+            "SPITE",
+            "DOUBLEEDGE",
+            "GLARE",
+            "FLAIL",
+            "DRILLRUN",
+            "ROOST",
+            "RAGE",
+            "YAWN",
+            "TAKEDOWN",
+            "SCREECH",
+            "COIL",
+            "ENDEAVOR",
+            "ROLLOUT",
+            "ENDURE",
+            "ANCIENTPOWER",
+            "DEFENSECURL",
+            "DIG",
+            "PURSUIT"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "BIDE",
+            "HEX",
+            "SECRETPOWER",
+            "SNORE",
+            "ANCIENTPOWER"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "GLIGAR",
+        "movimientos": [
+            "QUICKATTACK",
+            "THUNDERFANG",
+            "FIREFANG",
+            "GUILLOTINE",
+            "SLASH",
+            "XSCISSOR",
+            "POISONJAB",
+            "FURYCUTTER",
+            "SKYUPPERCUT",
+            "UTURN",
+            "SWORDSDANCE",
+            "SCREECH",
+            "ACROBATICS",
+            "KNOCKOFF",
+            "HARDEN",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "NIGHTSLASH",
+            "POISONSTING",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "NIGHTSLASH",
+            "CROSSPOISON",
+            "FEINT",
+            "ROCKCLIMB",
+            "WINGATTACK",
+            "POWERTRICK"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "SNUBBULL",
+        "movimientos": [
+            "HEADBUTT",
+            "THUNDERFANG",
+            "RAGE",
+            "FIREFANG",
+            "BITE",
+            "LICK",
+            "TAKEDOWN",
+            "ROAR",
+            "PAYBACK",
+            "SCARYFACE",
+            "CRUNCH",
+            "OUTRAGE",
+            "CHARM",
+            "TAILWHIP",
+            "ICEFANG",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "THUNDERFANG",
+            "CRUNCH",
+            "FOCUSPUNCH",
+            "SMELLINGSALTS",
+            "MIMIC",
+            "ICEFANG"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "QWILFISH",
+        "movimientos": [
+            "SPITUP",
+            "MINIMIZE",
+            "TOXICSPIKES",
+            "STOCKPILE",
+            "BRINE",
+            "PINMISSILE",
+            "TAKEDOWN",
+            "POISONJAB",
+            "POISONSTING",
+            "REVENGE",
+            "DESTINYBOND",
+            "HYDROPUMP",
+            "ROLLOUT",
+            "SPIKES",
+            "HARDEN",
+            "WATERGUN",
+            "TACKLE",
+            "AQUATAIL"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "AQUAJET",
+            "SIGNALBEAM",
+            "BRINE",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "SHUCKLE",
+        "movimientos": [
+            "REST",
+            "WITHDRAW",
+            "CONSTRICT",
+            "ROCKTHROW",
+            "GUARDSPLIT",
+            "STRUGGLEBUG",
+            "ENCORE",
+            "BIDE",
+            "WRAP",
+            "SAFEGUARD",
+            "SHELLSMASH",
+            "ROLLOUT",
+            "BUGBITE",
+            "GASTROACID",
+            "POWERSPLIT",
+            "STONEEDGE",
+            "POWERTRICK",
+            "ROCKSLIDE"
+        ],
+        "movs_huevo": [
+            "ACUPRESSURE",
+            "SANDTOMB",
+            "MUDSLAP",
+            "HELPINGHAND"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "HERACROSS",
+        "movimientos": [
+            "NIGHTSLASH",
+            "CLOSECOMBAT",
+            "COUNTER",
+            "FURYATTACK",
+            "MEGAHORN",
+            "REVERSAL",
+            "TAKEDOWN",
+            "FEINT",
+            "AERIALACE",
+            "CHIPAWAY",
+            "ENDURE",
+            "BRICKBREAK",
+            "LEER",
+            "TACKLE",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "REVENGE",
+            "DOUBLEEDGE",
+            "FOCUSPUNCH",
+            "MEGAHORN"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "SNEASEL",
+        "movimientos": [
+            "QUICKATTACK",
+            "ICYWIND",
+            "SCRATCH",
+            "BEATUP",
+            "ICESHARD",
+            "SLASH",
+            "LEER",
+            "REVENGE",
+            "FURYSWIPES",
+            "FLING",
+            "EMBARGO",
+            "AGILITY",
+            "TAUNT",
+            "SCREECH",
+            "ASSURANCE",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "PUNISHMENT",
+            "METALCLAW",
+            "NIGHTSLASH",
+            "DARKPULSE",
+            "SNATCH",
+            "HONECLAWS"
+        ],
+        "movs_huevo": [
+            "SPITE",
+            "PUNISHMENT",
+            "COUNTER",
+            "AVALANCHE",
+            "FEINT",
+            "DOUBLEHIT",
+            "ICEPUNCH"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TEDDIURSA",
+        "movimientos": [
+            "REST",
+            "SCRATCH",
+            "LICK",
+            "THRASH",
+            "SWEETSCENT",
+            "SLASH",
+            "LEER",
+            "HAMMERARM",
+            "FEINTATTACK",
+            "SCARYFACE",
+            "COVET",
+            "CHARM",
+            "FURYSWIPES",
+            "SNORE",
+            "FLING",
+            "FAKETEARS"
+        ],
+        "movs_huevo": [
+            "NIGHTSLASH",
+            "CRUNCH",
+            "COUNTER",
+            "YAWN",
+            "CHIPAWAY",
+            "SLEEPTALK",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SLUGMA",
+        "movimientos": [
+            "EMBER",
+            "YAWN",
+            "EARTHPOWER",
+            "BODYSLAM",
+            "RECOVER",
+            "HARDEN",
+            "LAVAPLUME",
+            "ROCKTHROW",
+            "SMOG",
+            "FLAMETHROWER",
+            "AMNESIA",
+            "SHELLSMASH",
+            "ANCIENTPOWER",
+            "ROCKSLIDE",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "MEMENTO",
+            "STOCKPILE",
+            "SMOKESCREEN",
+            "HEATWAVE"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "SWINUB",
+        "movimientos": [
+            "ICYWIND",
+            "THRASH",
+            "ICESHARD",
+            "PECK",
+            "EARTHQUAKE",
+            "MUDSPORT",
+            "TACKLE",
+            "POWDERSNOW",
+            "FLAIL",
+            "FURYATTACK",
+            "ODORSLEUTH",
+            "TAKEDOWN",
+            "ENDURE",
+            "MIST",
+            "BLIZZARD",
+            "MUDBOMB",
+            "MUDSLAP",
+            "AMNESIA",
+            "ANCIENTPOWER",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "ICICLECRASH",
+            "AVALANCHE",
+            "TAKEDOWN",
+            "MUDSHOT",
+            "BODYSLAM",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CORSOLA",
+        "movimientos": [
+            "FLAIL",
+            "LUCKYCHANT",
+            "POWERGEM",
+            "RECOVER",
+            "EARTHPOWER",
+            "SPIKECANNON",
+            "BUBBLEBEAM",
+            "ROCKBLAST",
+            "AQUARING",
+            "REFRESH",
+            "IRONDEFENSE",
+            "ENDURE",
+            "ANCIENTPOWER",
+            "BUBBLE",
+            "HARDEN",
+            "TACKLE",
+            "MIRRORCOAT"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "BIDE",
+            "AQUARING",
+            "SCREECH",
+            "MIST",
+            "ICICLESPEAR"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "REMORAID",
+        "movimientos": [
+            "GUNKSHOT",
+            "LOCKON",
+            "CONSTRICT",
+            "SIGNALBEAM",
+            "HYDROPUMP",
+            "FOCUSENERGY",
+            "ROCKBLAST",
+            "AURORABEAM",
+            "SOAK",
+            "HYPERBEAM",
+            "WATERGUN",
+            "WRINGOUT",
+            "BUBBLEBEAM",
+            "ICEBEAM",
+            "OCTAZOOKA",
+            "PSYBEAM",
+            "WATERPULSE",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "SCREECH",
+            "SUPERSONIC",
+            "HAZE",
+            "OCTAZOOKA",
+            "AURORABEAM",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Water2",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "DELIBIRD",
+        "movimientos": [
+            "PRESENT"
+        ],
+        "movs_huevo": [
+            "ICYWIND",
+            "BESTOW",
+            "FUTURESIGHT",
+            "ICEPUNCH",
+            "RAPIDSPIN"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MANTINE",
+        "movimientos": [
+            "HEADBUTT",
+            "WIDEGUARD",
+            "SIGNALBEAM",
+            "BUBBLEBEAM",
+            "HYDROPUMP",
+            "WINGATTACK",
+            "TAKEDOWN",
+            "AQUARING",
+            "BOUNCE",
+            "SUPERSONIC",
+            "AIRSLASH",
+            "CONFUSERAY",
+            "BUBBLE",
+            "PSYBEAM",
+            "AGILITY",
+            "WATERPULSE",
+            "TACKLE",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "TWISTER",
+            "SLAM",
+            "HAZE",
+            "WIDEGUARD",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "SKARMORY",
+        "movimientos": [
+            "PECK",
+            "SANDATTACK",
+            "SWIFT",
+            "AUTOTOMIZE",
+            "NIGHTSLASH",
+            "FURYATTACK",
+            "METALSOUND",
+            "FEINT",
+            "STEELWING",
+            "SLASH",
+            "AIRSLASH",
+            "AIRCUTTER",
+            "SPIKES",
+            "LEER",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "DRILLPECK",
+            "GUARDSWAP",
+            "SKYATTACK",
+            "BRAVEBIRD",
+            "WHIRLWIND"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "HOUNDOUR",
+        "movimientos": [
+            "THUNDERFANG",
+            "EMBER",
+            "FIREFANG",
+            "HOWL",
+            "BEATUP",
+            "ROAR",
+            "LEER",
+            "CRUNCH",
+            "EMBARGO",
+            "ODORSLEUTH",
+            "BITE",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "SMOG",
+            "FLAMETHROWER",
+            "INFERNO",
+            "FOULPLAY"
+        ],
+        "movs_huevo": [
+            "NASTYPLOT",
+            "COUNTER",
+            "FIREFANG",
+            "REVERSAL",
+            "SUCKERPUNCH",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PHANPY",
+        "movimientos": [
+            "GROWL",
+            "FLAIL",
+            "THUNDERFANG",
+            "FURYATTACK",
+            "ODORSLEUTH",
+            "FIREFANG",
+            "TAKEDOWN",
+            "BULLDOZE",
+            "SLAM",
+            "ASSURANCE",
+            "ENDURE",
+            "KNOCKOFF",
+            "NATURALGIFT",
+            "DOUBLEEDGE",
+            "MAGNITUDE",
+            "RAPIDSPIN",
+            "GIGAIMPACT",
+            "SCARYFACE",
+            "CHARM",
+            "EARTHQUAKE",
+            "ROLLOUT",
+            "LASTRESORT",
+            "DEFENSECURL",
+            "TACKLE",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "HEAVYSLAM",
+            "MUDSLAP",
+            "FOCUSENERGY",
+            "ENDEAVOR",
+            "BODYSLAM"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "STANTLER",
+        "movimientos": [
+            "ASTONISH",
+            "SANDATTACK",
+            "CAPTIVATE",
+            "HYPNOSIS",
+            "ROLEPLAY",
+            "MEFIRST",
+            "CALMMIND",
+            "CONFUSERAY",
+            "TAKEDOWN",
+            "ZENHEADBUTT",
+            "IMPRISON",
+            "JUMPKICK",
+            "STOMP",
+            "LEER",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "MEGAHORN",
+            "RAGE",
+            "THRASH",
+            "EXTRASENSORY"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MILTANK",
+        "movimientos": [
+            "MILKDRINK",
+            "GROWL",
+            "GYROBALL",
+            "CAPTIVATE",
+            "BIDE",
+            "WAKEUPSLAP",
+            "ZENHEADBUTT",
+            "HEALBELL",
+            "ROLLOUT",
+            "BODYSLAM",
+            "STOMP",
+            "DEFENSECURL",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "DIZZYPUNCH",
+            "HEARTSTAMP",
+            "PUNISHMENT",
+            "ENDURE",
+            "NATURALGIFT",
+            "SEISMICTOSS"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "LARVITAR",
+        "movimientos": [
+            "SANDSTORM",
+            "BITE",
+            "SCREECH",
+            "THRASH",
+            "CHIPAWAY",
+            "LEER",
+            "PAYBACK",
+            "HYPERBEAM",
+            "SCARYFACE",
+            "CRUNCH",
+            "DARKPULSE",
+            "EARTHQUAKE",
+            "ROCKSLIDE",
+            "STONEEDGE"
+        ],
+        "movs_huevo": [
+            "ASSURANCE",
+            "IRONDEFENSE",
+            "STOMP",
+            "IRONTAIL",
+            "PURSUIT",
+            "DRAGONDANCE"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "TREECKO",
+        "movimientos": [
+            "QUICKATTACK",
+            "ABSORB",
+            "SCREECH",
+            "SLAM",
+            "FALSESWIPE",
+            "PURSUIT",
+            "LEER",
+            "LEAFSTORM",
+            "MEGADRAIN",
+            "DETECT",
+            "POUND",
+            "ENERGYBALL",
+            "FURYCUTTER",
+            "LEAFBLADE",
+            "GIGADRAIN",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "CRUNCH",
+            "DOUBLEKICK",
+            "MAGICALLEAF",
+            "SYNTHESIS",
+            "ENDEAVOR",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "TORCHIC",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "EMBER",
+            "SCRATCH",
+            "FOCUSENERGY",
+            "FIRESPIN",
+            "FLAREBLITZ",
+            "SLASH",
+            "PECK",
+            "SANDATTACK",
+            "FLAMETHROWER",
+            "DOUBLEKICK",
+            "BULKUP",
+            "MIRRORMOVE",
+            "SKYUPPERCUT"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "NIGHTSLASH",
+            "FEINT",
+            "ENDURE",
+            "SMELLINGSALTS",
+            "LASTRESORT",
+            "CRUSHCLAW"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MUDKIP",
+        "movimientos": [
+            "GROWL",
+            "HYDROPUMP",
+            "TAKEDOWN",
+            "WHIRLPOOL",
+            "WATERGUN",
+            "MUDBOMB",
+            "MUDDYWATER",
+            "MUDSLAP",
+            "BIDE",
+            "PROTECT",
+            "MUDSHOT",
+            "EARTHQUAKE",
+            "FORESIGHT",
+            "ENDEAVOR",
+            "MUDSPORT",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "AVALANCHE",
+            "YAWN",
+            "REFRESH",
+            "STOMP",
+            "DOUBLEEDGE",
+            "WHIRLPOOL",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "POOCHYENA",
+        "movimientos": [
+            "TAUNT",
+            "ODORSLEUTH",
+            "BITE",
+            "TAKEDOWN",
+            "SUCKERPUNCH",
+            "ASSURANCE",
+            "HOWL",
+            "ROAR",
+            "THIEF",
+            "SCARYFACE",
+            "SANDATTACK",
+            "SWAGGER",
+            "CRUNCH",
+            "EMBARGO",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "COVET",
+            "MEFIRST",
+            "YAWN",
+            "SUCKERPUNCH",
+            "SLEEPTALK",
+            "ICEFANG"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "ZIGZAGOON",
+        "movimientos": [
+            "HEADBUTT",
+            "GROWL",
+            "FLAIL",
+            "REST",
+            "BESTOW",
+            "ODORSLEUTH",
+            "PINMISSILE",
+            "MUDSPORT",
+            "SLASH",
+            "BELLYDRUM",
+            "SANDATTACK",
+            "COVET",
+            "FURYSWIPES",
+            "TAILWHIP",
+            "FLING",
+            "SWITCHEROO",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "TICKLE",
+            "PURSUIT",
+            "HELPINGHAND",
+            "SIMPLEBEAM"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "LOTAD",
+        "movimientos": [
+            "ASTONISH",
+            "GROWL",
+            "ABSORB",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "ZENHEADBUTT",
+            "RAINDANCE",
+            "MIST",
+            "NATURALGIFT",
+            "NATUREPOWER",
+            "MEGADRAIN",
+            "ENERGYBALL",
+            "BUBBLEBEAM",
+            "UPROAR",
+            "FAKEOUT",
+            "FURYSWIPES"
+        ],
+        "movs_huevo": [
+            "LEECHSEED",
+            "FLAIL",
+            "TEETERDANCE",
+            "SWEETSCENT",
+            "WATERGUN"
+        ],
+        "grupos_huevo": [
+            "Grass",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "SEEDOT",
+        "movimientos": [
+            "FEINTATTACK",
+            "EXPLOSION",
+            "SWAGGER",
+            "RAZORLEAF",
+            "TORMENT",
+            "POUND",
+            "RAZORWIND",
+            "BIDE",
+            "FAKEOUT",
+            "SYNTHESIS",
+            "EXTRASENSORY",
+            "SUNNYDAY",
+            "GROWTH",
+            "HARDEN",
+            "NATUREPOWER"
+        ],
+        "movs_huevo": [
+            "LEECHSEED",
+            "RAZORWIND",
+            "DEFOG",
+            "WORRYSEED",
+            "BEATUP",
+            "POWERSWAP"
+        ],
+        "grupos_huevo": [
+            "Grass",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TAILLOW",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "FOCUSENERGY",
+            "AERIALACE",
+            "PECK",
+            "PLUCK",
+            "WINGATTACK",
+            "AIRSLASH",
+            "DOUBLETEAM",
+            "ENDEAVOR",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "DEFOG",
+            "REFRESH",
+            "SKYATTACK",
+            "SUPERSONIC",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "WINGULL",
+        "movimientos": [
+            "QUICKATTACK",
+            "WATERSPORT",
+            "SWALLOW",
+            "SPITUP",
+            "TAILWIND",
+            "SUPERSONIC",
+            "AIRSLASH",
+            "FLING",
+            "AGILITY",
+            "GROWL",
+            "HURRICANE",
+            "BRINE",
+            "HYDROPUMP",
+            "AERIALACE",
+            "SOAK",
+            "MIST",
+            "AIRCUTTER",
+            "PURSUIT",
+            "PAYBACK",
+            "WATERGUN",
+            "STOCKPILE",
+            "PROTECT",
+            "WINGATTACK",
+            "ROOST",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "AQUARING",
+            "TWISTER",
+            "GUST",
+            "MIST"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "RALTS",
+        "movimientos": [
+            "GROWL",
+            "HYPNOSIS",
+            "MAGICALLEAF",
+            "DREAMEATER",
+            "PSYCHIC",
+            "LUCKYCHANT",
+            "STOREDPOWER",
+            "TELEPORT",
+            "CALMMIND",
+            "IMPRISON",
+            "FUTURESIGHT",
+            "CHARM",
+            "DOUBLETEAM",
+            "CONFUSION",
+            "HEALPULSE"
+        ],
+        "movs_huevo": [
+            "MEANLOOK",
+            "ENCORE",
+            "DESTINYBOND",
+            "SYNCHRONOISE",
+            "SHADOWSNEAK"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "SURSKIT",
+        "movimientos": [
+            "QUICKATTACK",
+            "WATERSPORT",
+            "QUIVERDANCE",
+            "SWEETSCENT",
+            "STUNSPORE",
+            "MIST",
+            "BUBBLE",
+            "BUGBUZZ",
+            "OMINOUSWIND",
+            "GUST",
+            "BATONPASS",
+            "SCARYFACE",
+            "BUBBLEBEAM",
+            "SILVERWIND",
+            "HAZE",
+            "AIRSLASH",
+            "AGILITY",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "PSYBEAM",
+            "BUGBITE",
+            "MINDREADER",
+            "FORESIGHT"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "SHROOMISH",
+        "movimientos": [
+            "HEADBUTT",
+            "FORCEPALM",
+            "SPORE",
+            "ABSORB",
+            "WORRYSEED",
+            "STUNSPORE",
+            "SEEDBOMB",
+            "MINDREADER",
+            "GROWTH",
+            "LEECHSEED",
+            "MEGADRAIN",
+            "POISONPOWDER",
+            "COUNTER",
+            "MACHPUNCH",
+            "SKYUPPERCUT",
+            "DYNAMICPUNCH",
+            "GIGADRAIN",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "HELPINGHAND",
+            "CHARM",
+            "SEEDBOMB",
+            "WORRYSEED",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "SLAKOTH",
+        "movimientos": [
+            "FLAIL",
+            "SLACKOFF",
+            "YAWN",
+            "REVERSAL",
+            "SCRATCH",
+            "FOCUSENERGY",
+            "CHIPAWAY",
+            "ENDURE",
+            "SLASH",
+            "FEINTATTACK",
+            "COVET",
+            "COUNTER",
+            "ENCORE",
+            "FOCUSPUNCH",
+            "UPROAR",
+            "AMNESIA",
+            "FURYSWIPES"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "NIGHTSLASH",
+            "SNORE",
+            "BODYSLAM",
+            "SLASH"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "NINCADA",
+        "movimientos": [
+            "SWORDSDANCE",
+            "SCRATCH",
+            "SHADOWSNEAK",
+            "SCREECH",
+            "BUGBITE",
+            "FALSESWIPE",
+            "MINDREADER",
+            "CONFUSERAY",
+            "SLASH",
+            "HARDEN",
+            "HEALBLOCK",
+            "SPITE",
+            "BATONPASS",
+            "SANDATTACK",
+            "SHADOWBALL",
+            "METALCLAW",
+            "XSCISSOR",
+            "GRUDGE",
+            "MUDSLAP",
+            "LEECHLIFE",
+            "FURYCUTTER",
+            "FURYSWIPES",
+            "DOUBLETEAM",
+            "DIG",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "GUST",
+            "BUGBUZZ",
+            "SILVERWIND",
+            "FEINTATTACK"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "WHISMUR",
+        "movimientos": [
+            "ASTONISH",
+            "REST",
+            "BITE",
+            "SCREECH",
+            "HOWL",
+            "SYNCHRONOISE",
+            "ROAR",
+            "POUND",
+            "UPROAR",
+            "HYPERVOICE",
+            "SUPERSONIC",
+            "STOMP",
+            "SLEEPTALK"
+        ],
+        "movs_huevo": [
+            "ENDEAVOR",
+            "SMELLINGSALTS",
+            "FAKETEARS",
+            "SNORE"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MAKUHITA",
+        "movimientos": [
+            "REVERSAL",
+            "FOCUSENERGY",
+            "VITALTHROW",
+            "CLOSECOMBAT",
+            "WAKEUPSLAP",
+            "ARMTHRUST",
+            "FAKEOUT",
+            "SMELLINGSALTS",
+            "TACKLE",
+            "SEISMICTOSS",
+            "WHIRLWIND",
+            "FORCEPALM",
+            "BRINE",
+            "ENDURE",
+            "KNOCKOFF",
+            "BELLYDRUM",
+            "SANDATTACK",
+            "HEAVYSLAM"
+        ],
+        "movs_huevo": [
+            "CROSSCHOP",
+            "FEINT",
+            "REVENGE",
+            "CHIPAWAY",
+            "DYNAMICPUNCH",
+            "FORESIGHT",
+            "WIDEGUARD"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "NOSEPASS",
+        "movimientos": [
+            "POWERGEM",
+            "MAGNETRISE",
+            "EARTHPOWER",
+            "ROCKBLAST",
+            "GRAVITY",
+            "THUNDERWAVE",
+            "ROCKTHROW",
+            "SPARK",
+            "ZAPCANNON",
+            "BLOCK",
+            "STONEEDGE",
+            "ROCKSLIDE",
+            "TACKLE",
+            "REST",
+            "LOCKON",
+            "SANDSTORM",
+            "MAGNETBOMB",
+            "IRONDEFENSE",
+            "HARDEN",
+            "DISCHARGE"
+        ],
+        "movs_huevo": [
+            "STEALTHROCK",
+            "DOUBLEEDGE",
+            "MAGNITUDE"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "SKITTY",
+        "movimientos": [
+            "GROWL",
+            "SING",
+            "DOUBLESLAP",
+            "FORESIGHT",
+            "DOUBLEEDGE",
+            "FEINTATTACK",
+            "CAPTIVATE",
+            "COVET",
+            "COPYCAT",
+            "ATTRACT",
+            "ASSIST",
+            "FAKEOUT",
+            "WAKEUPSLAP",
+            "HEALBELL",
+            "CHARM",
+            "TAILWHIP",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "CAPTIVATE",
+            "WISH",
+            "SIMPLEBEAM",
+            "TICKLE",
+            "LASTRESORT",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SABLEYE",
+        "movimientos": [
+            "POWERGEM",
+            "SCRATCH",
+            "CONFUSERAY",
+            "LEER",
+            "SHADOWCLAW",
+            "FAKEOUT",
+            "FURYSWIPES",
+            "SHADOWSNEAK",
+            "FORESIGHT",
+            "ASTONISH",
+            "MEANLOOK",
+            "ZENHEADBUTT",
+            "KNOCKOFF",
+            "FEINTATTACK",
+            "NIGHTSHADE",
+            "SHADOWBALL",
+            "PUNISHMENT",
+            "DETECT",
+            "FOULPLAY"
+        ],
+        "movs_huevo": [
+            "MEANLOOK",
+            "FEINT",
+            "TRICK",
+            "RECOVER",
+            "MOONLIGHT"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "MAWILE",
+        "movimientos": [
+            "ASTONISH",
+            "BATONPASS",
+            "FEINTATTACK",
+            "SPITUP",
+            "CRUNCH",
+            "IRONHEAD",
+            "BITE",
+            "VICEGRIP",
+            "SWEETSCENT",
+            "SUCKERPUNCH",
+            "IRONDEFENSE",
+            "SWALLOW",
+            "FAKETEARS",
+            "STOCKPILE"
+        ],
+        "movs_huevo": [
+            "PUNISHMENT",
+            "CAPTIVATE",
+            "SUCKERPUNCH",
+            "GUARDSWAP",
+            "TICKLE",
+            "METALBURST"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "ARON",
+        "movimientos": [
+            "HEADBUTT",
+            "AUTOTOMIZE",
+            "IRONHEAD",
+            "ROAR",
+            "DOUBLEEDGE",
+            "TACKLE",
+            "METALBURST",
+            "METALSOUND",
+            "TAKEDOWN",
+            "IRONDEFENSE",
+            "IRONTAIL",
+            "HARDEN",
+            "METALCLAW",
+            "HEAVYSLAM",
+            "MUDSLAP",
+            "PROTECT"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "IRONHEAD",
+            "SMELLINGSALTS",
+            "ENDEAVOR",
+            "STOMP"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "MEDITITE",
+        "movimientos": [
+            "PSYCHUP",
+            "REVERSAL",
+            "FEINT",
+            "MINDREADER",
+            "ICEPUNCH",
+            "RECOVER",
+            "POWERTRICK",
+            "MEDITATE",
+            "ACUPRESSURE",
+            "HIGHJUMPKICK",
+            "FORCEPALM",
+            "THUNDERPUNCH",
+            "DETECT",
+            "HIDDENPOWER",
+            "BIDE",
+            "CALMMIND",
+            "FIREPUNCH",
+            "CONFUSION"
+        ],
+        "movs_huevo": [
+            "BULLETPUNCH",
+            "GUARDSWAP",
+            "FIREPUNCH",
+            "DYNAMICPUNCH",
+            "POWERSWAP",
+            "SECRETPOWER"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "ELECTRIKE",
+        "movimientos": [
+            "QUICKATTACK",
+            "THUNDERFANG",
+            "ODORSLEUTH",
+            "CHARGE",
+            "BITE",
+            "FIREFANG",
+            "HOWL",
+            "ROAR",
+            "LEER",
+            "THUNDERWAVE",
+            "SPARK",
+            "WILDCHARGE",
+            "DISCHARGE",
+            "THUNDER",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "SWIFT",
+            "THUNDERFANG",
+            "ELECTROBALL",
+            "ICEFANG",
+            "FLAMEBURST"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PLUSLE",
+        "movimientos": [
+            "BATONPASS",
+            "GROWL",
+            "NASTYPLOT",
+            "THUNDERWAVE",
+            "QUICKATTACK",
+            "SPARK",
+            "SWIFT",
+            "THUNDER",
+            "COPYCAT",
+            "ENCORE",
+            "CHARGE",
+            "HELPINGHAND",
+            "ENTRAINMENT",
+            "ELECTROBALL",
+            "LASTRESORT",
+            "FAKETEARS",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "SWEETKISS",
+            "LUCKYCHANT"
+        ],
+        "grupos_huevo": [
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "MINUN",
+        "movimientos": [
+            "BATONPASS",
+            "GROWL",
+            "NASTYPLOT",
+            "THUNDERWAVE",
+            "QUICKATTACK",
+            "SPARK",
+            "SWIFT",
+            "THUNDER",
+            "COPYCAT",
+            "ENCORE",
+            "CHARGE",
+            "HELPINGHAND",
+            "ENTRAINMENT",
+            "CHARM",
+            "TRUMPCARD",
+            "ELECTROBALL",
+            "FAKETEARS",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "SWEETKISS",
+            "LUCKYCHANT"
+        ],
+        "grupos_huevo": [
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "VOLBEAT",
+        "movimientos": [
+            "FLASH",
+            "QUICKATTACK",
+            "SIGNALBEAM",
+            "HELPINGHAND",
+            "PROTECT",
+            "ZENHEADBUTT",
+            "TAILGLOW",
+            "TACKLE",
+            "DOUBLETEAM",
+            "CONFUSERAY",
+            "BUGBUZZ",
+            "DOUBLEEDGE",
+            "MOONLIGHT"
+        ],
+        "movs_huevo": [
+            "BUGBUZZ",
+            "ENCORE",
+            "SILVERWIND"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "ILLUMISE",
+        "movimientos": [
+            "QUICKATTACK",
+            "COVET",
+            "WISH",
+            "ENCORE",
+            "HELPINGHAND",
+            "ZENHEADBUTT",
+            "SWEETSCENT",
+            "CHARM",
+            "TACKLE",
+            "BUGBUZZ",
+            "FLATTER",
+            "MOONLIGHT"
+        ],
+        "movs_huevo": [
+            "CONFUSERAY",
+            "BUGBUZZ",
+            "FAKETEARS",
+            "SILVERWIND"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "ROSELIA",
+        "movimientos": [
+            "GRASSWHISTLE",
+            "ABSORB",
+            "TOXICSPIKES",
+            "MAGICALLEAF",
+            "SWEETSCENT",
+            "STUNSPORE",
+            "INGRAIN",
+            "GROWTH",
+            "LEECHSEED",
+            "WEATHERBALL",
+            "TOXIC",
+            "MEGADRAIN",
+            "AROMATHERAPY",
+            "POISONSTING",
+            "SYNTHESIS",
+            "PETALDANCE",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "RAZORLEAF",
+            "SLEEPPOWDER",
+            "SYNTHESIS",
+            "NATURALGIFT",
+            "GIGADRAIN"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "GULPIN",
+        "movimientos": [
+            "GUNKSHOT",
+            "YAWN",
+            "ACIDSPRAY",
+            "SLUDGEBOMB",
+            "SWALLOW",
+            "BODYSLAM",
+            "STOCKPILE",
+            "POISONGAS",
+            "SPITUP",
+            "TOXIC",
+            "POUND",
+            "WRINGOUT",
+            "ENCORE",
+            "SLUDGE",
+            "AMNESIA",
+            "GASTROACID"
+        ],
+        "movs_huevo": [
+            "PAINSPLIT",
+            "GUNKSHOT",
+            "CURSE"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "CARVANHA",
+        "movimientos": [
+            "TAUNT",
+            "RAGE",
+            "AQUAJET",
+            "BITE",
+            "FOCUSENERGY",
+            "SCREECH",
+            "TAKEDOWN",
+            "FEINT",
+            "ASSURANCE",
+            "SLASH",
+            "LEER",
+            "SCARYFACE",
+            "SWAGGER",
+            "NIGHTSLASH",
+            "CRUNCH",
+            "SKULLBASH",
+            "ICEFANG",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "THRASH",
+            "BRINE",
+            "HYDROPUMP"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "WAILMER",
+        "movimientos": [
+            "SPLASH",
+            "DIVE",
+            "ROLLOUT",
+            "ASTONISH",
+            "REST",
+            "GROWL",
+            "BRINE",
+            "HYDROPUMP",
+            "BOUNCE",
+            "MIST",
+            "WATERSPOUT",
+            "WHIRLPOOL",
+            "WATERGUN",
+            "HEAVYSLAM",
+            "AMNESIA",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "ZENHEADBUTT",
+            "THRASH",
+            "SNORE",
+            "FISSURE",
+            "BODYSLAM",
+            "DEFENSECURL"
+        ],
+        "grupos_huevo": [
+            "Water2",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "NUMEL",
+        "movimientos": [
+            "GROWL",
+            "CURSE",
+            "EMBER",
+            "EARTHPOWER",
+            "YAWN",
+            "FOCUSENERGY",
+            "TAKEDOWN",
+            "ERUPTION",
+            "DOUBLEEDGE",
+            "MAGNITUDE",
+            "LAVAPLUME",
+            "FLAMETHROWER",
+            "AMNESIA",
+            "EARTHQUAKE",
+            "FISSURE",
+            "ROCKSLIDE",
+            "TACKLE",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "SCARYFACE",
+            "MUDBOMB",
+            "HOWL",
+            "ENDURE",
+            "SWALLOW",
+            "BODYSLAM",
+            "STOCKPILE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TORKOAL",
+        "movimientos": [
+            "LAVAPLUME",
+            "HEATWAVE",
+            "FLAIL",
+            "WITHDRAW",
+            "CURSE",
+            "INFERNO",
+            "SMOG",
+            "FLAMETHROWER",
+            "EMBER",
+            "PROTECT",
+            "SMOKESCREEN",
+            "FIRESPIN",
+            "AMNESIA",
+            "SHELLSMASH",
+            "IRONDEFENSE",
+            "BODYSLAM",
+            "RAPIDSPIN"
+        ],
+        "movs_huevo": [
+            "YAWN",
+            "FISSURE",
+            "SKULLBASH",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SPOINK",
+        "movimientos": [
+            "REST",
+            "POWERGEM",
+            "SPLASH",
+            "ODORSLEUTH",
+            "PSYCHUP",
+            "ZENHEADBUTT",
+            "BOUNCE",
+            "MAGICCOAT",
+            "CONFUSERAY",
+            "PAYBACK",
+            "PSYCHIC",
+            "PSYWAVE",
+            "PSYSHOCK",
+            "SNORE",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "ZENHEADBUTT",
+            "FUTURESIGHT",
+            "TRICK",
+            "ENDURE",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SPINDA",
+        "movimientos": [
+            "DIZZYPUNCH",
+            "FEINTATTACK",
+            "FLAIL",
+            "COPYCAT",
+            "HYPNOSIS",
+            "TEETERDANCE",
+            "PSYCHUP",
+            "UPROAR",
+            "THRASH",
+            "SUCKERPUNCH",
+            "PSYBEAM",
+            "DOUBLEEDGE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "WISH",
+            "ROLEPLAY",
+            "ENCORE",
+            "PSYCHOCUT",
+            "TRICK",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TRAPINCH",
+        "movimientos": [
+            "SANDTOMB",
+            "SANDSTORM",
+            "EARTHPOWER",
+            "BITE",
+            "DRAGONBREATH",
+            "BULLDOZE",
+            "FEINT",
+            "SCREECH",
+            "SUPERPOWER",
+            "HYPERBEAM",
+            "SONICBOOM",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "CRUNCH",
+            "MUDSLAP",
+            "BIDE",
+            "SUPERSONIC",
+            "EARTHQUAKE",
+            "FISSURE",
+            "DIG",
+            "ROCKSLIDE"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "EARTHPOWER",
+            "SIGNALBEAM",
+            "FURYCUTTER",
+            "MUDSHOT"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "CACNEA",
+        "movimientos": [
+            "PINMISSILE",
+            "INGRAIN",
+            "LEER",
+            "REVENGE",
+            "SANDSTORM",
+            "COTTONSPORE",
+            "ABSORB",
+            "SUCKERPUNCH",
+            "GROWTH",
+            "PAYBACK",
+            "LEECHSEED",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "NEEDLEARM",
+            "POISONSTING",
+            "DESTINYBOND",
+            "SPIKES"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "GRASSWHISTLE",
+            "MAGICALLEAF",
+            "WORRYSEED",
+            "SEEDBOMB",
+            "SWITCHEROO",
+            "BLOCK"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "SWABLU",
+        "movimientos": [
+            "SING",
+            "PERISHSONG",
+            "DRAGONBREATH",
+            "PECK",
+            "MIRRORMOVE",
+            "DRAGONDANCE",
+            "ASTONISH",
+            "ROUND",
+            "GROWL",
+            "FURYATTACK",
+            "TAKEDOWN",
+            "REFRESH",
+            "MIST",
+            "NATURALGIFT",
+            "PLUCK",
+            "DRAGONPULSE",
+            "COTTONGUARD",
+            "SAFEGUARD",
+            "SKYATTACK"
+        ],
+        "movs_huevo": [
+            "RAGE",
+            "DRAGONRUSH",
+            "STEELWING",
+            "HAZE",
+            "POWERSWAP"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "ZANGOOSE",
+        "movimientos": [
+            "CRUSHCLAW",
+            "QUICKATTACK",
+            "DETECT",
+            "XSCISSOR",
+            "TAUNT",
+            "CLOSECOMBAT",
+            "SWORDSDANCE",
+            "SCRATCH",
+            "FURYCUTTER",
+            "REVENGE",
+            "FALSESWIPE",
+            "LEER",
+            "SLASH",
+            "EMBARGO",
+            "PURSUIT"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "CURSE",
+            "NIGHTSLASH",
+            "FEINT",
+            "DOUBLEHIT",
+            "IRONTAIL"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SEVIPER",
+        "movimientos": [
+            "GLARE",
+            "SWAGGER",
+            "VENOSHOCK",
+            "POISONFANG",
+            "NIGHTSLASH",
+            "CRUNCH",
+            "WRINGOUT",
+            "POISONTAIL",
+            "BITE",
+            "POISONJAB",
+            "LICK",
+            "SCREECH",
+            "COIL",
+            "WRAP",
+            "HAZE",
+            "GASTROACID"
+        ],
+        "movs_huevo": [
+            "SPITUP",
+            "PUNISHMENT",
+            "WRINGOUT",
+            "SWALLOW",
+            "BODYSLAM",
+            "IRONTAIL"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "BARBOACH",
+        "movimientos": [
+            "REST",
+            "WATERSPORT",
+            "ZENHEADBUTT",
+            "TICKLE",
+            "MAGNITUDE",
+            "WATERGUN",
+            "MUDBOMB",
+            "MUDSLAP",
+            "FUTURESIGHT",
+            "AMNESIA",
+            "SNORE",
+            "EARTHQUAKE",
+            "FISSURE",
+            "MUDSPORT",
+            "AQUATAIL",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "EARTHPOWER",
+            "MUDDYWATER",
+            "HYDROPUMP",
+            "TAKEDOWN",
+            "WHIRLPOOL"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "CORPHISH",
+        "movimientos": [
+            "TAUNT",
+            "SWIFT",
+            "SWORDSDANCE",
+            "VICEGRIP",
+            "GUILLOTINE",
+            "KNOCKOFF",
+            "BUBBLE",
+            "LEER",
+            "HARDEN",
+            "NIGHTSLASH",
+            "CRUNCH",
+            "BUBBLEBEAM",
+            "PROTECT",
+            "CRABHAMMER"
+        ],
+        "movs_huevo": [
+            "METALCLAW",
+            "ENDEAVOR",
+            "SUPERPOWER",
+            "BODYSLAM",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "LILEEP",
+        "movimientos": [
+            "ASTONISH",
+            "CONSTRICT",
+            "SWALLOW",
+            "INGRAIN",
+            "CONFUSERAY",
+            "STOCKPILE",
+            "SPITUP",
+            "WRINGOUT",
+            "ENERGYBALL",
+            "GASTROACID",
+            "ACID",
+            "AMNESIA",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "RECOVER",
+            "CURSE",
+            "MEGADRAIN",
+            "TICKLE"
+        ],
+        "grupos_huevo": [
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "ANORITH",
+        "movimientos": [
+            "SCRATCH",
+            "ROCKBLAST",
+            "CRUSHCLAW",
+            "SLASH",
+            "HARDEN",
+            "WATERGUN",
+            "METALCLAW",
+            "XSCISSOR",
+            "PROTECT",
+            "FURYCUTTER",
+            "ANCIENTPOWER",
+            "MUDSPORT"
+        ],
+        "movs_huevo": [
+            "WATERPULSE",
+            "KNOCKOFF",
+            "SANDATTACK",
+            "CURSE"
+        ],
+        "grupos_huevo": [
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "FEEBAS",
+        "movimientos": [
+            "FLAIL",
+            "SPLASH",
+            "TWISTER",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "AQUARING",
+            "RAINDANCE",
+            "REFRESH",
+            "WRAP",
+            "RECOVER",
+            "WATERGUN",
+            "CAPTIVATE",
+            "ATTRACT",
+            "SAFEGUARD",
+            "AQUATAIL",
+            "WATERPULSE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "CAPTIVATE",
+            "DRAGONPULSE",
+            "TICKLE",
+            "HAZE",
+            "MIST",
+            "IRONTAIL"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "CASTFORM",
+        "movimientos": [
+            "POWDERSNOW",
+            "HEADBUTT",
+            "WEATHERBALL",
+            "BLIZZARD",
+            "EMBER",
+            "HYDROPUMP",
+            "RAINDANCE",
+            "TACKLE",
+            "HAIL",
+            "SUNNYDAY",
+            "FIREBLAST",
+            "WATERGUN"
+        ],
+        "movs_huevo": [
+            "FUTURESIGHT",
+            "LUCKYCHANT",
+            "CLEARSMOG"
+        ],
+        "grupos_huevo": [
+            "Amorphous",
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "KECLEON",
+        "movimientos": [
+            "ASTONISH",
+            "SHADOWCLAW",
+            "FEINTATTACK",
+            "SUBSTITUTE",
+            "SCRATCH",
+            "SHADOWSNEAK",
+            "LICK",
+            "FEINT",
+            "PSYBEAM",
+            "SCREECH",
+            "SUCKERPUNCH",
+            "FURYSWIPES",
+            "SYNCHRONOISE",
+            "TAILWHIP",
+            "ANCIENTPOWER",
+            "SLASH",
+            "BIND",
+            "THIEF"
+        ],
+        "movs_huevo": [
+            "DIZZYPUNCH",
+            "NASTYPLOT",
+            "SKILLSWAP",
+            "TRICK",
+            "FOULPLAY"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SHUPPET",
+        "movimientos": [
+            "CURSE",
+            "SCREECH",
+            "SUCKERPUNCH",
+            "WILLOWISP",
+            "KNOCKOFF",
+            "SPITE",
+            "FEINTATTACK",
+            "NIGHTSHADE",
+            "SHADOWBALL",
+            "GRUDGE",
+            "HEX",
+            "SNATCH",
+            "TRICK",
+            "SHADOWSNEAK",
+            "EMBARGO"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "GUNKSHOT",
+            "SHADOWSNEAK",
+            "CONFUSERAY",
+            "OMINOUSWIND"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "DUSKULL",
+        "movimientos": [
+            "GRAVITY",
+            "ICEPUNCH",
+            "CONFUSERAY",
+            "WILLOWISP",
+            "BIND",
+            "LEER",
+            "DISABLE",
+            "SHADOWPUNCH",
+            "HEX",
+            "SHADOWSNEAK",
+            "FORESIGHT",
+            "ASTONISH",
+            "CURSE",
+            "MEANLOOK",
+            "THUNDERPUNCH",
+            "PURSUIT",
+            "PAYBACK",
+            "NIGHTSHADE",
+            "FUTURESIGHT",
+            "FIREPUNCH"
+        ],
+        "movs_huevo": [
+            "GRUDGE",
+            "DESTINYBOND",
+            "PAINSPLIT",
+            "MEMENTO"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "TROPIUS",
+        "movimientos": [
+            "LEAFSTORM",
+            "SOLARBEAM",
+            "RAZORLEAF",
+            "BESTOW",
+            "NATURALGIFT",
+            "MAGICALLEAF",
+            "SWEETSCENT",
+            "SYNTHESIS",
+            "LEAFTORNADO",
+            "AIRSLASH",
+            "BODYSLAM",
+            "STOMP",
+            "GROWTH",
+            "LEER",
+            "GUST",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "LEAFSTORM",
+            "HEADBUTT",
+            "CURSE",
+            "RAZORWIND",
+            "SYNTHESIS",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "CHIMECHO",
+        "movimientos": [
+            "ASTONISH",
+            "GROWL",
+            "PSYWAVE",
+            "YAWN",
+            "UPROAR",
+            "TAKEDOWN",
+            "HEALBELL",
+            "WRAP",
+            "SAFEGUARD",
+            "EXTRASENSORY",
+            "SYNCHRONOISE",
+            "CONFUSION",
+            "HEALINGWISH",
+            "DOUBLEEDGE",
+            "HEALPULSE"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "HYPNOSIS",
+            "STOREDPOWER"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "ABSOL",
+        "movimientos": [
+            "QUICKATTACK",
+            "TAUNT",
+            "NIGHTSLASH",
+            "DETECT",
+            "PERISHSONG",
+            "MEFIRST",
+            "BITE",
+            "SCRATCH",
+            "SWORDSDANCE",
+            "FEINT",
+            "PSYCHOCUT",
+            "RAZORWIND",
+            "FUTURESIGHT",
+            "SUCKERPUNCH",
+            "LEER",
+            "DOUBLETEAM",
+            "SLASH",
+            "PURSUIT"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "PUNISHMENT",
+            "MEGAHORN",
+            "MEANLOOK",
+            "ZENHEADBUTT",
+            "HEX",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SNORUNT",
+        "movimientos": [
+            "POWDERSNOW",
+            "HEADBUTT",
+            "ASTONISH",
+            "ICYWIND",
+            "BITE",
+            "ICESHARD",
+            "CONFUSERAY",
+            "HAIL",
+            "LEER",
+            "OMINOUSWIND",
+            "SHEERCOLD",
+            "CAPTIVATE",
+            "CRUNCH",
+            "BLIZZARD",
+            "PROTECT",
+            "WAKEUPSLAP",
+            "DESTINYBOND",
+            "ICEBEAM",
+            "DOUBLETEAM",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "HEX",
+            "BIDE",
+            "SPIKES"
+        ],
+        "grupos_huevo": [
+            "Mineral",
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "SPHEAL",
+        "movimientos": [
+            "POWDERSNOW",
+            "REST",
+            "GROWL",
+            "ICEBALL",
+            "AURORABEAM",
+            "BODYSLAM",
+            "HAIL",
+            "WATERGUN",
+            "SHEERCOLD",
+            "SWAGGER",
+            "BLIZZARD",
+            "ENCORE",
+            "SNORE",
+            "DEFENSECURL"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "YAWN",
+            "STOCKPILE",
+            "ROLLOUT",
+            "SLEEPTALK",
+            "WATERPULSE"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CLAMPERL",
+        "movimientos": [
+            "BRINE",
+            "BITE",
+            "HYDROPUMP",
+            "ICEFANG",
+            "AQUARING",
+            "SCREECH",
+            "IRONDEFENSE",
+            "CLAMP",
+            "WHIRLPOOL",
+            "WATERGUN",
+            "BATONPASS",
+            "PSYCHIC",
+            "SCARYFACE",
+            "CAPTIVATE",
+            "CRUNCH",
+            "DIVE",
+            "AMNESIA",
+            "SHELLSMASH",
+            "CONFUSION",
+            "AQUATAIL",
+            "WATERPULSE",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "BARRIER",
+            "MUDDYWATER",
+            "BRINE",
+            "SUPERSONIC",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "RELICANTH",
+        "movimientos": [
+            "DOUBLEEDGE",
+            "REST",
+            "YAWN",
+            "HEADSMASH",
+            "HYDROPUMP",
+            "TAKEDOWN",
+            "DIVE",
+            "TACKLE",
+            "ROCKTOMB",
+            "ANCIENTPOWER",
+            "MUDSPORT",
+            "HARDEN",
+            "WATERGUN"
+        ],
+        "movs_huevo": [
+            "MUDSLAP",
+            "ZENHEADBUTT",
+            "SNORE",
+            "SKULLBASH",
+            "AQUATAIL",
+            "MAGNITUDE"
+        ],
+        "grupos_huevo": [
+            "Water2",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "LUVDISC",
+        "movimientos": [
+            "FLAIL",
+            "LUCKYCHANT",
+            "SWEETKISS",
+            "CAPTIVATE",
+            "HYDROPUMP",
+            "ATTRACT",
+            "TAKEDOWN",
+            "AQUARING",
+            "CHARM",
+            "TACKLE",
+            "WATERPULSE",
+            "SAFEGUARD",
+            "WATERGUN",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "AQUARING",
+            "MUDSPORT",
+            "SUPERSONIC",
+            "CAPTIVATE"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "BAGON",
+        "movimientos": [
+            "HEADBUTT",
+            "RAGE",
+            "EMBER",
+            "BITE",
+            "DRAGONBREATH",
+            "FOCUSENERGY",
+            "ZENHEADBUTT",
+            "DOUBLEEDGE",
+            "LEER",
+            "SCARYFACE",
+            "CRUNCH",
+            "PROTECT",
+            "DRAGONCLAW"
+        ],
+        "movs_huevo": [
+            "DRAGONDANCE",
+            "TWISTER",
+            "HYDROPUMP",
+            "ENDURE",
+            "DRAGONRAGE"
+        ],
+        "grupos_huevo": [
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "TURTWIG",
+        "movimientos": [
+            "CURSE",
+            "RAZORLEAF",
+            "ABSORB",
+            "BITE",
+            "LEECHSEED",
+            "LEAFSTORM",
+            "WITHDRAW",
+            "MEGADRAIN",
+            "CRUNCH",
+            "SYNTHESIS",
+            "GIGADRAIN",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SPITUP",
+            "SANDTOMB",
+            "EARTHPOWER",
+            "THRASH",
+            "SUPERPOWER",
+            "BODYSLAM",
+            "WIDEGUARD"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "CHIMCHAR",
+        "movimientos": [
+            "TAUNT",
+            "TORMENT",
+            "SLACKOFF",
+            "EMBER",
+            "SCRATCH",
+            "FEINT",
+            "FIRESPIN",
+            "FLAREBLITZ",
+            "FACADE",
+            "ACROBATICS",
+            "LEER",
+            "FLAMEWHEEL",
+            "NASTYPLOT",
+            "CLOSECOMBAT",
+            "FLAMETHROWER",
+            "MACHPUNCH",
+            "FURYSWIPES"
+        ],
+        "movs_huevo": [
+            "BLAZEKICK",
+            "QUICKGUARD",
+            "DOUBLEKICK",
+            "THUNDERPUNCH",
+            "FOCUSENERGY",
+            "FAKEOUT",
+            "HEATWAVE"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PIPLUP",
+        "movimientos": [
+            "GROWL",
+            "FURYATTACK",
+            "BRINE",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "MIST",
+            "BUBBLE",
+            "WHIRLPOOL",
+            "PECK",
+            "METALCLAW",
+            "POUND",
+            "DRILLPECK",
+            "BUBBLEBEAM",
+            "BIDE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "ICYWIND",
+            "AQUARING",
+            "SUPERSONIC",
+            "DOUBLEHIT",
+            "MUDSPORT"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "STARLY",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "TAKEDOWN",
+            "AERIALACE",
+            "BRAVEBIRD",
+            "FINALGAMBIT",
+            "WINGATTACK",
+            "TACKLE",
+            "DOUBLETEAM",
+            "ENDEAVOR",
+            "AGILITY",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "FEATHERDANCE",
+            "SANDATTACK",
+            "DETECT",
+            "FURYATTACK",
+            "UPROAR",
+            "REVENGE"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "BIDOOF",
+        "movimientos": [
+            "HEADBUTT",
+            "GROWL",
+            "CURSE",
+            "YAWN",
+            "TAKEDOWN",
+            "SUPERPOWER",
+            "HYPERFANG",
+            "WATERGUN",
+            "AMNESIA",
+            "ROLLOUT",
+            "SUPERFANG",
+            "DEFENSECURL",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "ODORSLEUTH",
+            "WATERSPORT",
+            "ROCKCLIMB",
+            "SKULLBASH",
+            "ENDURE",
+            "DEFENSECURL"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SHINX",
+        "movimientos": [
+            "THUNDERFANG",
+            "CHARGE",
+            "BITE",
+            "ROAR",
+            "LEER",
+            "SCARYFACE",
+            "SWAGGER",
+            "SPARK",
+            "CRUNCH",
+            "WILDCHARGE",
+            "DISCHARGE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SWIFT",
+            "NIGHTSLASH",
+            "THUNDERFANG",
+            "FIREFANG",
+            "SHOCKWAVE",
+            "HOWL"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CRANIDOS",
+        "movimientos": [
+            "HEADBUTT",
+            "HEADSMASH",
+            "TAKEDOWN",
+            "FOCUSENERGY",
+            "ZENHEADBUTT",
+            "SCREECH",
+            "ASSURANCE",
+            "ENDEAVOR",
+            "CHIPAWAY",
+            "LEER",
+            "PURSUIT",
+            "SCARYFACE",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "THRASH",
+            "SLAM",
+            "IRONTAIL",
+            "HAMMERARM"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "SHIELDON",
+        "movimientos": [
+            "TAUNT",
+            "IRONHEAD",
+            "METALSOUND",
+            "TAKEDOWN",
+            "IRONDEFENSE",
+            "ENDURE",
+            "SWAGGER",
+            "HEAVYSLAM",
+            "PROTECT",
+            "ANCIENTPOWER",
+            "BLOCK",
+            "TACKLE",
+            "METALBURST"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "FOCUSENERGY",
+            "ROCKBLAST",
+            "SCREECH",
+            "DOUBLEEDGE",
+            "WIDEGUARD"
+        ],
+        "grupos_huevo": [
+            "Monster"
+        ]
+    },
+    {
+        "nombre": "PACHIRISU",
+        "movimientos": [
+            "GROWL",
+            "SWEETKISS",
+            "QUICKATTACK",
+            "SPARK",
+            "SWIFT",
+            "THUNDERWAVE",
+            "BIDE",
+            "HYPERFANG",
+            "CHARM",
+            "DISCHARGE",
+            "ENDURE",
+            "ELECTROBALL",
+            "LASTRESORT",
+            "SUPERFANG"
+        ],
+        "movs_huevo": [
+            "COVET",
+            "BITE",
+            "TAILWHIP",
+            "IRONTAIL",
+            "FLATTER",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "BUIZEL",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "SWIFT",
+            "AQUAJET",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "DOUBLEHIT",
+            "PURSUIT",
+            "WHIRLPOOL",
+            "SONICBOOM",
+            "WATERGUN",
+            "CRUNCH",
+            "RAZORWIND",
+            "AQUATAIL",
+            "ICEFANG",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "DOUBLESLAP",
+            "ODORSLEUTH",
+            "MEFIRST",
+            "FURYSWIPES",
+            "AQUATAIL",
+            "SWITCHEROO"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CHERUBI",
+        "movimientos": [
+            "MAGICALLEAF",
+            "TAKEDOWN",
+            "WORRYSEED",
+            "MORNINGSUN",
+            "SUNNYDAY",
+            "GROWTH",
+            "LEECHSEED",
+            "SOLARBEAM",
+            "LUCKYCHANT",
+            "HELPINGHAND",
+            "PETALDANCE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "RAZORLEAF",
+            "TICKLE",
+            "SEEDBOMB",
+            "DEFENSECURL",
+            "NATURALGIFT",
+            "HEALPULSE"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "SHELLOS",
+        "movimientos": [
+            "RAINDANCE",
+            "BODYSLAM",
+            "RECOVER",
+            "HARDEN",
+            "HIDDENPOWER",
+            "MUDBOMB",
+            "MUDDYWATER",
+            "MUDSLAP",
+            "MUDSPORT",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "BRINE",
+            "SLUDGE",
+            "TRUMPCARD",
+            "FISSURE",
+            "STOCKPILE",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Amorphous",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "DRIFLOON",
+        "movimientos": [
+            "ASTONISH",
+            "CONSTRICT",
+            "MINIMIZE",
+            "FOCUSENERGY",
+            "SWALLOW",
+            "STOCKPILE",
+            "OMINOUSWIND",
+            "PAYBACK",
+            "GUST",
+            "BATONPASS",
+            "SPITUP",
+            "SHADOWBALL",
+            "EXPLOSION",
+            "HEX",
+            "AMNESIA"
+        ],
+        "movs_huevo": [
+            "MEMENTO",
+            "DESTINYBOND",
+            "CLEARSMOG",
+            "HAZE"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "BUNEARY",
+        "movimientos": [
+            "QUICKATTACK",
+            "SPLASH",
+            "ENTRAINMENT",
+            "HEALINGWISH",
+            "POUND",
+            "AFTERYOU",
+            "FORESIGHT",
+            "JUMPKICK",
+            "DEFENSECURL",
+            "AGILITY",
+            "MIRRORCOAT",
+            "RETURN",
+            "BOUNCE",
+            "ENDURE",
+            "MAGICCOAT",
+            "BATONPASS",
+            "DIZZYPUNCH",
+            "FRUSTRATION",
+            "CHARM"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "COPYCAT",
+            "ENCORE",
+            "SKYUPPERCUT",
+            "ICEPUNCH",
+            "SWITCHEROO",
+            "FAKETEARS"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "GLAMEOW",
+        "movimientos": [
+            "GROWL",
+            "HYPNOSIS",
+            "SCRATCH",
+            "SUCKERPUNCH",
+            "BODYSLAM",
+            "SLASH",
+            "FEINTATTACK",
+            "SWAGGER",
+            "CAPTIVATE",
+            "ATTRACT",
+            "ASSIST",
+            "FAKEOUT",
+            "CHARM",
+            "FURYSWIPES",
+            "HONECLAWS"
+        ],
+        "movs_huevo": [
+            "FLAIL",
+            "QUICKATTACK",
+            "BITE",
+            "WAKEUPSLAP",
+            "SNATCH"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "STUNKY",
+        "movimientos": [
+            "MEMENTO",
+            "SCRATCH",
+            "FOCUSENERGY",
+            "SCREECH",
+            "FEINT",
+            "ACIDSPRAY",
+            "SLASH",
+            "POISONGAS",
+            "TOXIC",
+            "EXPLOSION",
+            "NIGHTSLASH",
+            "FLAMETHROWER",
+            "SMOKESCREEN",
+            "FURYSWIPES"
+        ],
+        "movs_huevo": [
+            "CRUNCH",
+            "SMOG",
+            "HAZE",
+            "LEER",
+            "PURSUIT",
+            "FLAMEBURST"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "CHATOT",
+        "movimientos": [
+            "ROUND",
+            "FEATHERDANCE",
+            "PECK",
+            "SING",
+            "GROWL",
+            "TAUNT",
+            "ECHOEDVOICE",
+            "FURYATTACK",
+            "UPROAR",
+            "HYPERVOICE",
+            "MIRRORMOVE",
+            "CHATTER",
+            "SYNCHRONOISE",
+            "ROOST",
+            "MIMIC"
+        ],
+        "movs_huevo": [
+            "AIRCUTTER",
+            "STEELWING",
+            "ENCORE",
+            "NIGHTSHADE"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "SPIRITOMB",
+        "movimientos": [
+            "SPITE",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "CURSE",
+            "MEMENTO",
+            "DARKPULSE",
+            "HYPNOSIS",
+            "SUCKERPUNCH",
+            "DREAMEATER",
+            "SHADOWSNEAK",
+            "CONFUSERAY",
+            "PURSUIT",
+            "OMINOUSWIND"
+        ],
+        "movs_huevo": [
+            "PAINSPLIT",
+            "SMOKESCREEN",
+            "DESTINYBOND",
+            "IMPRISON"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "GIBLE",
+        "movimientos": [
+            "SANDTOMB",
+            "SANDSTORM",
+            "TAKEDOWN",
+            "SLASH",
+            "DRAGONRAGE",
+            "DUALCHOP",
+            "SANDATTACK",
+            "DRAGONCLAW",
+            "DRAGONRUSH",
+            "DIG",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SANDTOMB",
+            "METALCLAW",
+            "OUTRAGE",
+            "IRONHEAD",
+            "THRASH",
+            "DOUBLEEDGE"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "HIPPOPOTAS",
+        "movimientos": [
+            "SANDTOMB",
+            "THUNDERFANG",
+            "FIREFANG",
+            "YAWN",
+            "BITE",
+            "TAKEDOWN",
+            "DOUBLEEDGE",
+            "SANDATTACK",
+            "CRUNCH",
+            "EARTHQUAKE",
+            "FISSURE",
+            "DIG",
+            "ICEFANG",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SANDTOMB",
+            "CURSE",
+            "SLEEPTALK",
+            "STOCKPILE",
+            "WHIRLWIND"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SKORUPI",
+        "movimientos": [
+            "POISONFANG",
+            "THUNDERFANG",
+            "FIREFANG",
+            "TOXICSPIKES",
+            "PINMISSILE",
+            "CROSSPOISON",
+            "BUGBITE",
+            "LEER",
+            "ACUPRESSURE",
+            "CRUNCH",
+            "VENOSHOCK",
+            "BITE",
+            "KNOCKOFF",
+            "PURSUIT",
+            "SCARYFACE",
+            "NIGHTSLASH",
+            "POISONSTING",
+            "HONECLAWS",
+            "ICEFANG"
+        ],
+        "movs_huevo": [
+            "SANDATTACK",
+            "POISONTAIL",
+            "SLASH",
+            "CONFUSERAY",
+            "IRONTAIL",
+            "WHIRLWIND"
+        ],
+        "grupos_huevo": [
+            "Water3",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "CROAGUNK",
+        "movimientos": [
+            "ASTONISH",
+            "VENOSHOCK",
+            "TAUNT",
+            "SUCKERPUNCH",
+            "SLUDGEBOMB",
+            "FLATTER",
+            "PURSUIT",
+            "FEINTATTACK",
+            "SWAGGER",
+            "NASTYPLOT",
+            "MUDBOMB",
+            "POISONJAB",
+            "MUDSLAP",
+            "POISONSTING",
+            "REVENGE"
+        ],
+        "movs_huevo": [
+            "BULLETPUNCH",
+            "MEFIRST",
+            "CROSSCHOP",
+            "FEINT",
+            "WAKEUPSLAP",
+            "DYNAMICPUNCH",
+            "SMELLINGSALTS"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "CARNIVINE",
+        "movimientos": [
+            "FEINTATTACK",
+            "SPITUP",
+            "POWERWHIP",
+            "GROWTH",
+            "CRUNCH",
+            "WRINGOUT",
+            "BITE",
+            "SWEETSCENT",
+            "LEAFTORNADO",
+            "SWALLOW",
+            "INGRAIN",
+            "BIND",
+            "VINEWHIP",
+            "STOCKPILE"
+        ],
+        "movs_huevo": [
+            "GRASSWHISTLE",
+            "SLEEPPOWDER",
+            "RAZORLEAF",
+            "MAGICALLEAF",
+            "SYNTHESIS"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "FINNEON",
+        "movimientos": [
+            "AQUARING",
+            "RAINDANCE",
+            "BOUNCE",
+            "SOAK",
+            "WHIRLPOOL",
+            "WATERGUN",
+            "GUST",
+            "CAPTIVATE",
+            "POUND",
+            "SILVERWIND",
+            "ATTRACT",
+            "SAFEGUARD",
+            "WATERPULSE",
+            "UTURN"
+        ],
+        "movs_huevo": [
+            "SWEETKISS",
+            "FLAIL",
+            "SIGNALBEAM",
+            "BRINE",
+            "AQUATAIL"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "SNOVER",
+        "movimientos": [
+            "POWDERSNOW",
+            "WOODHAMMER",
+            "GRASSWHISTLE",
+            "RAZORLEAF",
+            "ICYWIND",
+            "ICEPUNCH",
+            "ICESHARD",
+            "MIST",
+            "INGRAIN",
+            "LEER",
+            "SHEERCOLD",
+            "SWAGGER",
+            "BLIZZARD"
+        ],
+        "movs_huevo": [
+            "NATURALGIFT",
+            "MAGICALLEAF",
+            "SKULLBASH",
+            "GROWTH",
+            "BULLETSEED"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "SNIVY",
+        "movimientos": [
+            "COIL",
+            "WRAP",
+            "SLAM",
+            "GROWTH",
+            "LEER",
+            "LEECHSEED",
+            "LEAFSTORM",
+            "MEGADRAIN",
+            "WRINGOUT",
+            "LEAFBLADE",
+            "LEAFTORNADO",
+            "GASTROACID",
+            "VINEWHIP",
+            "GIGADRAIN",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "GLARE",
+            "TWISTER",
+            "MAGICALLEAF",
+            "PURSUIT",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Grass",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "TEPIG",
+        "movimientos": [
+            "ODORSLEUTH",
+            "EMBER",
+            "HEADSMASH",
+            "TAKEDOWN",
+            "ASSURANCE",
+            "FLAREBLITZ",
+            "ROAR",
+            "FLAMECHARGE",
+            "HEATCRASH",
+            "SMOG",
+            "FLAMETHROWER",
+            "ARMTHRUST",
+            "ROLLOUT",
+            "TAILWHIP",
+            "DEFENSECURL",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "COVET",
+            "YAWN",
+            "SUPERPOWER",
+            "ENDEAVOR",
+            "MAGNITUDE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "OSHAWOTT",
+        "movimientos": [
+            "RETALIATE",
+            "AQUAJET",
+            "SWORDSDANCE",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "FOCUSENERGY",
+            "WATERGUN",
+            "ENCORE",
+            "FURYCUTTER",
+            "RAZORSHELL",
+            "REVENGE",
+            "TAILWHIP",
+            "AQUATAIL",
+            "WATERPULSE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "TRUMPCARD",
+            "COPYCAT",
+            "ASSURANCE",
+            "NIGHTSLASH"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PATRAT",
+        "movimientos": [
+            "PSYCHUP",
+            "SLAM",
+            "CONFUSERAY",
+            "LEER",
+            "CRUNCH",
+            "LOWKICK",
+            "AFTERYOU",
+            "TACKLE",
+            "MEANLOOK",
+            "HYPNOSIS",
+            "BITE",
+            "HYPERFANG",
+            "BATONPASS",
+            "SANDATTACK",
+            "DETECT",
+            "WORKUP",
+            "BIDE",
+            "SUPERFANG"
+        ],
+        "movs_huevo": [
+            "REVENGE",
+            "IRONTAIL",
+            "FLAIL"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "LILLIPUP",
+        "movimientos": [
+            "RETALIATE",
+            "ODORSLEUTH",
+            "BITE",
+            "REVERSAL",
+            "TAKEDOWN",
+            "ROAR",
+            "LEER",
+            "GIGAIMPACT",
+            "CRUNCH",
+            "WORKUP",
+            "HELPINGHAND",
+            "LASTRESORT",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "THUNDERFANG",
+            "LICK",
+            "HOWL",
+            "ENDURE",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PURRLOIN",
+        "movimientos": [
+            "SCRATCH",
+            "SLASH",
+            "CAPTIVATE",
+            "FAKEOUT",
+            "FURYSWIPES",
+            "GROWL",
+            "TORMENT",
+            "TAUNT",
+            "SUCKERPUNCH",
+            "ASSURANCE",
+            "PURSUIT",
+            "SANDATTACK",
+            "NASTYPLOT",
+            "NIGHTSLASH",
+            "ASSIST",
+            "SNATCH",
+            "HONECLAWS"
+        ],
+        "movs_huevo": [
+            "YAWN",
+            "FEINTATTACK",
+            "FOULPLAY",
+            "COVET"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PANSAGE",
+        "movimientos": [
+            "TORMENT",
+            "BITE",
+            "SCRATCH",
+            "LICK",
+            "RECYCLE",
+            "SEEDBOMB",
+            "GRASSKNOT",
+            "ACROBATICS",
+            "NATURALGIFT",
+            "LEER",
+            "LEECHSEED",
+            "CRUNCH",
+            "FURYSWIPES",
+            "FLING",
+            "VINEWHIP"
+        ],
+        "movs_huevo": [
+            "NASTYPLOT",
+            "GRASSWHISTLE",
+            "LOWKICK",
+            "TICKLE",
+            "BULLETSEED"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PANSEAR",
+        "movimientos": [
+            "YAWN",
+            "BITE",
+            "SCRATCH",
+            "LICK",
+            "INCINERATE",
+            "RECYCLE",
+            "ACROBATICS",
+            "NATURALGIFT",
+            "LEER",
+            "FIREBLAST",
+            "CRUNCH",
+            "AMNESIA",
+            "FURYSWIPES",
+            "FLING",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "LOWKICK",
+            "COVET",
+            "ROLEPLAY",
+            "FIRESPIN",
+            "TICKLE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PANPOUR",
+        "movimientos": [
+            "TAUNT",
+            "BRINE",
+            "BITE",
+            "SCRATCH",
+            "WATERSPORT",
+            "LICK",
+            "RECYCLE",
+            "ACROBATICS",
+            "NATURALGIFT",
+            "LEER",
+            "SCALD",
+            "WATERGUN",
+            "CRUNCH",
+            "FURYSWIPES",
+            "FLING"
+        ],
+        "movs_huevo": [
+            "NASTYPLOT",
+            "LOWKICK",
+            "COVET",
+            "TICKLE",
+            "AQUATAIL"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MUNNA",
+        "movimientos": [
+            "HYPNOSIS",
+            "YAWN",
+            "ZENHEADBUTT",
+            "SYNCHRONOISE",
+            "DREAMEATER",
+            "TELEKINESIS",
+            "NIGHTMARE",
+            "MOONLIGHT",
+            "PSYCHIC",
+            "LUCKYCHANT",
+            "PSYWAVE",
+            "STOREDPOWER",
+            "CALMMIND",
+            "IMPRISON",
+            "FUTURESIGHT",
+            "DEFENSECURL",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "SECRETPOWER",
+            "HELPINGHAND",
+            "SONICBOOM"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "PIDOVE",
+        "movimientos": [
+            "GROWL",
+            "QUICKATTACK",
+            "TAUNT",
+            "FACADE",
+            "AIRCUTTER",
+            "LEER",
+            "GUST",
+            "FEATHERDANCE",
+            "TAILWIND",
+            "SWAGGER",
+            "DETECT",
+            "RAZORWIND",
+            "SKYATTACK",
+            "AIRSLASH",
+            "ROOST"
+        ],
+        "movs_huevo": [
+            "HYPNOSIS",
+            "UPROAR",
+            "MORNINGSUN"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "BLITZLE",
+        "movimientos": [
+            "QUICKATTACK",
+            "CHARGE",
+            "THRASH",
+            "DISCHARGE",
+            "FLAMECHARGE",
+            "PURSUIT",
+            "THUNDERWAVE",
+            "SPARK",
+            "SHOCKWAVE",
+            "WILDCHARGE",
+            "TAILWHIP",
+            "STOMP",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "MEFIRST",
+            "DOUBLEEDGE",
+            "SHOCKWAVE",
+            "SANDATTACK"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "ROGGENROLA",
+        "movimientos": [
+            "HEADBUTT",
+            "POWERGEM",
+            "SANDSTORM",
+            "STEALTHROCK",
+            "ROCKBLAST",
+            "IRONDEFENSE",
+            "HARDEN",
+            "SANDATTACK",
+            "EXPLOSION",
+            "MUDSLAP",
+            "SMACKDOWN",
+            "ROCKSLIDE",
+            "STONEEDGE",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "HEAVYSLAM",
+            "MAGNITUDE",
+            "CURSE",
+            "TAKEDOWN"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "WOOBAT",
+        "movimientos": [
+            "HEARTSTAMP",
+            "ODORSLEUTH",
+            "ASSURANCE",
+            "AIRCUTTER",
+            "GUST",
+            "PSYCHIC",
+            "CALMMIND",
+            "ATTRACT",
+            "IMPRISON",
+            "FUTURESIGHT",
+            "AMNESIA",
+            "AIRSLASH",
+            "ENDEAVOR",
+            "CONFUSION"
+        ],
+        "movs_huevo": [
+            "ROOST",
+            "FAKETEARS",
+            "SUPERSONIC",
+            "HELPINGHAND"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "DRILBUR",
+        "movimientos": [
+            "SANDSTORM",
+            "SWORDSDANCE",
+            "SCRATCH",
+            "SLASH",
+            "RAPIDSPIN",
+            "DRILLRUN",
+            "METALCLAW",
+            "HORNDRILL",
+            "MUDSLAP",
+            "FURYSWIPES",
+            "EARTHQUAKE",
+            "HONECLAWS",
+            "FISSURE",
+            "MUDSPORT",
+            "DIG",
+            "ROCKSLIDE"
+        ],
+        "movs_huevo": [
+            "EARTHPOWER",
+            "SUBMISSION",
+            "METALSOUND",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "AUDINO",
+        "movimientos": [
+            "GROWL",
+            "DOUBLESLAP",
+            "POUND",
+            "ENTRAINMENT",
+            "AFTERYOU",
+            "HELPINGHAND",
+            "ATTRACT",
+            "TAKEDOWN",
+            "SIMPLEBEAM",
+            "REFRESH",
+            "SECRETPOWER",
+            "LASTRESORT",
+            "DOUBLEEDGE",
+            "HEALPULSE"
+        ],
+        "movs_huevo": [
+            "SWEETKISS",
+            "LUCKYCHANT",
+            "BESTOW",
+            "YAWN",
+            "HEALBELL"
+        ],
+        "grupos_huevo": [
+            "Fairy"
+        ]
+    },
+    {
+        "nombre": "TIMBURR",
+        "movimientos": [
+            "FOCUSENERGY",
+            "SUPERPOWER",
+            "CHIPAWAY",
+            "LEER",
+            "ROCKTHROW",
+            "LOWKICK",
+            "POUND",
+            "BULKUP",
+            "WAKEUPSLAP",
+            "DYNAMICPUNCH",
+            "STONEEDGE",
+            "ROCKSLIDE",
+            "HAMMERARM",
+            "SCARYFACE",
+            "BIDE",
+            "FOCUSPUNCH"
+        ],
+        "movs_huevo": [
+            "FORCEPALM",
+            "COUNTER",
+            "DRAINPUNCH",
+            "MACHPUNCH",
+            "SMELLINGSALTS"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "TYMPOLE",
+        "movimientos": [
+            "ROUND",
+            "GROWL",
+            "FLAIL",
+            "HYDROPUMP",
+            "AQUARING",
+            "RAINDANCE",
+            "BUBBLE",
+            "ECHOEDVOICE",
+            "MUDDYWATER",
+            "BUBBLEBEAM",
+            "UPROAR",
+            "HYPERVOICE",
+            "MUDSHOT",
+            "SUPERSONIC"
+        ],
+        "movs_huevo": [
+            "MIST",
+            "MUDSPORT",
+            "WATERPULSE",
+            "SLEEPTALK"
+        ],
+        "grupos_huevo": [
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "SEWADDLE",
+        "movimientos": [
+            "FLAIL",
+            "GRASSWHISTLE",
+            "RAZORLEAF",
+            "STRINGSHOT",
+            "STRUGGLEBUG",
+            "PROTECT",
+            "BUGBITE",
+            "ENDURE",
+            "BUGBUZZ",
+            "TACKLE"
+        ],
+        "movs_huevo": [
+            "SCREECH",
+            "CAMOUFLAGE",
+            "MINDREADER",
+            "AIRSLASH"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "VENIPEDE",
+        "movimientos": [
+            "VENOSHOCK",
+            "SCREECH",
+            "BUGBITE",
+            "IRONDEFENSE",
+            "DOUBLEEDGE",
+            "PURSUIT",
+            "STEAMROLLER",
+            "TOXIC",
+            "POISONTAIL",
+            "PROTECT",
+            "ROCKCLIMB",
+            "POISONSTING",
+            "ROLLOUT",
+            "DEFENSECURL",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "TWINEEDLE",
+            "TAKEDOWN",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "COTTONEE",
+        "movimientos": [
+            "RAZORLEAF",
+            "HURRICANE",
+            "COTTONSPORE",
+            "ABSORB",
+            "STUNSPORE",
+            "SUNNYDAY",
+            "GROWTH",
+            "GUST",
+            "LEECHSEED",
+            "SOLARBEAM",
+            "TAILWIND",
+            "MEGADRAIN",
+            "POISONPOWDER",
+            "ENERGYBALL",
+            "HELPINGHAND",
+            "COTTONGUARD",
+            "CHARM",
+            "ENDEAVOR",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "TICKLE",
+            "ENCORE",
+            "GRASSWHISTLE",
+            "NATURALGIFT"
+        ],
+        "grupos_huevo": [
+            "Fairy",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "PETILIL",
+        "movimientos": [
+            "ENTRAINMENT",
+            "ABSORB",
+            "TEETERDANCE",
+            "MAGICALLEAF",
+            "QUIVERDANCE",
+            "STUNSPORE",
+            "SUNNYDAY",
+            "GROWTH",
+            "LEECHSEED",
+            "LEAFSTORM",
+            "SLEEPPOWDER",
+            "MEGADRAIN",
+            "AROMATHERAPY",
+            "ENERGYBALL",
+            "AFTERYOU",
+            "HELPINGHAND",
+            "SYNTHESIS",
+            "PETALDANCE",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "INGRAIN",
+            "CHARM",
+            "GRASSWHISTLE",
+            "SWEETSCENT"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "BASCULIN",
+        "movimientos": [
+            "HEADBUTT",
+            "SCARYFACE",
+            "FLAIL",
+            "CRUNCH",
+            "AQUAJET",
+            "BITE",
+            "UPROAR",
+            "TAKEDOWN",
+            "THRASH",
+            "TACKLE",
+            "CHIPAWAY",
+            "SOAK",
+            "FINALGAMBIT",
+            "AQUATAIL",
+            "DOUBLEEDGE",
+            "WATERGUN"
+        ],
+        "movs_huevo": [
+            "RAGE",
+            "MUDSHOT",
+            "BRINE",
+            "SWIFT"
+        ],
+        "grupos_huevo": [
+            "Water2"
+        ]
+    },
+    {
+        "nombre": "SANDILE",
+        "movimientos": [
+            "RAGE",
+            "THRASH",
+            "LEER",
+            "SWAGGER",
+            "CRUNCH",
+            "EARTHQUAKE",
+            "DIG",
+            "EMBARGO",
+            "SANDTOMB",
+            "TORMENT",
+            "SANDSTORM",
+            "BITE",
+            "ASSURANCE",
+            "SCARYFACE",
+            "SANDATTACK",
+            "MUDSLAP",
+            "FOULPLAY"
+        ],
+        "movs_huevo": [
+            "MEANLOOK",
+            "COUNTER",
+            "FIREFANG",
+            "UPROAR",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "DARUMAKA",
+        "movimientos": [
+            "HEADBUTT",
+            "RAGE",
+            "FIREFANG",
+            "THRASH",
+            "SUPERPOWER",
+            "SWAGGER",
+            "ROLLOUT",
+            "TACKLE",
+            "OVERHEAT",
+            "TAUNT",
+            "INCINERATE",
+            "FLAREBLITZ",
+            "FACADE",
+            "HAMMERARM",
+            "BELLYDRUM",
+            "WORKUP",
+            "UPROAR",
+            "FIREPUNCH"
+        ],
+        "movs_huevo": [
+            "TAKEDOWN",
+            "HAMMERARM",
+            "ENDURE",
+            "FOCUSENERGY"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MARACTUS",
+        "movimientos": [
+            "ACUPRESSURE",
+            "PECK",
+            "SOLARBEAM",
+            "MEGADRAIN",
+            "COTTONSPORE",
+            "ABSORB",
+            "PINMISSILE",
+            "NEEDLEARM",
+            "AFTERYOU",
+            "SWEETSCENT",
+            "SUCKERPUNCH",
+            "COTTONGUARD",
+            "SYNTHESIS",
+            "PETALDANCE",
+            "INGRAIN",
+            "SUNNYDAY",
+            "GROWTH",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "LEECHSEED",
+            "WORRYSEED",
+            "SPIKES",
+            "BULLETSEED"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "DWEBBLE",
+        "movimientos": [
+            "FLAIL",
+            "STEALTHROCK",
+            "ROCKBLAST",
+            "BUGBITE",
+            "SLASH",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "WITHDRAW",
+            "XSCISSOR",
+            "ROCKWRECKER",
+            "FURYCUTTER",
+            "SMACKDOWN",
+            "SHELLSMASH",
+            "ROCKPOLISH",
+            "ROCKSLIDE"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "SPIKES",
+            "NIGHTSLASH",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Mineral",
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "SCRAGGY",
+        "movimientos": [
+            "HEADBUTT",
+            "CHIPAWAY",
+            "LEER",
+            "SWAGGER",
+            "HIGHJUMPKICK",
+            "LOWKICK",
+            "CRUNCH",
+            "ROCKCLIMB",
+            "HEADSMASH",
+            "FACADE",
+            "BRICKBREAK",
+            "PAYBACK",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "SCARYFACE",
+            "FOCUSPUNCH"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "COUNTER",
+            "THUNDERPUNCH",
+            "FIREPUNCH",
+            "DRAGONDANCE"
+        ],
+        "grupos_huevo": [
+            "Dragon",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SIGILYPH",
+        "movimientos": [
+            "COSMICPOWER",
+            "PSYCHIC",
+            "TAILWIND",
+            "AIRCUTTER",
+            "PSYWAVE",
+            "HYPNOSIS",
+            "MIRRORMOVE",
+            "GRAVITY",
+            "SKYATTACK",
+            "SYNCHRONOISE",
+            "REFLECT",
+            "AIRSLASH",
+            "MIRACLEEYE",
+            "PSYBEAM",
+            "LIGHTSCREEN",
+            "GUST",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "STOREDPOWER",
+            "PSYCHOSHIFT",
+            "SKILLSWAP"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "YAMASK",
+        "movimientos": [
+            "ASTONISH",
+            "GUARDSPLIT",
+            "CURSE",
+            "MEANLOOK",
+            "WILLOWISP",
+            "OMINOUSWIND",
+            "DISABLE",
+            "SCARYFACE",
+            "NIGHTSHADE",
+            "SHADOWBALL",
+            "GRUDGE",
+            "PROTECT",
+            "HEX",
+            "HAZE",
+            "POWERSPLIT",
+            "DESTINYBOND"
+        ],
+        "movs_huevo": [
+            "MEMENTO",
+            "HEALBLOCK",
+            "NIGHTMARE",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Amorphous",
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "TIRTOUGA",
+        "movimientos": [
+            "AQUAJET",
+            "CRUNCH",
+            "SHELLSMASH",
+            "ROLLOUT",
+            "AQUATAIL",
+            "ROCKSLIDE",
+            "CURSE",
+            "BRINE",
+            "BITE",
+            "HYDROPUMP",
+            "RAINDANCE",
+            "WATERGUN",
+            "WITHDRAW",
+            "BIDE",
+            "PROTECT",
+            "SMACKDOWN",
+            "ANCIENTPOWER",
+            "WIDEGUARD"
+        ],
+        "movs_huevo": [
+            "BODYSLAM",
+            "ROCKTHROW",
+            "WATERPULSE",
+            "IRONDEFENSE"
+        ],
+        "grupos_huevo": [
+            "Water1",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "ARCHEN",
+        "movimientos": [
+            "QUICKATTACK",
+            "DRAGONBREATH",
+            "THRASH",
+            "LEER",
+            "QUICKGUARD",
+            "ROCKTHROW",
+            "CRUNCH",
+            "DRAGONCLAW",
+            "DOUBLETEAM",
+            "ENDEAVOR",
+            "ROCKSLIDE",
+            "UTURN",
+            "AGILITY",
+            "ACROBATICS",
+            "SCARYFACE",
+            "PLUCK",
+            "WINGATTACK",
+            "ANCIENTPOWER"
+        ],
+        "movs_huevo": [
+            "KNOCKOFF",
+            "EARTHPOWER",
+            "DEFOG"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Water3"
+        ]
+    },
+    {
+        "nombre": "TRUBBISH",
+        "movimientos": [
+            "GUNKSHOT",
+            "DOUBLESLAP",
+            "TOXICSPIKES",
+            "RECYCLE",
+            "SLUDGEBOMB",
+            "SWALLOW",
+            "BODYSLAM",
+            "POISONGAS",
+            "POUND",
+            "TAKEDOWN",
+            "ACIDSPRAY",
+            "STOCKPILE",
+            "TOXIC",
+            "EXPLOSION",
+            "CLEARSMOG",
+            "SLUDGE",
+            "AMNESIA"
+        ],
+        "movs_huevo": [
+            "ROCKBLAST",
+            "SANDATTACK",
+            "HAZE",
+            "SPIKES"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "ZORUA",
+        "movimientos": [
+            "SCRATCH",
+            "NIGHTDAZE",
+            "LEER",
+            "FURYSWIPES",
+            "EMBARGO",
+            "AGILITY",
+            "UTURN",
+            "TAUNT",
+            "TORMENT",
+            "PURSUIT",
+            "FEINTATTACK",
+            "SCARYFACE",
+            "NASTYPLOT",
+            "PUNISHMENT",
+            "NIGHTSLASH",
+            "IMPRISON",
+            "HONECLAWS",
+            "FAKETEARS",
+            "FOULPLAY"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "SUCKERPUNCH",
+            "MEMENTO",
+            "DETECT"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "MINCCINO",
+        "movimientos": [
+            "GROWL",
+            "SING",
+            "DOUBLESLAP",
+            "SWIFT",
+            "ROCKBLAST",
+            "TICKLE",
+            "SLAM",
+            "CAPTIVATE",
+            "ECHOEDVOICE",
+            "POUND",
+            "TAILSLAP",
+            "AFTERYOU",
+            "ENCORE",
+            "HELPINGHAND",
+            "WAKEUPSLAP",
+            "HYPERVOICE",
+            "CHARM",
+            "LASTRESORT",
+            "BULLETSEED"
+        ],
+        "movs_huevo": [
+            "SLEEPTALK",
+            "KNOCKOFF",
+            "FLAIL",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "GOTHITA",
+        "movimientos": [
+            "DOUBLESLAP",
+            "TICKLE",
+            "TELEKINESIS",
+            "POUND",
+            "PSYSHOCK",
+            "EMBARGO",
+            "FAKETEARS",
+            "MAGICROOM",
+            "FLATTER",
+            "HEALBLOCK",
+            "FEINTATTACK",
+            "PSYCHIC",
+            "FUTURESIGHT",
+            "CHARM",
+            "CONFUSION",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "DARKPULSE",
+            "UPROAR",
+            "MIRACLEEYE"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "SOLOSIS",
+        "movimientos": [
+            "WONDERROOM",
+            "RECOVER",
+            "PSYSHOCK",
+            "ROLLOUT",
+            "REFLECT",
+            "ENDEAVOR",
+            "SKILLSWAP",
+            "HEALBLOCK",
+            "LIGHTSCREEN",
+            "PSYCHIC",
+            "PSYWAVE",
+            "HIDDENPOWER",
+            "PAINSPLIT",
+            "SNATCH",
+            "CHARM",
+            "FUTURESIGHT"
+        ],
+        "movs_huevo": [
+            "ASTONISH",
+            "SECRETPOWER",
+            "IMPRISON"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "DUCKLETT",
+        "movimientos": [
+            "HURRICANE",
+            "DEFOG",
+            "WATERSPORT",
+            "AQUARING",
+            "AERIALACE",
+            "RAINDANCE",
+            "BRAVEBIRD",
+            "WATERGUN",
+            "FEATHERDANCE",
+            "TAILWIND",
+            "BUBBLEBEAM",
+            "WINGATTACK",
+            "AIRSLASH",
+            "ROOST",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "MIRRORMOVE",
+            "BRINE",
+            "LUCKYCHANT"
+        ],
+        "grupos_huevo": [
+            "Flying",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "VANILLITE",
+        "movimientos": [
+            "ASTONISH",
+            "ACIDARMOR",
+            "ICYWIND",
+            "TAUNT",
+            "MIRRORSHOT",
+            "MIST",
+            "HAIL",
+            "HARDEN",
+            "ICICLESPEAR",
+            "SHEERCOLD",
+            "AVALANCHE",
+            "BLIZZARD",
+            "UPROAR",
+            "ICEBEAM",
+            "MIRRORCOAT"
+        ],
+        "movs_huevo": [
+            "WATERPULSE",
+            "NATURALGIFT",
+            "IRONDEFENSE",
+            "ICESHARD"
+        ],
+        "grupos_huevo": [
+            "Mineral"
+        ]
+    },
+    {
+        "nombre": "DEERLING",
+        "movimientos": [
+            "DOUBLEEDGE",
+            "SOLARBEAM",
+            "ENERGYBALL",
+            "HORNLEECH",
+            "JUMPKICK",
+            "TACKLE",
+            "GROWL",
+            "MEGAHORN",
+            "CAMOUFLAGE",
+            "TAKEDOWN",
+            "NATUREPOWER",
+            "LEECHSEED",
+            "FEINTATTACK",
+            "SANDATTACK",
+            "AROMATHERAPY",
+            "DOUBLEKICK",
+            "CHARM"
+        ],
+        "movs_huevo": [
+            "BATONPASS",
+            "ODORSLEUTH",
+            "GRASSWHISTLE",
+            "SYNTHESIS"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "EMOLGA",
+        "movimientos": [
+            "SPARK",
+            "QUICKATTACK",
+            "DOUBLETEAM",
+            "VOLTSWITCH",
+            "CHARGE",
+            "ENCORE",
+            "SHOCKWAVE",
+            "ELECTROBALL",
+            "TAILWHIP",
+            "THUNDERSHOCK",
+            "DISCHARGE",
+            "ACROBATICS",
+            "PURSUIT",
+            "AGILITY",
+            "LIGHTSCREEN"
+        ],
+        "movs_huevo": [
+            "ASTONISH",
+            "IRONTAIL",
+            "CHARM",
+            "SHOCKWAVE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "KARRABLAST",
+        "movimientos": [
+            "HEADBUTT",
+            "FLAIL",
+            "FURYATTACK",
+            "IRONHEAD",
+            "SWORDSDANCE",
+            "REVERSAL",
+            "TAKEDOWN",
+            "FALSESWIPE",
+            "ENDURE",
+            "IRONDEFENSE",
+            "SLASH",
+            "BUGBUZZ",
+            "DOUBLEEDGE",
+            "LEER",
+            "QUICKGUARD",
+            "TWINEEDLE",
+            "GIGAIMPACT",
+            "PECK",
+            "SCARYFACE",
+            "XSCISSOR",
+            "FURYCUTTER"
+        ],
+        "movs_huevo": [
+            "COUNTER",
+            "MEGAHORN",
+            "SCREECH",
+            "HORNATTACK"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "FOONGUS",
+        "movimientos": [
+            "ASTONISH",
+            "SPORE",
+            "ABSORB",
+            "RAGEPOWDER",
+            "SWEETSCENT",
+            "INGRAIN",
+            "GROWTH",
+            "FEINTATTACK",
+            "SOLARBEAM",
+            "TOXIC",
+            "MEGADRAIN",
+            "CLEARSMOG",
+            "BIDE",
+            "SYNTHESIS",
+            "GIGADRAIN"
+        ],
+        "movs_huevo": [
+            "GASTROACID",
+            "DEFENSECURL",
+            "STUNSPORE",
+            "POISONPOWDER"
+        ],
+        "grupos_huevo": [
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "FRILLISH",
+        "movimientos": [
+            "ABSORB",
+            "BRINE",
+            "HYDROPUMP",
+            "WATERSPORT",
+            "RAINDANCE",
+            "RECOVER",
+            "BUBBLE",
+            "WATERSPOUT",
+            "OMINOUSWIND",
+            "NIGHTSHADE",
+            "WRINGOUT",
+            "BUBBLEBEAM",
+            "HEX",
+            "WATERPULSE"
+        ],
+        "movs_huevo": [
+            "MIST",
+            "CONFUSERAY",
+            "RECOVER"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "ALOMOMOLA",
+        "movimientos": [
+            "DOUBLESLAP",
+            "POUND",
+            "WISH",
+            "AQUAJET",
+            "BRINE",
+            "HELPINGHAND",
+            "WATERSPORT",
+            "PROTECT",
+            "AQUARING",
+            "WAKEUPSLAP",
+            "HYDROPUMP",
+            "SAFEGUARD",
+            "WATERPULSE",
+            "SOAK",
+            "HEALINGWISH",
+            "HEALPULSE",
+            "WIDEGUARD"
+        ],
+        "movs_huevo": [
+            "PAINSPLIT",
+            "TICKLE",
+            "MIRRORCOAT"
+        ],
+        "grupos_huevo": [
+            "Water2",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "JOLTIK",
+        "movimientos": [
+            "STRINGSHOT",
+            "ELECTROWEB",
+            "BUGBITE",
+            "BUGBUZZ",
+            "SLASH",
+            "SPIDERWEB",
+            "THUNDERWAVE",
+            "LEECHLIFE",
+            "FURYCUTTER",
+            "ELECTROBALL",
+            "AGILITY",
+            "SIGNALBEAM",
+            "SCREECH",
+            "SUCKERPUNCH",
+            "GASTROACID",
+            "DISCHARGE"
+        ],
+        "movs_huevo": [
+            "DISABLE",
+            "PURSUIT",
+            "PINMISSILE"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "FERROSEED",
+        "movimientos": [
+            "IRONHEAD",
+            "PINMISSILE",
+            "INGRAIN",
+            "FLASHCANNON",
+            "POWERWHIP",
+            "ROCKCLIMB",
+            "ROLLOUT",
+            "TACKLE",
+            "CURSE",
+            "MIRRORSHOT",
+            "SELFDESTRUCT",
+            "IRONDEFENSE",
+            "HARDEN",
+            "PAYBACK",
+            "GYROBALL",
+            "EXPLOSION",
+            "METALCLAW"
+        ],
+        "movs_huevo": [
+            "GRAVITY",
+            "WORRYSEED",
+            "SPIKES",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Mineral",
+            "Grass"
+        ]
+    },
+    {
+        "nombre": "ELGYEM",
+        "movimientos": [
+            "WONDERROOM",
+            "HEADBUTT",
+            "GUARDSPLIT",
+            "PSYCHUP",
+            "SIMPLEBEAM",
+            "SYNCHRONOISE",
+            "RECOVER",
+            "POWERSPLIT",
+            "MIRACLEEYE",
+            "GROWL",
+            "ZENHEADBUTT",
+            "HEALBLOCK",
+            "PSYCHIC",
+            "HIDDENPOWER",
+            "CALMMIND",
+            "IMPRISON",
+            "CONFUSION",
+            "PSYBEAM"
+        ],
+        "movs_huevo": [
+            "GUARDSWAP",
+            "BARRIER",
+            "TELEPORT",
+            "POWERSWAP"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "LITWICK",
+        "movimientos": [
+            "MEMENTO",
+            "EMBER",
+            "CONFUSERAY",
+            "WILLOWISP",
+            "HEX",
+            "OVERHEAT",
+            "ASTONISH",
+            "FLAMEBURST",
+            "CURSE",
+            "MINIMIZE",
+            "FIRESPIN",
+            "NIGHTSHADE",
+            "SHADOWBALL",
+            "SMOG",
+            "IMPRISON",
+            "PAINSPLIT",
+            "INFERNO"
+        ],
+        "movs_huevo": [
+            "HAZE",
+            "ACIDARMOR",
+            "CLEARSMOG"
+        ],
+        "grupos_huevo": [
+            "Amorphous"
+        ]
+    },
+    {
+        "nombre": "AXEW",
+        "movimientos": [
+            "SCRATCH",
+            "GUILLOTINE",
+            "SLASH",
+            "LEER",
+            "OUTRAGE",
+            "DRAGONCLAW",
+            "DRAGONDANCE",
+            "TAUNT",
+            "SWORDSDANCE",
+            "ASSURANCE",
+            "FALSESWIPE",
+            "DRAGONRAGE",
+            "DUALCHOP",
+            "SCARYFACE",
+            "GIGAIMPACT",
+            "DRAGONPULSE"
+        ],
+        "movs_huevo": [
+            "NIGHTSLASH",
+            "DRAGONPULSE",
+            "REVERSAL",
+            "ENDURE",
+            "HARDEN"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "CUBCHOO",
+        "movimientos": [
+            "ICICLECRASH",
+            "ICYWIND",
+            "AQUAJET",
+            "THRASH",
+            "SUPERPOWER",
+            "SLASH",
+            "SHEERCOLD",
+            "SWAGGER",
+            "FURYSWIPES",
+            "POWDERSNOW",
+            "REST",
+            "GROWL",
+            "FLAIL",
+            "BRINE",
+            "ENDURE",
+            "HAIL",
+            "BLIZZARD",
+            "BIDE",
+            "CHARM"
+        ],
+        "movs_huevo": [
+            "AVALANCHE",
+            "YAWN",
+            "FOCUSPUNCH",
+            "NIGHTSLASH"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "SHELMET",
+        "movimientos": [
+            "CURSE",
+            "ACIDARMOR",
+            "QUICKATTACK",
+            "SWIFT",
+            "STRUGGLEBUG",
+            "YAWN",
+            "MEFIRST",
+            "GUARDSWAP",
+            "ACIDSPRAY",
+            "POWERSWAP",
+            "FINALGAMBIT",
+            "BODYSLAM",
+            "RECOVER",
+            "BUGBUZZ",
+            "AGILITY",
+            "MEGADRAIN",
+            "BIDE",
+            "LEECHLIFE",
+            "PROTECT",
+            "ACID",
+            "DOUBLETEAM",
+            "GIGADRAIN",
+            "UTURN"
+        ],
+        "movs_huevo": [
+            "GUARDSPLIT",
+            "MUDSLAP",
+            "ENDURE",
+            "DOUBLEEDGE",
+            "SPIKES"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "STUNFISK",
+        "movimientos": [
+            "FLAIL",
+            "CAMOUFLAGE",
+            "MUDBOMB",
+            "MUDDYWATER",
+            "MUDSLAP",
+            "BIDE",
+            "MUDSHOT",
+            "BOUNCE",
+            "THUNDERBOLT",
+            "REVENGE",
+            "ENDURE",
+            "FISSURE",
+            "THUNDERSHOCK",
+            "DISCHARGE",
+            "MUDSPORT"
+        ],
+        "movs_huevo": [
+            "PAINSPLIT",
+            "SLEEPTALK",
+            "SPITE",
+            "CURSE"
+        ],
+        "grupos_huevo": [
+            "Amorphous",
+            "Water1"
+        ]
+    },
+    {
+        "nombre": "MIENFOO",
+        "movimientos": [
+            "DOUBLESLAP",
+            "REVERSAL",
+            "QUICKGUARD",
+            "MEDITATE",
+            "HIGHJUMPKICK",
+            "POUND",
+            "FAKEOUT",
+            "JUMPKICK",
+            "UTURN",
+            "FORCEPALM",
+            "SWIFT",
+            "BOUNCE",
+            "DETECT",
+            "DRAINPUNCH",
+            "CALMMIND",
+            "AURASPHERE",
+            "WIDEGUARD"
+        ],
+        "movs_huevo": [
+            "KNOCKOFF",
+            "MEFIRST",
+            "VITALTHROW",
+            "ENDURE"
+        ],
+        "grupos_huevo": [
+            "Humanlike",
+            "Field"
+        ]
+    },
+    {
+        "nombre": "DRUDDIGON",
+        "movimientos": [
+            "SCARYFACE",
+            "NIGHTSLASH",
+            "CRUNCH",
+            "DRAGONTAIL",
+            "OUTRAGE",
+            "BITE",
+            "SCRATCH",
+            "DRAGONCLAW",
+            "ROCKCLIMB",
+            "REVENGE",
+            "SUPERPOWER",
+            "CHIPAWAY",
+            "HONECLAWS",
+            "SLASH",
+            "LEER",
+            "DRAGONRAGE"
+        ],
+        "movs_huevo": [
+            "FEINTATTACK",
+            "GLARE",
+            "METALCLAW",
+            "SUCKERPUNCH",
+            "PURSUIT"
+        ],
+        "grupos_huevo": [
+            "Monster",
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "PAWNIARD",
+        "movimientos": [
+            "IRONHEAD",
+            "SCRATCH",
+            "GUILLOTINE",
+            "SLASH",
+            "LEER",
+            "FURYCUTTER",
+            "EMBARGO",
+            "METALBURST",
+            "TORMENT",
+            "SWORDSDANCE",
+            "METALSOUND",
+            "ASSURANCE",
+            "IRONDEFENSE",
+            "FEINTATTACK",
+            "SCARYFACE",
+            "METALCLAW",
+            "NIGHTSLASH"
+        ],
+        "movs_huevo": [
+            "STEALTHROCK",
+            "PURSUIT",
+            "MEANLOOK"
+        ],
+        "grupos_huevo": [
+            "Humanlike"
+        ]
+    },
+    {
+        "nombre": "BOUFFALANT",
+        "movimientos": [
+            "GIGAIMPACT",
+            "SCARYFACE",
+            "HEADCHARGE",
+            "MEGAHORN",
+            "FURYATTACK",
+            "RAGE",
+            "REVERSAL",
+            "SWORDSDANCE",
+            "FOCUSENERGY",
+            "THRASH",
+            "REVENGE",
+            "LEER",
+            "PURSUIT",
+            "HORNATTACK"
+        ],
+        "movs_huevo": [
+            "HEADBUTT",
+            "MUDSHOT",
+            "STOMP",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "VULLABY",
+        "movimientos": [
+            "BONERUSH",
+            "DEFOG",
+            "LEER",
+            "TAILWIND",
+            "MIRRORMOVE",
+            "AIRSLASH",
+            "EMBARGO",
+            "WHIRLWIND",
+            "FURYATTACK",
+            "BRAVEBIRD",
+            "FLATTER",
+            "GUST",
+            "PLUCK",
+            "FEINTATTACK",
+            "NASTYPLOT",
+            "PUNISHMENT",
+            "DARKPULSE"
+        ],
+        "movs_huevo": [
+            "SCARYFACE",
+            "FAKETEARS",
+            "MEANLOOK"
+        ],
+        "grupos_huevo": [
+            "Flying"
+        ]
+    },
+    {
+        "nombre": "HEATMOR",
+        "movimientos": [
+            "SPITUP",
+            "FLAMETHROWER",
+            "ODORSLEUTH",
+            "LICK",
+            "INCINERATE",
+            "FIRESPIN",
+            "SNATCH",
+            "BUGBITE",
+            "AMNESIA",
+            "FURYSWIPES",
+            "SWALLOW",
+            "INFERNO",
+            "SLASH",
+            "BIND",
+            "STOCKPILE",
+            "FLAMEBURST"
+        ],
+        "movs_huevo": [
+            "CURSE",
+            "SUCKERPUNCH",
+            "WRAP",
+            "PURSUIT",
+            "HEATWAVE"
+        ],
+        "grupos_huevo": [
+            "Field"
+        ]
+    },
+    {
+        "nombre": "DURANT",
+        "movimientos": [
+            "SANDATTACK",
+            "METALCLAW",
+            "CRUNCH",
+            "XSCISSOR",
+            "ENTRAINMENT",
+            "IRONHEAD",
+            "BITE",
+            "METALSOUND",
+            "VICEGRIP",
+            "FURYCUTTER",
+            "GUILLOTINE",
+            "BUGBITE",
+            "IRONDEFENSE",
+            "DIG",
+            "AGILITY"
+        ],
+        "movs_huevo": [
+            "THUNDERFANG",
+            "ENDURE",
+            "ROCKCLIMB"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    },
+    {
+        "nombre": "DEINO",
+        "movimientos": [
+            "HEADBUTT",
+            "DRAGONBREATH",
+            "FOCUSENERGY",
+            "SLAM",
+            "ROAR",
+            "BODYSLAM",
+            "CRUNCH",
+            "OUTRAGE",
+            "TACKLE",
+            "BITE",
+            "DOUBLEHIT",
+            "DRAGONRAGE",
+            "SCARYFACE",
+            "DRAGONPULSE",
+            "WORKUP",
+            "HYPERVOICE",
+            "DRAGONRUSH"
+        ],
+        "movs_huevo": [
+            "ASTONISH",
+            "THUNDERFANG",
+            "FIREFANG",
+            "DOUBLEHIT",
+            "ICEFANG"
+        ],
+        "grupos_huevo": [
+            "Dragon"
+        ]
+    },
+    {
+        "nombre": "LARVESTA",
+        "movimientos": [
+            "HURRICANE",
+            "STRINGSHOT",
+            "EMBER",
+            "FIERYDANCE",
+            "RAGEPOWDER",
+            "TAKEDOWN",
+            "THRASH",
+            "QUIVERDANCE",
+            "FIRESPIN",
+            "BUGBITE",
+            "FLAREBLITZ",
+            "FLAMECHARGE",
+            "BUGBUZZ",
+            "DOUBLEEDGE",
+            "FLAMEWHEEL",
+            "HEATWAVE",
+            "GUST",
+            "LEECHLIFE",
+            "SILVERWIND",
+            "AMNESIA",
+            "WHIRLWIND"
+        ],
+        "movs_huevo": [
+            "STRINGSHOT",
+            "MAGNETRISE",
+            "FORESIGHT"
+        ],
+        "grupos_huevo": [
+            "Bug"
+        ]
+    }
+]

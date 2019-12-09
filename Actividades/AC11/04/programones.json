@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Butterfree",
+        "numero": 12
+    },
+    {
+        "nombre": "Charmander",
+        "numero": 4
+    },
+    {
+        "nombre": "Ekanz",
+        "numero": 23
+    },
+    {
+        "nombre": "Bulbasaur",
+        "numero": 1
+    },
+    {
+        "nombre": "Pidgeot",
+        "numero": 18
+    },
+    {
+        "nombre": "Squirtle",
+        "numero": 7
+    },
+    {
+        "nombre": "Pikachu",
+        "numero": 25
+    }
+]
